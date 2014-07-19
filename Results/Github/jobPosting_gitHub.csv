@@ -1,0 +1,1725 @@
+title,location,type,description,company,how_to_apply
+Python Web Application Developer,"Chicago, IL",Full Time,"<p><b>Spot Trading LLC </b> is a technology-driven proprietary trading firm based in Chicago’s financial district.  Founded in 1999, the firm has grown to be a leading liquidity provider and market-maker for the U.S. exchange-listed equity options markets.  Our unique culture deploys a highly integrated model, where traders, quantitative analysts, equity analysts and technologists work closely together to capitalize on pricing opportunities in the options, commodities and futures markets.  Spot has developed an innovative and scalable trading platform that promotes collaboration, manages firm-wide risk and uses proprietary technology to enable high performance and a trading edge.  We have been recognized as one of the “National Best and Brightest Companies to Work For”TM by the National Association for Business Resources for the past three years and in 2013 named one of Chicago’s Top Workplaces by the Chicago Tribune.</p>
+
+<p><b>Summary </b></p>
+
+<p>Do you want to join a team of developers who are trying to solve hard problems in the financial industry? We provide Spot with next-generation trading technology that enables traders, quants, research analysts and other developers to trade in the ultra-competitive high-frequency trading space.</p>
+
+<p><b>What are some examples of things that we work on? </b></p>
+
+<ul>
+<li>We have developed near real-time reconciliation tools for trade comparisons</li>
+<li>We are building systems to support 24-hour uptime</li>
+<li>We are evolving our systems to become event-driven and becoming fully automated</li>
+<li>We are building self-monitoring and reporting systems</li>
+<li>We are developing a web platform to allow access to our low-latency backend systems from anywhere</li>
+</ul>
+
+<p><b>We are looking for someone with the following skillset:</b></p>
+
+<ul>
+<li>Server-side coding experience with a solid background in in data structures, algorithms, and object-oriented programming</li>
+<li>Excellent knowledge of Python</li>
+<li>Visual / UI design experience (Bootstrap and/or similar)</li>
+<li>Excellent knowledge of JavaScript including AJAX, jQuery and CoffeeScript</li>
+<li>Experience with MVC frameworks such as Knockout, AngularJS, or Backbone.js</li>
+<li>Experience with writing unit tests (Mocha, Karmaa, Jasmine, qUnit, Funcunit or similar)</li>
+<li>Experience with both RDBMS and NoSQL systems</li>
+</ul>
+
+<p><b>Things that would really peak our interest:</b></p>
+
+<ul>
+<li>A portfolio of work we can take a look at</li>
+<li>Websockets: sockjs, socket.io, or similar</li>
+<li>Experience with reverse proxy / DNS systems</li>
+<li>Prior experience with distributed real-time search and analytics engines (i.e. ElasticSearch), </li>
+<li>Prior experience with data-visualization tools (i.e. Kibana, Graphite)</li>
+<li>Prior experience with authentication and security</li>
+</ul>
+
+<p><b>Benefits</b></p>
+
+<p>Spot provides a wide variety of competitive programs designed to enhance the health and well-being of our employees and their families. Our benefits include: medical, dental, vision, 401k/Roth, pre-tax commuter and health benefits, complimentary breakfast and lunch, gym reimbursements, and regular social events, to name a few.</p>
+",Spot Trading LLC,"<p>Apply directly at <a href=""http://www.spottradingllc.com/careers"">www.spottradingllc.com/careers</a></p>
+"
+Senior Software Engineer,"Washington, DC",Full Time,"<p>Performance Technologies
+<a href=""http://www.advisory.com"">www.advisory.com</a></p>
+
+<p><strong>Role in Brief</strong>
+The Senior Software Engineer (Java/J2EE) will be a member of the Advisory Board&#39;s Performance Technologies Software Product Development team and will be deeply involved in the full product life cycle of multiple applications and the supporting data architecture. The Senior Software Engineer will be a part of a team working on developing the next generation of technology for the health care industry.</p>
+
+<p>There are currently 3 openings; 2 based in Washington, D.C. and 1 in Vernon Hills, IL</p>
+
+<p><strong>What You’ll Be Doing:</strong></p>
+
+<ul>
+<li>      Working with product managers and other stakeholders to get clarification on business requirements and then implementing solutions including code development and database design</li>
+<li>      Ensuring high quality solutions by implementing unit tests and supporting the creation and design of integration, load and user acceptance tests</li>
+<li>      Support operations by identifying, researching and resolving performance and production issues</li>
+</ul>
+
+<p><strong>Must Haves:</strong></p>
+
+<ul>
+<li>      Bachelor’s degree</li>
+<li>      5+ years of experience with one or more of the following web frameworks: Java/J2EE, .NET, RoR, GoG or Django</li>
+<li>      2+ years of experience working with relational or multi-dimensional databases.</li>
+<li>      2+ years of experience working with data models for business intelligence and decision support systems</li>
+<li>      Basic knowledge of SQL </li>
+<li>Database application or ETL development</li>
+<li>Development in a UNIX or Windows environment</li>
+<li>Experience with OOD, UML modeling tools and the use of design patterns </li>
+<li>Proficiency in object oriented analysis, design, and programming. Experience with design patterns and tiered architecture.</li>
+<li>  Clear understanding of the MVC pattern and RESTful architectural style.</li>
+<li>  Able to leverage proven and emerging frameworks (Spring, EJB, JSF, etc.), continuous integration, and other best of breed practices and technologies.</li>
+<li>  Working knowledge of Persistence frameworks such as EclipseLink or Hibernate</li>
+<li>  Strong experience with JDBC, SQL and RDBMS</li>
+</ul>
+
+<p><strong>Even Better:</strong></p>
+
+<ul>
+<li>      Experience working in an Agile environment</li>
+<li>      Experience developing software in a commercial software product development environment</li>
+<li>      Develop logical and physical data models that document source data from multiple sources (Client’s internal data systems, external source data systems, 3rd Party Data etc.).</li>
+<li>      Ability to provide analysis and problem solving skills.</li>
+<li>      Experience working with relational or multi-dimensional data in reporting or analytic infrastructures.</li>
+<li>      Bachelor’s or Master’s degree in Computer Science or Computer Engineering</li>
+<li>      Ability to communicate with business and technical teams both orally and written</li>
+<li>      UNIX development using Solaris</li>
+<li>      Experience with development of applications in Java/J2EE platform using core Java utilizing Hibernate and web frameworks like Spring-MVC</li>
+<li>      Experience with one or more scripting languages (Shell, Perl, Python, PHP...Etc.)</li>
+<li>      Experience with development of AJAX based rich client using Javascript and JQuery</li>
+<li>      Experience with distributed Source Code Management tools (SCM), GIT preferred</li>
+<li>      Must possess desire to learn new technologies. Ability to learn quickly.</li>
+<li>      Must possess strong communications skills, both written and oral. Ability to articulate technical viewpoints to team members and clients.</li>
+<li>      Must be a self-starter/self-reliant to define strategies and work collaboratively to harden/publish strategies. Able to work independently, take ownership of tasks and deliver high quality products and customer services</li>
+</ul>
+
+<p><strong>Perks (A Few Of Many):</strong></p>
+
+<ul>
+<li>  Medical, dental, and vision insurance, dependents eligible</li>
+<li>  401(k) retirement plan with company match </li>
+<li>  20+ days paid time off and 10+ paid company holidays</li>
+<li>  Daytime leave policy for community service (up to 10 hours a month)</li>
+<li>  Wellness programs including gym discounts and incentives to promote healthy living</li>
+<li>  Dynamic growth opportunities with merit-based promotion philosophy </li>
+<li>  Benefits kick in day one, see the full details here</li>
+</ul>
+
+<p><strong>About Us</strong>
+The Advisory Board Company (NASDAQ: ABCO) is a global technology, research and consulting firm partnering with 150,000 leaders in 3,700+ organizations across health care and higher education.  We combine the expertise of our 2,200+ employees around the world to find solutions to the most pressing challenges in health care. Our performance technology products offer user-friendly, Web-enabled dashboard platforms with tremendous analytic capabilities that generate more than $500 million in realized value annually for our members. These solutions focus on strategically important areas, including physician alignment, revenue cycle, accountable care, and surgical profitability. We thrive on innovation and the knowledge that we are creating real change in an industry that matters to everyone. </p>
+
+<p><strong>Connect with Us</strong>
+Facebook
+LinkedIn
+Careers Twitter
+Company Twitter
+Community Impact Twitter</p>
+
+<p><em>We are an Affirmative Action and Equal Opportunity Employer.</em></p>
+",The Advisory Board Company,"<p>Submit your resume @ <a href=""https://corporate-advisory.icims.com/jobs/8283/senior-software-engineer/job"">https://corporate-advisory.icims.com/jobs/8283/senior-software-engineer/job</a></p>
+"
+Developer Advocate,"New York, NY, US",Full Time,"<p><a href='http://www.jobscore.com/jobs/orchestrate/list'><img src='https://jobscore-assets.s3.amazonaws.com/account_logos/logo_d9p-E-UUur45CdiGak6IKg.gif' /></a><br /><h2>Role Description</h2><p>The person in this role <em>must</em> be hyper critical of what it takes to make a good developer experience and then have the talent and ambition to make what&#39;s wrong, right. This role should be vocal and opinionated in (and about) the developer community. Responding to conference call for speakers is fun and exciting. Hopping on a plane for a conference to be a social butterfly (not a booth worker), should excite this person.  Writing blog and social posts should be like breathing. Creating content means writing code or benchmarks and getting it out in front of people to talk about it. The Developer Advocate will want to write API documentation, make it look good, and usable.</p><h2>Responsibilities</h2><ul><li>Propose speaking engagements to conferences and events</li>    <li>Maintain social presence - virtually and IRL</li>   <li>Write blog posts with technical content (code, benchmarks, programming or data-oriented details)</li>   <li>Writing and maintaining API documentation (and the tools to build it)</li> <li>Work cross functionally with the executives, marketing team, and engineering team</li></ul><h2>Requirements</h2><ul><li>Experience with public speaking</li>    <li>Fluent in numerous programming languages</li>   <li>Experience creating technical content such as blog posts with code samples and benchmarks</li>  <li>Passion for developer experience and the programming community</li></ul><h2>Preferred</h2><ul><li>Experience with various NoSQL databases</li>  <li>Active in the NYC Area developer communities</li></ul><h2>Location</h2><p>This role is for a remote employee based in NYC area. The company is headquartered in Portland, Oregon, but</p><h2>How to Apply</h2><p>Send us what you think will help us get to know you better (resume, github, etc) and note telling us what kind of projects you love to work on and why you would want to work at Orchestrate</p> <img src=""https://www.applytracking.com/track.aspx/5Ot7Z""/></p>
+",Orchestrate,"<p><a href=""https://www.applytracking.com/track.aspx/5Ot7j"">https://www.applytracking.com/track.aspx/5Ot7j</a></p>
+"
+Developer Advocate,"San Francisco, CA, US",Full Time,"<p><a href='http://www.jobscore.com/jobs/orchestrate/list'><img src='https://jobscore-assets.s3.amazonaws.com/account_logos/logo_d9p-E-UUur45CdiGak6IKg.gif' /></a><br /><h2>Role Description</h2><p>The person in this role <em>must</em> be hyper critical of what it takes to make a good developer experience and then have the talent and ambition to make what&#39;s wrong, right. This role should be vocal and opinionated in (and about) the developer community. Responding to conference call for speakers is fun and exciting. Hopping on a plane for a conference to be a social butterfly (not a booth worker), should excite this person.  Writing blog and social posts should be like breathing. Creating content means writing code or benchmarks and getting it out in front of people to talk about it. The Developer Advocate will want to write API documentation, make it look good, and usable.</p><h2>Responsibilities</h2><ul><li>Propose speaking engagements to conferences and events</li>    <li>Maintain social presence - virtually and IRL</li>   <li><span style=""line-height: 1.2;"">Write blog posts with technical content (code, benchmarks, programming or data-oriented details)</span></li>    <li><span style=""line-height: 1.2;"">Writing and maintaining API documentation (and the tools to build it)</span></li>  <li>Work cross functionally with the executives, marketing team, and engineering team</li></ul><h2>Requirements</h2><ul><li>Experience with public speaking</li>    <li>Fluent in numerous programming languages</li>   <li><span style=""line-height: 1.2;"">Experience creating technical content such as blog posts with code samples and benchmarks</span></li>   <li><span style=""line-height: 1.2;"">Passion for developer experience and the programming community</span></li></ul><h2>Preferred</h2><ul><li>Experience with various NoSQL databases</li>   <li>Active in the Bay Area developer communities</li></ul><h2>Location</h2><p>This role is for a remote employee based in San Francisco. The company is headquartered in Portland, Oregon, but</p><h2>How to Apply</h2><p>Send us what you think will help us get to know you better (resume, github, etc) and note telling us what kind of projects you love to work on and why you would want to work at Orchestrate</p><p> </p> <img src=""https://www.applytracking.com/track.aspx/5OsuV""/></p>
+",Orchestrate,"<p><a href=""https://www.applytracking.com/track.aspx/5Osuf"">https://www.applytracking.com/track.aspx/5Osuf</a></p>
+"
+iOS Software Developer,"Glendale, Ca",Full Time,"<p>mobileforming, LLC, a rapidly growing mobile app development startup based in Glendale, California, is looking for an iOS Software Developer to join our team. Our ideal candidate is innovative, resourceful and passionate about mobile products. He/she is meticulous, yet comfortable and productive working in a fast-paced Agile environment.</p>
+
+<p>This candidate will be a key contributor to our iOS group, creating hospitality and experience-focused mobile applications for Fortune 500 clients. Engineering works closely with Product, QA, and UX, so candidates for this position should have strong people skills as they will be active participants in scoping projects, design sessions, and code reviews.</p>
+
+<p>Experience:</p>
+
+<ul>
+<li><p>2+ Years experience of mobile app development</p></li>
+<li><p>Success shipping at least one iOS app to the App Store</p></li>
+<li><p>A degree in Computer Science or related field is preferred</p></li>
+</ul>
+
+<p>Technology Competencies:</p>
+
+<ul>
+<li><p>Basic Data Structures &amp; Algorithm knowledge and understanding</p></li>
+<li><p>C &amp; Objective C</p></li>
+<li><p>Xcode (Interface Builder, Instruments)</p></li>
+<li><p>Test Driven Development</p></li>
+<li><p>UIKit / Core Animation</p></li>
+<li><p>Understanding of KVO concepts</p></li>
+<li><p>Understanding of Web Service concepts</p></li>
+</ul>
+
+<p>Strong Candidates will have:</p>
+
+<ul>
+<li><p>Knowledge of iOS7</p></li>
+<li><p>Strong Core Data knowledge</p></li>
+<li><p>Fluent in Design Patterns</p></li>
+<li><p>Strong Core Animation knowledge</p></li>
+<li><p>Strong knowledge of the URL Loading System provided by iOS</p></li>
+</ul>
+
+<p>Why work for mobileforming? </p>
+
+<ul>
+<li>Competitive salary (commensurate with experience), great bonus potential and benefits (health insurance, paid holidays, sick days &amp; PTO) </li>
+<li>Exceptional career growth opportunities </li>
+<li>Work with a smart, diverse and driven team that&#39;s been developing mobile software since 2003. </li>
+<li>Casual office atmosphere, in-house yoga 2x/week &amp; frequent company outings (K1 Go Kart Racing and Medieval Times trips are planned for Summer 2014) </li>
+</ul>
+
+<p><strong>This is an on-site position. Please no telecommuting.</strong></p>
+",mobileforming LLC,"<p>Please email your resume and cover letter (if desired) to <a href=""mailto:recruiter@mobileforming.com"">recruiter@mobileforming.com</a></p>
+
+<p><strong>Principals only, no recruiters please.</strong>
+<strong>No phone calls please. All submissions will be reviewed.</strong></p>
+"
+Senior/Lead iOS Engineer (Relocation available),"Santa Monica, CA ",Full Time,"<p>** Please use the following link to apply: <a href=""http://hire.jobvite.com/j/?cj=o87cZfwa&amp;s=GitHub_Jobs"">http://hire.jobvite.com/j/?cj=o87cZfwa&amp;s=GitHub_Jobs</a></p>
+
+<p>Are you the engineer your peers go to with their hardest problems when they’re stumped? Then you’re the only kind we hire. That’s one of the secrets to LIVESTRONG.COM’s rapid growth to become the largest food and fitness site on the web, with tens of millions of monthly visitors. Come see what it’s like to take on high-impact projects every day on popular apps, in an environment buzzing with smart people who understand and respect what you do. We combine the stability and resources of a successful company with the relaxed atmosphere of a startup and the mindset to stay agile as we grow.</p>
+
+<p>Mobile apps and gadgets/wearables are exploding in the health and fitness space, as confirmed by the recent announcement of HealthKit. LIVESTRONG.COM has a big head start: a huge base of committed users to give great apps the right exposure to take off. We’re looking for a mobile app developer to lead the development and maintenance of our mobile apps. The developer will work closely with the business owners, product management and the LIVESTRONG.COM engineering team during the entire product lifecycle, from concept to delivery and post launch support. </p>
+
+<p>Responsibilities:</p>
+
+<ul>
+<li>Work with the Livestrong.com engineering team and product management team to conceptualize, build, test and release apps</li>
+<li>Work alongside the web developers to create and maintain a robust framework to support the apps</li>
+<li>Work directly with developers and product managers throughout the entire app life cycle from concept, design, development, testing and release</li>
+<li>Build prototypes at tech scoping stage of projects</li>
+<li>Keep up to date on the latest industry trends in the mobile technologies</li>
+</ul>
+
+<p>Requirements: </p>
+
+<ul>
+<li>4+ years of iOS application development experience</li>
+<li>Experience with mobile APIs and frameworks</li>
+<li>Expert in Objective C</li>
+<li>Experience with JSON and XML</li>
+<li>Experience building complex apps that have been successfully released to the marketplace</li>
+<li>Fundamentals in object-oriented design, data structures, algorithm design, problem solving and complexity analysis</li>
+<li>Self-starter; oriented towards over-delivering to expectations instead of delivering / meeting expectations</li>
+<li>Must be a committed team player and able to work independently with minimal guidance</li>
+<li>Ability to work and thrive in a fast pace environment where business priorities can change quickly</li>
+<li>Exceptional analytical aptitude and attention to deal</li>
+<li>Good organizational and problem solving skills</li>
+<li>Strong verbal and written communication skills</li>
+<li>Strong passion for learning and creating new products and features</li>
+<li>Experience with Git or version control systems</li>
+</ul>
+",Demand Media,"<p>** Please use the following link to apply: <a href=""http://hire.jobvite.com/j/?cj=o87cZfwa&amp;s=GitHub_Jobs"">http://hire.jobvite.com/j/?cj=o87cZfwa&amp;s=GitHub_Jobs</a></p>
+"
+Senior/Lead Android Engineer (relocation available),"Santa Monica, CA",Full Time,"<p>**Please use the following link to apply: <a href=""http://hire.jobvite.com/j/?cj=oLYBYfw2&amp;s=GitHub_Jobs"">http://hire.jobvite.com/j/?cj=oLYBYfw2&amp;s=GitHub_Jobs</a></p>
+
+<p>Are you the engineer your peers go to with their hardest problems when they’re stumped? Then you’re the only kind we hire. That’s one of the secrets to LIVESTRONG.COM’s rapid growth to become the largest food and fitness site on the web, with tens of millions of monthly visitors. Come see what it’s like to take on high-impact projects every day on popular apps, in an environment buzzing with smart people who understand and respect what you do. We combine the stability and resources of a successful company with the relaxed atmosphere of a startup and the mindset to stay agile as we grow.</p>
+
+<p>Mobile apps and gadgets/wearables are exploding in the health and fitness space, as confirmed by the recent announcement of Google Fit. LIVESTRONG.COM has a big head start: a huge base of committed users to give great apps the right exposure to take off. We’re looking for a mobile app developer to lead the development and maintenance of our mobile apps. The developer will work closely with the business owners, product management and the LIVESTRONG.COM engineering team during the entire product lifecycle, from concept to delivery and post launch support. </p>
+
+<p>Responsibilities:</p>
+
+<p>Work with the Livestrong.com engineering team and product management team to conceptualize, build, test and release apps
+Work alongside the web developers to create and maintain a robust framework to support the apps
+Work directly with developers and product managers throughout the entire app life cycle from concept, design, development, testing and release
+Build prototypes at tech scoping stage of projects
+Keep up to date on the latest industry trends in the mobile technologies</p>
+
+<p>Requirements:</p>
+
+<p>4+ years of Android mobile application development experience
+Experience with mobile APIs and frameworks
+Expert in Java programming and architecture
+Experience with JSON and XML
+Experience building complex apps that have been successfully released to the marketplace
+Fundamentals in object-oriented design, data structures, algorithm design, problem solving and complexity analysis
+Self-starter; oriented towards over-delivering to expectations instead of delivering / meeting expectations
+Must be a committed team player and able to work independently with minimal guidance
+Ability to work and thrive in a fast pace environment where business priorities can change quickly
+Exceptional analytical aptitude and attention to deal
+Good organizational and problem solving skills
+Strong verbal and written communication skills
+Strong passion for learning and creating new products and features
+Experience with Git or version control systems</p>
+",Demand Media,"<p>**Please use the following link to apply: <a href=""http://hire.jobvite.com/j/?cj=oLYBYfw2&amp;s=GitHub_Jobs"">http://hire.jobvite.com/j/?cj=oLYBYfw2&amp;s=GitHub_Jobs</a></p>
+"
+Sr Software Engineer (Fullstack)- Society6.com,"Santa Monica, CA",Full Time,"<p>** Please use the following link to apply: <a href=""http://hire.jobvite.com/j/?cj=oIKcZfwn&amp;s=GitHub_Jobs"">http://hire.jobvite.com/j/?cj=oIKcZfwn&amp;s=GitHub_Jobs</a></p>
+
+<p>Society6.com is an e-Commerce site and platform whose goal is to empower its huge community of digital artists to create and sell art online thru various product offerings.  The Society6 stack is built using PHP, MySQL, MongoDB and the latest HTML/CSS technologies.  It is hosted on Amazon Web Services leveraging EC2, S3, RDS, and CloudFront.  Society6.com serves over a million of page views per day and our servers process thousands of requests per second. Our team of developers ship code when ready and utilize agile development methodologies.  Code is always changing and while we rely heavily on engineers to test their own code we utilize a combination of black box testing and heavy automation to minimize negative impact to the business.</p>
+
+<p>If you&#39;re a talented full stack engineer, love the front end as well as the back, we want you to join our engineering team!</p>
+
+<p>Responsibilities:</p>
+
+<ul>
+<li>Work with a team of high level dedicated developers in the creation of our next generation platform and tools for artists, mobile optimized sites, and enhancing the e-Commerce platform.</li>
+<li>Maintain responsibility to develop our high-profile web 2.0 social networking, content management and distribution systems using PHP in a LAMP stack.</li>
+<li>Design and code new application features and functionality, writing API’s, scalability, and maintainability improvements.</li>
+<li>Utilize knowledge about design patterns—MVC, ORM, and Factories, as well as understanding of front-end web technology including Javascript, HTML, CSS and AJAX to create social media platform.</li>
+</ul>
+
+<p>Requirements:</p>
+
+<ul>
+<li>Bachelor&#39;s degree in CS or equivalent experience</li>
+<li>5+ years experience in designing, developing and delivering engaging user experiences on customer web sites and portals</li>
+<li>Strong experience and advanced knowledge of PHP, mySQL, CSS3, HTML5, Javascript.  Other technologies such as NodeJS, AngularJS, Python, MongoDB, and Redis are a plus.</li>
+<li>Must be able to gather requirements, design, code and test independently as well as work jointly with the team</li>
+<li>Ability to develop, maintain and optimize secure and scalable multi-tier web applications in an agile environment.</li>
+</ul>
+",Demand Media,"<p>** Please use the following link to apply: <a href=""http://hire.jobvite.com/j/?cj=oIKcZfwn&amp;s=GitHub_Jobs"">http://hire.jobvite.com/j/?cj=oIKcZfwn&amp;s=GitHub_Jobs</a></p>
+"
+JavaScript Developer (Web Apps),"Toronto, ON, CA",Full Time,"<p><h3>About Us:</h3><p>ZenBanx, Inc. is a financial services technology firm poised to change the world of international money transfers, and we’re looking for a talented and self-motivated JavaScript Developer (Web Apps). Our candidate will be responsible for developing, testing, implementing, and maintaining JavaScript-based applications, such as WebCSR, and others as necessary. This role interacts closely with Security and Product to define, capture and deliver an excellent customer experience via the web. </p><p>We seek an individual who thrives in a dynamic, technically challenging and innovative environment, seeking to be at the forefront of a turning point in the way money moves across borders. ZenBanx, Inc. has assembled a team with an undeniably impressive pedigree in the online banking industry, on a mission to put the power to move funds around the world back in the hands of customers, and we’re seeking someone to help bring our vision to life, possibly you!</p><h3>Responsibilities:</h3><ul><li>Designs, develops and delivers new capabilities to our web-based call-center application platform using JavaScript and Java-related applications.</li>  <li>​Facilitates testable designs and quality software internally for our Customer Care, Operations and Fraud teams.</li> <li>Innovates in alignment with our business vision and customer requirements.</li> <li>Provides user support and training when required.</li>  <li>Collaborates with client support, call center employees, and produce management to design web applications for payments and banking functions.</li> <li>Works alongside the Product Development Team to present new ideas, manage existing sites, and provide technical solutions whenever a problem occurs.</li>   <li>Resolves technical issues through debugging, research, and investigation.</li>  <li>Troubleshoots system problems and issues and looks for ways to improve our applications.</li>   <li>Addresses web service issues and ensure service levels meet ZenBanx standards.</li> <li>Follows approved life cycle methodologies, creates design documents, and performs program coding and testing.</li>  <li>Prepares reports by collecting, analyzing information and giving presentations when needed.</li>    <li>Some travel nationally may be required.</li>    <li>Fosters a culture of creativity, collaboration, speed, innovation, excellence and a fun work environment.</li>  <li>Works effectively across the organization to maximize company resources.</li>   <li>Creates a productive and healthy work/life balance. Effectively manages stress, fosters a flexible work environment, and keeps the team focused, engaged, productive, and fulfilled.</li></ul><h3>Requirements:</h3><ul><li>Bachelor’s Degree in Computer Science or related field required.</li> <li>​3-5 years of commercial software development experience with JavaScript, preferably for banking or financial services. Experience supporting and integrating 3rd party applications is ideal.</li>   <li>Strong understanding and experience with SQL and various web page development a must.</li>  <li>Experience in enterprise system integration using JavaScript for both internal and external systems.</li>   <li>Experienced with Struts, Spring, and other page development framework.</li> <li>Good time and project management skills, and the ability to work with all levels within the organization in a collaborative manner.</li>   <li>Good communication and presentation skills are required.  Must be able to establish peer relationships and communicate effectively with multiple company disciplines, cross-functional, and external teams.</li> <li>Proven track record of effectively working with team members both locally and remotely.</li>    <li>Excellent interpersonal, organizational and negotiation skills are required.</li></ul><h3>Bonus Points:</h3><ul><li>Excellent critical thinking and problem solving skills.</li>    <li>Detail-oriented and process-oriented approach.</li> <li>Accepts responsibility, ownership, and accountability for work results.</li>    <li>Finds a high-volume, dynamic, and team work environment engaging.</li>  <li>Ability to organize and prioritize workload.</li></ul><h3>Perks:</h3><ul><li>There is limitless growth potential within our organization, and the experience – whether you have a long career with us or elsewhere – will add eye-popping bullet points to your resume.</li></ul> <img src=""https://www.applytracking.com/track.aspx/5Oom3""/></p>
+",ZenBanx,"<p><a href=""https://www.applytracking.com/track.aspx/5OomD"">https://www.applytracking.com/track.aspx/5OomD</a></p>
+"
+Java Services Developer,"Toronto, ON, CA",Full Time,"<p><h3>About Us:</h3><p>ZenBanx, Inc. is a financial services technology firm poised to change the world of international money transfers, and we’re looking for a talented and self-motivated Java Services Developer. Our candidate will be responsible for developing, testing, implementing, and maintaining Java-based application systems.  This role interacts closely with Security and Product Development to define, capture and deliver an excellent customer experience via the web.</p><p>We seek an individual who thrives in a dynamic, technically challenging and innovative environment, seeking to be at the forefront of a turning point in the way money moves across borders. ZenBanx, Inc. has assembled a team with an undeniably impressive pedigree in the online banking industry, on a mission to put the power to move funds around the world back in the hands of customers, and we’re seeking someone to help bring our vision to life, possibly you!</p><h3>Responsibilities:</h3><ul><li>Designs, develops and delivers new capabilities to our platform using Java and Java-related applications.</li>  <li>​Facilitates testable designs and quality software.</li>  <li>Innovates in alignment with our business vision and customer requirements.</li> <li>Provides user support and training when required.</li>  <li>Works closely with all teams to design web applications for payments.</li>  <li>Collaborates with the Product Development Team to present new ideas, manage existing sites, and provide technical solutions whenever a problem occurs.</li> <li>Resolves technical issues through debugging, research, and investigation.</li>  <li>Troubleshoots system problems and issues and looks for ways to improve our applications.</li>   <li>Addresses web service issues and ensure service levels meet ZenBanx standards.</li> <li>Follows approved life cycle methodologies, creates design documents, and performs program coding and testing.</li>  <li>Prepares reports by collecting and analyzing information, and giving presentations when needed.</li>    <li>Some travel nationally may be required.</li>    <li>Fosters a culture of creativity, collaboration, speed, innovation, excellence and a fun work environment.</li>  <li>Works effectively across the organization to maximize company resources.</li>   <li>Creates a productive and healthy work/life balance. Effectively manages stress, fosters a flexible work environment, and keeps the team focused, engaged, productive, and fulfilled.</li></ul><h3>Requirements:</h3><ul><li>Bachelor’s Degree in Computer Science or related field required.</li> <li>​3-5 years of commercial software development experience with Java (J2EE) and Java server side development using Eclipse, preferably for banking or financial services. Experience supporting and integrating 3rd party applications is ideal.</li>   <li>Strong understanding of the Spring framework and Restful web services concepts and development.</li>    <li>In-depth knowledge of relational database and database programming interfaces in general.</li>  <li>Experience in enterprise system integration using Java for both internal and external systems.</li> <li>Time and project management skills, and the ability to work with all levels within the organization in a collaborative manner.</li>    <li>Good communication and presentation skills are required.  Must be able to establish peer relationships and communicate effectively with multiple company disciplines, cross-functional, and external teams.</li> <li>Proven track record of effectively working with team members both locally and remotely.</li>    <li>Excellent interpersonal, organizational and negotiation skills are required.</li></ul><h3>Bonus Points:</h3><ul><li>Excellent critical thinking and problem solving skills.</li>    <li>Detail-oriented and process-oriented approach.</li> <li>Accepts responsibility, ownership, and accountability for work results.</li>    <li>Finds a high-volume, dynamic, and team work environment engaging.</li>  <li>Ability to organize and prioritize workload.</li></ul><h3>Perks:</h3><ul><li>There is limitless growth potential within our organization, and the experience – whether you have a long career with us or elsewhere – will add eye-popping bullet points to your resume.</li></ul> <img src=""https://www.applytracking.com/track.aspx/5OohX""/></p>
+",ZenBanx,"<p><a href=""https://www.applytracking.com/track.aspx/5Oohh"">https://www.applytracking.com/track.aspx/5Oohh</a></p>
+"
+Java Instrumentation Engineer,"Portland, Oregon",Full Time,"<p>New Relic
+Java Instrumentation Engineer
+Portland, OR</p>
+
+<p>Think of a tool that makes your job so much better that you want to tell everyone about it. It might be your IDE, a mobile app, a web framework, a profiler, or an API. Now imagine that you help to build that tool with a smart, dedicated, and collaborative team.</p>
+
+<p>New Relic is looking for a software engineer to join our world-class Java Agent team. The Java Agent team ensures that New Relic provide the best possible experience for customers building apps on the JVM.</p>
+
+<p>You are a developer who has built sophisticated web applications and/or Java tooling in a fast-paced agile environment. You keep an eye on industry trends and love to apply compelling new technologies. You are experienced in performance optimization and monitoring because you take pride in having a system that runs quickly and smoothly.</p>
+
+<p>Working on an agent at New Relic means working with some of the brightest software engineers in the industry. In our polyglot environment, you regularly share insights with engineers working in Ruby, PHP, C, Python, .NET, and Javascript. You may find yourself comparing implementation notes with an expert Python developer one day and pair programming with Ward Cunningham the next. By working across different technologies, work at New Relic borrows the best from many communities.</p>
+
+<p>We’re a very fast growing pre-IPO start-up and we care about our culture. We value respect, engineer code ownership, and experimentation.</p>
+
+<p>To fast track your cover letter please tell us about a time you introduced positive change to your team, and why you want to join our fun dynamic company.</p>
+
+<p>A little about us:</p>
+
+<p>New Relic is a software analytics company that, on behalf of our customers, makes sense of billions of metrics about millions of applications, all in real time. Our comprehensive SaaS-based solution for web and mobile applications consolidates the performance monitoring data into a single, powerful interface. Our 90,000 customers use New Relic every day to optimize more than three million applications.</p>
+
+<p>New Relic is a San Francisco Best Places to Work award winner, an Oregon “Top Workplace” award winner, named a leader in the Gartner’s 2013 “Magic Quadrant” for APM companies, a Top 100 OnDemand Company, Best of SaaS (THINKStrategies), Top 100 Coolest Cloud Computing (CRN); 10 Cloud Management Companies to Watch (NetworkWorld) – the list of accolades goes on. More important than all of that: we provide challenging work, opportunities to learn, high quality teammates, a standard-setting product, and a company on the move.</p>
+
+<p>Our office is in the tech mecca of Portland, with easy commute access and a plethora of good eats and great coffee. We provide competitive compensation, stock options and big-company benefits (medical, dental, etc.)— all while maintaining the energy, agility, and fun of a start-up. We can help with relocation and are open to H1-B transfers.</p>
+
+<p>New Relic is most decidedly an equal opportunity employer. We seek applicants of diverse background and hire without regard to race, color, gender, religion, national origin, ancestry, citizenship, disability, age, sexual orientation, or any other characteristic protected by law. Note: Our stewardship of the data of thousands of customers’ means that a criminal background check is required to join New Relic.</p>
+
+<p>To apply, click on the link below.</p>
+
+<p>Apply Here: <a href=""http://www.Click2Apply.net/ssywqbc"">http://www.Click2Apply.net/ssywqbc</a></p>
+",New Relic,"<p>Apply Online</p>
+"
+.Net Developer,Gouda,Full Time,"<p>.NET Developer, beheers jij de ontwikkeltalen C# en ASP(.NET), maar heb jij ook kennis van andere technieken en wil jij jezelf blijven ontwikkelen? Maak jij de vertaalslag van de vraag van de klant naar efficiënte applicaties? Jouw kennis en ervaring komt geheel tot zijn recht bij ETTU, dé Software specialist van Nederland. Ter uitbreiding van ons development team zoeken wij een: </p>
+
+<p>Microsoft .NET Developer 
+Gouda, fulltime (24 tot 40 uur) </p>
+
+<p>De functie:
+Als .NET Developer bouw je applicaties voor onze partners en klanten met behulp van de nieuwste Microsoft technieken. Je werkt in wisselende projectteams en krijgt direct je eigen verantwoordelijkheden op basis van je kennis en ervaring. Ook ben je al vanaf de FO/TO fase betrokken bij het project. Samen met je team doe je er alles aan om de software zo goed mogelijk in dienst van het product te laten staan. Naast externe projecten als intranetten en publieke sites, hebben we onze eigen productlijn genaamd eConnect. De ontwikkeltrajecten vinden bij voorkeur plaats bij ons op kantoor te Gouda.</p>
+
+<p>Wil jij als .NET Developer </p>
+
+<ul>
+<li>Werken in afwisselende projecten?</li>
+<li>Omgaan met verantwoordelijkheden binnen de projectteams?</li>
+<li>Altijd ontwikkelen met de nieuwste technieken?</li>
+<li>Veel ruimte voor zelfontwikkeling? </li>
+</ul>
+
+<p>Lees dan verder!</p>
+
+<p>Wij vragen:</p>
+
+<ul>
+<li>Een afgeronde HBO opleiding in een IT gerelateerde richting.</li>
+<li>Aantoonbare relevante werkervaring met technieken als C# en ASP(.Net) en eventueel MVC.</li>
+<li>Goede kennis van HTML, Javascript en CSS, kennis van SQL is een pre.</li>
+<li>Het vermogen om innovatief, creatief en klantgericht te denken.</li>
+<li>Een zelfstarter met goede communicatieve en analytische vaardigheden.</li>
+<li>Een echte teamspeler die kennis wil delen.</li>
+<li>Uitstekende beheersing van de Nederlandse taal.</li>
+</ul>
+
+<p>Wat wij je bieden
+ETTU heeft een veelzijdig klantenportfolio, waardoor je als .NET Developer de mogelijkheid krijgt om volwaardig onderdeel te zijn van afwisselende projecten bij verschillende klanten. Hierbij ben je samen met je projectteam bezig met het ontwikkelen van de nieuwste technieken. Bij ons krijg je letterlijk en figuurlijk de ruimte: een flexibele werkplek en een zelfstandige functie, waarbij veel ruimte is voor zelfontwikkeling. Jij bent onze kracht en willen jou daar ook in begeleiden. Daarom bieden we jou 10 studiedagen, vakgerichte opleidingen en cursussen. Daarnaast bieden we jou een compleet arbeidsvoorwaardenpakket, waaronder: </p>
+
+<ul>
+<li>Een goed basis salaris en een eindejaarsuitkering.</li>
+<li>26 vakantiedagen en 8% vakantietoeslag.</li>
+<li>Indien je een studieschuld hebt, nemen wij deze over.</li>
+<li>Een goede pensioenregeling.</li>
+<li>Een mooi leasebudget en de optie je huidige leaseauto mee te nemen.</li>
+<li>Een budget voor hardware (laptop, telefoon etc.)</li>
+<li>Flexibele werktijden en een flexibele werkplek, waarbij je de mogelijkheid krijgt om thuis te werken. </li>
+</ul>
+
+<p>Waar kom je te werken?
+ETTU is de toonaangevende SharePoint-specialist van Nederland, opgericht in 2006. Onze 75 specialisten bouwen op basis van best-practices standaard SharePoint-portalen, -oplossingen en -webonderdelen voor onze opdrachtgevers. Een team van deskundige mensen werkt vanuit één locatie en deelt daardoor actief kennis, waardoor direct meerwaarde voor onze opdrachtgevers ontstaat. Niet alleen onze expertise groeit daardoor gestaag, ook de vraag van onze opdrachtgevers en daardoor ook het aantal collega’s. </p>
+
+<p>Wat medewerkers over ETTU zeggen:
+‘’ETTU is een leuke en competente club met fijne en behulpzame collega’s. We hebben steeds uitdagendere en ambitieuzere projecten waar ik me in kan storten en ook de informele sfeer binnen ETTU spreekt mij nog steeds heel erg aan.’’ </p>
+
+<p>Interesse?
+Houd jij van nieuwe technieken en echte afwisseling? Solliciteer dan via de onderstaande link met je cv en motivatie. </p>
+
+<p><a href=""http://ettu.heeft-vacatures.nl/Net_Developer_Gouda/27573/V147/solliciteren"">Klik hier voor het sollicitatieformulier</a></p>
+
+<p>Voor meer informatie kun je contact opnemen met Sabine Tio via 0182-686000. </p>
+
+<p>Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld.</p>
+
+<p>Trefwoorden: Software Developer, Applicatieontwikkeling, Functioneel ontwerp, Technisch ontwerp, Applicatieframework.</p>
+",ETTU,"<p><a href=""http://ettu.heeft-vacatures.nl/N/27573/V147/solliciteren"">http://ettu.heeft-vacatures.nl/N/27573/V147/solliciteren</a></p>
+"
+"Engineering Manager, Business Applications","San Francisco, California",Full Time,"<p>New Relic
+Engineering Manager, Business Applications
+San Francisco, CA</p>
+
+<p>Are you the ace engineering manager who will run part of our fast-growing Business Applications engineering team? </p>
+
+<p>You really do need to be an ace for this. Our engineers are particularly smart, creative, hard-working, and capable collaborators. They need leadership, not supervision. Management at NR leads by example. Managers here help engineers ship great features by providing resources, eliminating blockers, and keeping folks informed. If you&#39;re a command-and-control person, this is not the right place for you. </p>
+
+<p>If you&#39;ve been a software engineer yourself, and you love helping other engineers excel and manage projects working with engineers and business users, we might be the perfect place.</p>
+
+<p>Management here is serious business. We have the best management-mentoring program in any start-up -- perhaps the best, period. It is hard work. Your job as an engineering manager is to pave the way for engineers to do great things and lead projects across organizations. That could mean sitting in meetings so that engineers don&#39;t have to; it could mean working with other leaders to keep focus and without repeated changes helping engineers to stay focus and deliver; it could mean coaching an engineer all night through their first big conference presentation. It means whatever it takes to help our engineers ship great features, constantly level up--and have fun doing it! (Of course, you&#39;ll have fun too.)</p>
+
+<p>Our Business Applications team is different than most engineering groups. We own all of New Relic&#39;s internal business applications -- behind-the-scenes essential infrastructure needed for finance, sales, marketing, and business development. To lead on our team, you need to be able to connect easily and communicate fluently with both geeky engineers and friendly business people. You must get the agile and SaaS lifecycle; incremental delivery; continuous deployment; and everything about &quot;Lean Startup&quot;. </p>
+
+<p>You&#39;re someone who acts with drive and urgency, yet always takes the time to listen and to do the right thing. You are constantly seeking new ways to explain, coach, teach, and bring out the best in others. You are willing and able to take bold decisions to move fast and experiments, you are one who quickly learn from your and others mistakes.</p>
+
+<p>You&#39;ll be a serious candidate if you have 2+ years of experience with various &quot;new-age&quot; development tools and languages as a sharp engineer, a track record of delivering socially complex projects (must be able to demonstrate or it&#39;s a &quot;no go&quot;), and 2 years or more serving in a management or lead role. Experience of delivering Sales and Marketing business applications and processes enabled by technology is required. </p>
+
+<p>Tell us about your management philosophy in your cover letter and give examples of your risk-reward thinking with releases. And, of course, we want to hear why you might be particularly interested in New Relic. </p>
+
+<p>A little about us:</p>
+
+<p>New Relic is a software analytics company that, on behalf of our customers, makes sense of billions of metrics about millions of applications, all in real time. Our comprehensive SaaS-based solution for web and mobile applications consolidates the performance monitoring data into a single, powerful interface. Our 90,000+ customers use New Relic every day to optimize more than three million applications.</p>
+
+<p>New Relic is a San Francisco Best Places to Work award winner, an Oregon “Top Workplace” award winner, named a leader in the Gartner’s 2013 “Magic Quadrant” for APM companies, a Top 100 OnDemand Company, Best of SaaS (THINKStrategies), Top 100 Coolest Cloud Computing (CRN); 10 Cloud Management Companies to Watch (NetworkWorld) – the list of accolades goes on. More important than all of that: we provide challenging work, opportunities to learn, high quality teammates, a standard-setting product, and a company on the move.</p>
+
+<p>Our office is in the tech-rich urban center of San Francisco, with easy commute access and a plethora of good eats. We provide competitive compensation, stock options and big-company benefits (medical, dental, etc) -- all while maintaining the energy, agility, and fun of a start-up. We can help with relocation and are open to H1-B transfers.</p>
+
+<p>New Relic is most decidedly an equal opportunity employer. We seek applicants of diverse background and hire without regard to race, color, gender, religion, national origin, ancestry, citizenship, disability, age, sexual orientation, or any other characteristic protected by law. Note: Our stewardship of the data of thousands of customers’ means that a criminal background check is required to join New Relic.</p>
+
+<p>To get started, click on the link below. We look forward to talking!</p>
+
+<p>Apply Here: <a href=""http://www.Click2Apply.net/2rc344x"">http://www.Click2Apply.net/2rc344x</a></p>
+",New Relic,"<p>Apply Here: <a href=""http://www.Click2Apply.net/2rc344x"">http://www.Click2Apply.net/2rc344x</a></p>
+"
+DevOps Engineer (relocation available) ,"Santa Monica, CA",Full Time,"<p>** Please use the following link to apply: <a href=""http://hire.jobvite.com/j/?cj=oLHHYfwR&amp;s=GitHub_Jobs"">http://hire.jobvite.com/j/?cj=oLHHYfwR&amp;s=GitHub_Jobs</a></p>
+
+<p>The Media Infrastructure team is looking for an experienced, motivated, devops-minded software engineer to join us in maintaining and improving our major sites eHow.com and Society6.com!</p>
+
+<p>Team motto:  Standardization, Virtualization, Automation, Documentation.</p>
+
+<p>Our team is responsible for building and implementing infrastructure tools, automating the deployment pipeline, and working with development teams to help build scalable software.</p>
+
+<p>A few examples of technologies we work with on a daily basis:  Apache, Redis, Twemproxy, Memcached, Varnish, Solr, MySQL, MongoDB, Puppet, Splunk, Graphite, Nagios, New Relic, Git (Gitorious, Github), FluentD, Jenkins, Packer, Vagrant, RabbitMQ, Akamai CDN and video streaming, AWS (EC2, S3, VPC, RDS, Elasticache, Route53 autoscaling), Django, Tornado, nginx.  We don’t expect you to know all these things right off the bat, but you should definitely be interested in learning. </p>
+
+<p>Responsibilities:</p>
+
+<ul>
+<li>Engineering - Interface with engineering teams to understand code changes, assess risk and ensure best practices for operational tasks</li>
+<li>Be strong in troubleshooting technical issues, communicating and documenting procedures, and recommending architectural changes if necessary</li>
+<li>Operations - Provide adequate response to error alerts, ensure proper monitoring implementation and provide solutions to ensure 100% site up time. </li>
+<li>Participate in on-call rotation duties for emergency operations</li>
+<li>Be flexible, be team-oriented, have good communications skills, be generally pretty awesome.</li>
+</ul>
+
+<p>Requirements:</p>
+
+<ul>
+<li>3-5+ years of experience</li>
+<li>Fluent in a programming language (Python, PHP, Ruby, etc)</li>
+<li>Must be able to directly communicate with developers on specifications and architecture required to support numerous project/features</li>
+<li>Experience with CDNs (Akamai, Edgecast, Cloudfront, etc)</li>
+<li>MySQL experience is a plus, Mongo or similar NoSQL experience is a huge plus</li>
+<li>Able to discern a network issue vs a system issue</li>
+<li>Proficient with deploying and managing systems utilizing Puppet (CFEngine and Chef experience is comparable)</li>
+<li>Knowledgeable with Red Hat package management (rpm and yum, building rpms)</li>
+<li>Able to dissect an existing application stack and convert the configuration of the system and application into an automated process</li>
+<li>Knowledgeable about monitoring and metrics for performance, not just uptime</li>
+</ul>
+",Demand Media,"<p>** Please use the following link to apply: <a href=""http://hire.jobvite.com/j/?cj=oLHHYfwR&amp;s=GitHub_Jobs"">http://hire.jobvite.com/j/?cj=oLHHYfwR&amp;s=GitHub_Jobs</a></p>
+"
+Lead Infrastructure Engineer (Relocation available) ,Santa Monica,Full Time,"<p>** Please use the following link to apply: <a href=""http://hire.jobvite.com/j/?cj=oydUYfwn&amp;s=GitHub_Jobs"">http://hire.jobvite.com/j/?cj=oydUYfwn&amp;s=GitHub_Jobs</a></p>
+
+<p>The Media Infrastructure team is looking for an experienced, motivated, devops-minded software engineer to join us in maintaining and improving our major sites eHow.com and Society6.com!</p>
+
+<p>Team motto:  Standardization, Virtualization, Automation, Documentation.</p>
+
+<p>Our team is responsible for building and implementing infrastructure tools, automating the deployment pipeline, and working with development teams to help build scalable software.</p>
+
+<p>A few examples of technologies we work with on a daily basis:  Apache, Redis, Twemproxy, Memcached, Varnish, Solr, MySQL, MongoDB, Puppet, Splunk, Graphite, Nagios, New Relic, Git (Gitorious, Github), FluentD, Jenkins, Packer, Vagrant, RabbitMQ, Akamai CDN and video streaming, AWS (EC2, S3, VPC, RDS, Elasticache, Route53 autoscaling), Django, Tornado, nginx.  We don’t expect you to know all these things right off the bat, but you should definitely be interested in learning. </p>
+
+<p>Responsibilities:</p>
+
+<ul>
+<li>Engineering - Interface with engineering teams to understand code changes, assess risk and ensure best practices for operational tasks</li>
+<li>Be strong in troubleshooting technical issues, communicating and documenting procedures, and recommending architectural changes if necessary</li>
+<li>Operations - Provide adequate response to error alerts, ensure proper monitoring implementation and provide solutions to ensure 100% site up time. </li>
+<li>Participate in on-call rotation duties for emergency operations</li>
+<li>Be flexible, be team-oriented, have good communications skills, be generally pretty awesome.</li>
+</ul>
+
+<p>Requirements:</p>
+
+<ul>
+<li>3-5+ years of experience</li>
+<li>Fluent in a programming language (Python, PHP, Ruby, etc)</li>
+<li>Must be able to directly communicate with developers on specifications and architecture required to support numerous project/features</li>
+<li>Experience with CDNs (Akamai, Edgecast, Cloudfront, etc)</li>
+<li>MySQL experience is a plus, Mongo or similar NoSQL experience is a huge plus</li>
+<li>Able to discern a network issue vs a system issue</li>
+<li>Proficient with deploying and managing systems utilizing Puppet (CFEngine and Chef experience is comparable)</li>
+<li>Knowledgeable with Red Hat package management (rpm and yum, building rpms)</li>
+<li>Able to dissect an existing application stack and convert the configuration of the system and application into an automated process</li>
+<li>Knowledgeable about monitoring and metrics for performance, not just uptime</li>
+</ul>
+",Demand Media,"<p>** Please use the following link to apply: <a href=""http://hire.jobvite.com/j/?cj=oydUYfwn&amp;s=GitHub_Jobs"">http://hire.jobvite.com/j/?cj=oydUYfwn&amp;s=GitHub_Jobs</a></p>
+"
+Mobile Developer,"Toronto, ON, CA",Full Time,"<p><h3>About Us:</h3><p>ZenBanx, Inc. is a financial services technology firm poised to change the world of international money transfers, and we’re looking for a talented and self-motivated Mobile Developer. This candidate will be responsible for developing services for mobile applications, and delivering an excellent customer experience via the web and mobile devices.</p><p>We seek an individual who thrives in a dynamic, technically challenging and innovative environment, seeking to be at the forefront of a turning point in the way money moves across borders. ZenBanx, Inc. has assembled a team with an undeniably impressive pedigree in the online banking industry, on a mission to put the power to move funds around the world back in the hands of customers, and we’re seeking someone to help bring our vision to life, possibly you!</p><h3>Responsibilities:</h3><ul><li>Designs, develops and delivers new capabilities to our mobile platforms.</li>   <li>Facilitate testable designs and quality software to create delighted customers.</li>    <li>Innovate in alignment with our business vision and customer requirements.</li>  <li>Provide user support and training when required.</li>   <li>Works closely with Sales and Marketing to design web applications for payments.</li>    <li>Works alongside the Product Development Team to present new ideas, manage existing sites, and provide technical solutions whenever a problem occurs.</li>   <li>Resolves technical issues through debugging, research, and investigation.</li>  <li>Troubleshoots system problems and issues and looks for ways to improve our applications.</li>   <li>Addresses web service issues and ensure service levels meet ZenBanx standards.</li> <li>Follows approved life cycle methodologies, creates design documents, and performs program coding and testing.</li>  <li>Prepares reports by collecting,  analyzing information and giving presentations when needed.</li>  <li>Some travel nationally may be required.</li>    <li>Fosters a culture of creativity, collaboration, speed, innovation, excellence and a fun work environment.</li>  <li>Works effectively across the organization to maximize company resources.</li>   <li>Creates a productive and healthy work/life balance. Effectively manages stress, fosters a flexible work environment, and keeps the team focused, engaged, productive, and fulfilled.</li></ul><h3>Requirements:</h3><ul><li>Bachelor’s Degree in Computer Science or related field required.</li> <li>3-5 years in mobile development for iOS and/or Android, preferably for banking or financial services.</li>  <li>Strong understanding of the Spring framework and Restful web services concepts and development. Noteworthy skills in HTML5, CSS3 and Javascript.</li>   <li>Experience in enterprise system integration using Java for both internal and external systems.</li> <li>Outstanding management skills and interpersonal skills, and the ability to work with all levels within the organization in a collaborative manner.</li>    <li>Exemplary communication and presentation skills are required.  Must be able to establish peer relationships and communicate effectively with multiple company disciplines, cross-functional, and external teams.</li>    <li>Excellent project management, organizational and negotiation skills are required.</li>  <li>Proficiency in Word, Excel, Outlook and PowerPoint.</li></ul><h3>Bonus Points:</h3><ul><li>Excellent critical thinking and problem solving skills.</li> <li>Detail-oriented and process-oriented approach.</li> <li>Accepts responsibility, ownership, and accountability for work results.</li>    <li>Finds a high-volume, dynamic, and team work environment engaging.</li>  <li>Ability to organize and prioritize workload.</li></ul><h3>Perks:</h3><ul><li>There is limitless growth potential within our organization, and the experience – whether you have a long career with us or elsewhere – will add eye-popping bullet points to your resume.</li></ul> <img src=""https://www.applytracking.com/track.aspx/5OcC3""/></p>
+",ZenBanx,"<p><a href=""https://www.applytracking.com/track.aspx/5OcCD"">https://www.applytracking.com/track.aspx/5OcCD</a></p>
+"
+"Java Engineer, Alerting"," Portland, Oregon, United States, 9",Full Time,"<p>New Relic
+Java Engineer, Alerting
+Portland, OR</p>
+
+<p>New Relic&#39;s alerting functionality is relied upon by tens of thousands of customers to tell them when their applications and infrastructure are under performing or unhealthy. We pride ourselves on our ability to find root causes quickly by having a single destination to see and correlate all performance information. We strongly believe in innovation and providing a better customer experience and are convinced these traits are in high demand in the alerting market.</p>
+
+<p>As a member of the alerting team, you will be interfacing our alerting system with multiple product lines. To accomplish this, you must be able to design and implement services that can satisfy the needs of many different types of alerting problems. You will work to satisfy the requirements of many different teams and make it easy for others to accomplish their work by providing clear APIs and documentation.</p>
+
+<p>Our team is looking for an engineer with experience building high throughput services on the JVM. You should thrive on a small, collaborative team, and be motivated to build new products that are used and loved by other developers. Everyone at New Relic is engaged with making this company the place where they&#39;ll be able to do the best work of their career.</p>
+
+<p>We are looking for...</p>
+
+<ul>
+<li>5+ years of engineering experience working on service-oriented systems n a Unix-based environment</li>
+<li>Previous experience designing and implementing highly available systems</li>
+<li>Fluency with Java or another JVM language</li>
+<li>Fluency in Ruby and Rails are a plus</li>
+<li>Open source contributions are a plus</li>
+</ul>
+
+<p>To apply...</p>
+
+<ul>
+<li>Upload your resume</li>
+<li>Include a cover letter that describes the most impressive thing you&#39;ve made and a link to your Github account</li>
+</ul>
+
+<p>About Us:</p>
+
+<p>New Relic is a software analytics company that, on behalf of our customers, makes sense of billions of metrics about millions of applications, all in real time. Our comprehensive SaaS-based solution for web and mobile applications consolidates the performance monitoring data into a single, powerful interface. Our 90,000+ customers use New Relic every day to optimize more than three million applications. </p>
+
+<p>New Relic is a San Francisco Best Places to Work award winner, an Oregon “Top Workplace” award winner, named a leader in the Gartner’s 2013 “Magic Quadrant” for APM companies, a Top 100 OnDemand Company, Best of SaaS (THINKStrategies), Top 100 Coolest Cloud Computing (CRN); 10 Cloud Management Companies to Watch (NetworkWorld) – the list of accolades goes on. More important than all of that: we provide challenging work, opportunities to learn, high quality teammates, a standard-setting product, and a company on the move.</p>
+
+<p>Our office is in the tech mecca of Portland, with easy commute access and a plethora of good eats and great coffee. We provide competitive compensation, stock options and big-company benefits (medical, dental, etc.)— all while maintaining the energy, agility and fun of a start-up. We can help with relocation and are open to H1-B transfers.</p>
+
+<p>New Relic is most decidedly an equal opportunity employer. We seek applicants of diverse background and hire without regard to race, color, gender, religion, national origin, ancestry, citizenship, disability, age, sexual orientation, or any other characteristic protected by law. Note: Our stewardship of the data of thousands of customers means that a criminal background check is required to join New Relic.</p>
+
+<p>To apply, please click on the link below.</p>
+
+<p>Apply Here: <a href=""http://www.Click2Apply.net/sfnh3ft"">http://www.Click2Apply.net/sfnh3ft</a></p>
+",New Relic,"<p>Apply Here: <a href=""http://www.Click2Apply.net/sfnh3ft"">http://www.Click2Apply.net/sfnh3ft</a></p>
+"
+Senior Web Applications Developer - Ruby on Rails,"Redwood City, CA",Full Time,"<p>We are seeking a seasoned web-applications developer with expert-level knowledge of ruby-on-rails to join Rocket Fuel’s application team. Rocket Fuel is the leading provider of artificial intelligence online-advertising solutions and we are growing fast. </p>
+
+<p>You will play a key role in matching our exceptional real-time bidding engine with an equally powerful and elegant UI that emphasizes ease-of-use, simplicity, clarity, and performance.</p>
+
+<p>Rocket Fuel is dedicated to pushing the boundaries of real-time advertising. We develop sophisticated real-time decision systems that bid in electronic marketplaces on behalf of advertisers for billions of advertising opportunities per day. These systems require equally sophisticated user interfaces to manage them and visualize the reams of data we collect about business metrics and user behavior. Rocket Fuel is now embarking upon an effort to integrate its best-of-breed back-end system with a next-generation front-end UI. </p>
+
+<p><strong>Job Requirements</strong></p>
+
+<ul>
+<li>5+ years experience in web applications development (HTTP, AJAX, REST, JSON)</li>
+<li>BS / MS / PhD in Computer Science</li>
+<li>Mastery of Ruby on Rails and JavaScript</li>
+</ul>
+
+<p><strong>Nice-To-Haves</strong></p>
+
+<ul>
+<li>Knowledge of unit- and integration-testing, sandboxing, and build pipeline</li>
+<li>Experience with pure HTML and CSS, as well as server-side rendering engines</li>
+<li>Experience with Node.js</li>
+<li>Experience designing and manipulating SQL databases</li>
+<li>Experience building user interfaces that support analytics and interactive data visualization</li>
+</ul>
+
+<p><strong>Benefits &amp; Perks</strong></p>
+
+<ul>
+<li>Competitive salary</li>
+<li>Stock</li>
+<li>Full health care, including dental and vision</li>
+<li>Catered lunch</li>
+<li>Social activities, such as a weekly happy hour</li>
+<li>Group hackathons</li>
+</ul>
+
+<p><strong>About Rocket Fuel</strong></p>
+
+<p>Rocket Fuel is a digital-advertising technology company in Silicon Valley that has grown rocket-fast since its founding in 2008. It is the leading provider of artificial intelligence online-advertising solutions. It combines a world-class engineering team with the industry&#39;s most productive sales and delivery teams. Its customers are some of the world’s most successful brands.</p>
+
+<p>Our team is passionate about both the products we develop and the way in which we develop them. Our process is guided by the unix philosophy, agile methodology, and the principle of test-driven software development. Our culture is lively and inclusive: you will participate in pair programming, peer code reviews, technical talks, and hackathons. We have a state-of-the-art software engineering environment with distributed source control, full release cycle, and continuous deployment.</p>
+",Rocket Fuel Inc,"<p>Apply online:  <a href=""https://hire.jobvite.com/j?aj=o22HYfwt&amp;s=Github"">https://hire.jobvite.com/j?aj=o22HYfwt&amp;s=Github</a>
+or
+Send your resume to:  <a href=""mailto:Sensey@rocketfuel.com"">Sensey@rocketfuel.com</a></p>
+"
+Senior Software Developer - Business Applications," San Francisco, California, United ",Full Time,"<p>New Relic
+Sr Software Developer - Business Applications
+San Francisco, CA</p>
+
+<p>Are you a skilled developer but you were never fully satisfied in the Dev box, and you really want to understand and influence the business side? We want you to bring all of your code cred AND then plunk you right into the middle of the business shaping the software that powers the ecosystem with our partners — partners like Microsoft, Heroku, EngineYard, Amazon, and Joyent. You’ll work at a fast-growing company with a hot product, and use your considerable tech skills to turbocharge our business success.</p>
+
+<p>If you are right for us, you have top-notch software design and coding skills, and you consider quality to be job #1. You follow through with stakeholders to ensure that your features are accurate and easy to use. Of course. But this job is a lot more than just great coding.</p>
+
+<p>You&#39;ll write the code that scales our business. You&#39;ll work on the all-important billing and subscriptions codebase that pipes in our revenue. You&#39;ll write RESTful APIs primarily using Ruby, and modify our site to call into external APIs, so that we interoperate in a seamless way with our many partners. You&#39;ll work directly with senior management to define mission-critical projects and drive them to completion.</p>
+
+<p>To be considered seriously, you will have:</p>
+
+<ul>
+<li>4+years engineering experience</li>
+<li>Strength in Ruby fundamentals or in Python, Java, Php</li>
+<li>Developed web service clients and RESTful server interfaces</li>
+<li>Knowledge of relational databases and SQL</li>
+<li>The ability to communicate about complex technical problems in a simple, accessible way</li>
+<li>A friendly bed-side manner when speaking directly with your users</li>
+<li>A vague feeling that maybe you should have done an MBA (don&#39;t worry, this job will be better than an MBA!)</li>
+<li>A relevant B.Sc./B.A. degree.</li>
+</ul>
+
+<p>A little about us:</p>
+
+<p>New Relic is a software analytics company that, on behalf of our customers, makes sense of billions of metrics about millions of applications, all in real time. Our comprehensive SaaS-based solution for web and mobile applications consolidates the performance monitoring data into a single, powerful interface. Our 90,000+ customers use New Relic every day to optimize more than three million applications.</p>
+
+<p>New Relic is a San Francisco Best Places to Work award winner, an Oregon “Top Workplace” award winner, named a leader in the Gartner’s 2013 “Magic Quadrant” for APM companies, a Top 100 OnDemand Company, Best of SaaS (THINKStrategies), Top 100 Coolest Cloud Computing (CRN); 10 Cloud Management Companies to Watch (NetworkWorld) – the list of accolades goes on. More important than all of that: we provide challenging work, opportunities to learn, high quality teammates, a standard-setting product, and a company on the move.</p>
+
+<p>Our office is in the tech-rich urban center of San Francisco, with easy commute access and a plethora of good eats. We provide competitive compensation, stock options and big-company benefits (medical, dental, etc) -- all while maintaining the energy, agility, and fun of a start-up. We can help with relocation and are open to H1-B transfers.</p>
+
+<p>New Relic is most decidedly an equal opportunity employer. We seek applicants of diverse background and hire without regard to race, color, gender, religion, national origin, ancestry, citizenship, disability, age, sexual orientation, or any other characteristic protected by law. Note: Our stewardship of the data of thousands of customers’ means that a criminal background check is required to join New Relic.</p>
+
+<p>To get started, click on the link below. To fast track your application, let us know in your cover letter why this job, product, and/or company is of particular interest to you. We look forward to talking!</p>
+
+<p>Apply Here: <a href=""http://www.Click2Apply.net/ybkcvzs"">http://www.Click2Apply.net/ybkcvzs</a></p>
+",New Relic,"<p>Apply Here: <a href=""http://www.Click2Apply.net/ybkcvzs"">http://www.Click2Apply.net/ybkcvzs</a></p>
+"
+"Senior Software Engineer (PHP, Ruby, Javascript)","Santa Monica, CA",Full Time,"<p>COMPANY DESCRIPTION</p>
+
+<p>Do you want to be part of a services company with both a proven record of success and planned growth? TriNet is a leading provider of a comprehensive human resources solution for small to medium-sized businesses. We enhance business productivity as a human resources partner, managing HR so clients can focus on operating and growing their core business. Our HR solution includes payroll processing, human capital consulting, employment law compliance and employee benefits, including health and retirement plans and workers’ compensation. Our services are delivered by our expert teams of HR professionals and enabled by our proprietary, cloud-based technology platform, which allows clients and employees to efficiently conduct HR transactions anytime and anywhere.</p>
+
+<p>TriNet partners with more than 8,800 clients and 230,000+ employees. We’ve been on the Inc. 500|5000, a list of the fastest-growing privately-held U.S. companies for six consecutive years. Now we want to add you to our team of more than 1,800 colleagues across the U.S.</p>
+
+<p>JOB DESCRIPTION</p>
+
+<p>The Senior Software Engineer is responsible for the design, development and release of our organization&#39;s web-based applications. Duties application development and systems integration, spanning front-end, middle tier, and data access components. The company is in the midst of a significant program to revise its core web-based business services delivery automation systems, migrating to a contemporary, open source technology stack. The Senior Software Engineer reports to the Manager/Director of Development for strategic projects, and works closely with program management to ensure successful operational deployment of new applications, while maintaining business continuity of existing applications. This is a hands-on technical role, providing the opportunity for distributed systems integration and development; using contemporary open source technologies to build out a state of the art Human Resources, Payroll, and Benefits services delivery platform.   Performs technical oversight and assessment of application and system development projects to ensure technical integrity and compliance with design requirements</p>
+
+<p>Performs technical oversight and assessment of application and system development projects to ensure technical integrity and compliance with design requirements</p>
+
+<p>Provides hands-on contributions to architecture, design and code development for critical components of the company’s next-generation client-facing applications, for “always-on” SaaS production services</p>
+
+<p>Specifies systems architecture, application design, systems integration methods, and data migration tools and techniques</p>
+
+<p>Coordinates with QA testing staff to ensure comprehensive test coverage, effective performance and load tests, timely resolution of issues, and other actions to assure delivery of quality software</p>
+
+<p>QUALIFICATIONS</p>
+
+<p>Experience with PHP, Ruby on Rails, or Javascript.</p>
+
+<p>Experience with version control systems and various frameworks.</p>
+
+<p>Bachelors Degree in Computer Science, Engineering, Math, or equivalent</p>
+
+<p>Possess excellent written and verbal communication.</p>
+
+<p>Possess creativity, flexibility, and growth potential.</p>
+
+<p>Should be open-minded, a fast learner, enthusiastic, and adaptable.</p>
+
+<p>ADDITIONAL INFORMATION</p>
+
+<p>All your information will be kept confidential according to EEO guidelines.</p>
+",TriNet Cloud,"<p>Please click here to APPLY ONLINE: <a href=""https://www.smartrecruiters.com/TriNetCloud/77847315-php-software-developer-senior"">https://www.smartrecruiters.com/TriNetCloud/77847315-php-software-developer-senior</a></p>
+"
+RoR Lead Developer on-site for Sydney finance startup,"Sydney, Australia",Full Time,"<p>We are seeking a lead developer to architect and re-build our finance web app in Rails. This is a rare opportunity NOT to inherit technical debt and where you will have the freedom to build the product in a clean, scalable way. You will be able to own a product, build a team around you, have a high impact within the company and be part of the finance industry disruption.</p>
+
+<p>For more info email <a href=""mailto:stealthfinancestartup@gmail.com"">stealthfinancestartup@gmail.com</a> or read on…</p>
+
+<p>About the role</p>
+
+<ul>
+<li>You’ll be the Lead Developer and have freedom to build the tech team around you </li>
+<li>Role is permanent, full-time on-site in Sydney’s CBD at Tank Stream Labs co-located with other successful startups such as Airtasker and GoCatch</li>
+<li>Remuneration $100k+ for the right candidate and participation in the success of the business. </li>
+<li>Career progression opportunities to CTO are possible. </li>
+</ul>
+
+<p>Specific requirements</p>
+
+<ul>
+<li>3+ years experience with all aspects of Ruby on Rails including designing, architecting and scaling a web app </li>
+<li>Operational experience with redundancy, backups, monitoring, deployment, rollback, planning.</li>
+<li>Migrating SQL legacy data</li>
+<li>Strong understanding of all things front-end: HTML5, CSS and Javascript frameworks.</li>
+<li>You know how to effectively get the most out of TDD/BDD, you know how to avoid brittle tests.</li>
+<li>Continuous integration, continuous deployment and automating deployment.</li>
+<li>Decent understanding of OOP in Rails and you know how to apply OOP in Rails with reason.</li>
+<li>You know how to Git and you know how to avoid Git mess with a good branching model. </li>
+</ul>
+
+<p>About us</p>
+
+<p>MVP launched in October 2013 by two ex-finance and new media industry professionals, this funded early-stage startup gives voice to the top money managers in the industry, enabling them to share insights that are usually locked behind privacy and pay walls. We are truly democratising access to the top market insights.</p>
+",Contact for more info on who we are,"<p>Send an email to <a href=""mailto:stealthfinancestartup@gmail.com"">stealthfinancestartup@gmail.com</a></p>
+"
+Mobile Engineer (iOS/Android),"Los Angeles, CA, US",Full Time,"<p><a href='http://www.jobscore.com/jobs/fullscreen/list'><img src='https://jobscore-assets.s3.amazonaws.com/account_logos/logo_dmBAdKUVur46qGiGak6IKg.png' /></a><br /><h3><strong>Senior Mobile Engineer (iOS or Android)</strong></h3><p>We are seeking a Mobile Engineer to join our mobile platform client development team working on the Fullscreen Creator Platform and exciting new projects. The ideal candidate will have experience developing mobile platform, and application development experience on either iOS or Android or both. We are looking for someone who is passionate about building great mobile software, enjoys working with a team of talented developers, and who is eager to take on big challenges. Mobile is on fire. So are we. Join us!</p><p><strong>RESPONSIBILITIES:</strong></p><ul><li> <p>Architect, design, and implement the next generation of our mobile applications</p>  </li>   <li>    <p>Collaborate with cross-functional teams to define, design, develop, and deliver new exciting features on iOS and/or Android platforms to delight our consumers</p>   </li>   <li>    <p>Continuously explore, evaluate, and incorporate new technologies into our products and processes to improve development efficiency</p>   </li>   <li>    <p>Deliver quality software solution using Agile mobile development cycle</p>   </li>   <li>    <p>Analyze and resolve performance issues and other limitations</p> </li></ul><p> </p><p><strong>QUALIFICATIONS:</strong></p><ul><li>  <p>At least 2 years experience designing and developing native mobile applications</p>  </li>   <li>    <p>Deep understanding of core software concepts, including networking, security, memory management, multi-threading, and application life-cycle management</p>  </li>   <li>    <p>Knowledge of latest mobile emerging technologies, architectures, and trends</p>  </li>   <li>    <p>Expertise in iOS Objective-C/Cocoa or Android Java programming experience</p>    </li></ul><ul><li>  <p>Advanced software design skills, including object oriented design</p>    </li>   <li>    <p>A strong grasp of computer science fundamentals</p>  </li>   <li>    <p>Proficient at debugging and performance tuning</p>   </li>   <li>    <p>Great communication and collaboration skills with a commitment to quality</p>    </li>   <li>    <p>At least one mobile app in the App Store / Google Play</p>   </li>   <li>    <p>A Bachelor’s degree in Computer Science, or equivalent experience</p>  </li></ul><p> </p><p><strong>NICE TO HAVES:</strong></p><ul><li>   <p>Experience in both iOS and Android platform development</p>  </li>   <li>    <p>Experience with media player technologies for iOS/Android</p>    </li>   <li>    <p>Always eager to learn and familiar with cutting-edge new technologies (iOS8 SDK, Swift, and etc)</p> </li></ul><p>________________________</p><p><strong>About Fullscreen</strong></p><p><a href=""http://www.fullscreen.net"">Fullscreen</a> is a next-generation media company that offers innovative technology and premium services for content creators and the world&#39;s leading brands to thrive on YouTube. Fullscreen&#39;s global network generates over 3 billion monthly video views and reaches over 300 million subscribers. Headquartered in Culver City, California, Fullscreen was founded in January 2011 by CEO George Strompolos, a co-creator of the YouTube Partner Program. Fullscreen’s video channel network includes top creative talent like The Fine Brothers, filmmaker Devin Super Tramp, and recording artist Lindsey Stirling. (<a href=""http://www.fullscreen.net"">www.fullscreen.net</a>)</p><p> </p> <img src=""https://www.applytracking.com/track.aspx/5OJzV""/></p>
+",Fullscreen,"<p><a href=""https://www.applytracking.com/track.aspx/5OJzf"">https://www.applytracking.com/track.aspx/5OJzf</a></p>
+"
+Software Engineer mid-level,Cambridge MA,Full Time,"<p>We are seeking a mid-level software engineer who loves designing, building, deploying, and managing highly scalable web and mobile software solutions using cloud services. If you enjoy the process of designing large-scale web and mobile applications then figuring out how to automate failover, recognize and know how to engineer around SPOFs, and use Chef or other tools to automate everything you do, then we want to talk to you. The best candidates will have several years of experience designing, implementing, and maintaining high-volume, data-driven, web-based, and web-mobile applications in cloud environments.
+As a member of Cambridge Systematics’ software team, you will have the opportunity to design and develop solutions that really make a difference, directly influence the evolution of the public’s access to transportation- and transit-related real-time information systems, work with the latest web and mobile technologies, work directly with customers, and help raise the bar for transportation solutions.</p>
+
+<p>Qualifications: Excellent communication skills, expert with Chef, Puppet, or other devops, configuration, deployment, and monitoring tools. Strong familiarity with one or more web application frameworks such as Ruby on Rails, Java/Spring/Hibernate, .NET, or Python django.</p>
+",Cambridge Systematics,"<p>Please apply to:  <a href=""https://home.eease.adp.com/recruit2/?id=7513831"">https://home.eease.adp.com/recruit2/?id=7513831</a></p>
+"
+Software/Data Engineer,"Los Angeles, CA, US",Full Time,"<p><a href='http://www.jobscore.com/jobs/fullscreen/list'><img src='https://jobscore-assets.s3.amazonaws.com/account_logos/logo_dmBAdKUVur46qGiGak6IKg.png' /></a><br /><p>Fullscreen&#39;s Engineering team is seeking an outstanding Software/Data/BI Engineer to create scalable, maintainable, and reliable business intelligence infrastructure. Fullscreen has a culture of data-driven decision-making, and demands business intelligence that is timely, accurate, and actionable.</p><p>The Operations Finance Tools &amp; Technology Team operates is a fast paced environment where every day brings new challenges and new opportunities. As a Software/Data Engineer, you will be developing and supporting BI infrastructure to address some of the unique challenges. You will be responsible for designing and implementing a solution using third-party and in-house technologies which will handle the growing business needs.</p><p><u>Responsibilities</u></p><ul><li>Interface with other technology teams to extract, transform, and load data from a wide variety of in-house and 3rd party data sources using SQL and Ruby</li>    <li>Design, implement, and support infrastructure providing secured access to large datasets</li>   <li>Interface with business customers to gather requirements</li>   <li>Model data and metadata to support ad-hoc and pre-built reporting</li>  <li>Respond to high priority requests from senior business leaders</li> <li>Proven ability for looking at solutions unconventionally and explore opportunities and devise innovative solutions</li> <li>Work on Data Warehouse ETL solution</li></ul><p> </p><p><u>Requirements</u></p><ul><li>3+ years of software/data engineering</li>  <li>Advanced knowledge and experience of Ruby &amp; Ruby on Rails</li>  <li>Advanced knowledge and expertise with SQL</li>  <li>Recognize and adopt best practices in reporting and analysis: data integrity, test design, analysis, validation, and documentation</li> <li>Top notch communication (verbal and written) and interpersonal skills to convey key insights from complex analysis in summarized business terms and an ability to effectively communicate with technical teams</li> <li>Knowledge of data warehousing concepts</li> <li>Experience in ETL and using databases in a business environment with large-scale, complex datasets</li> <li>Tune application and query performance using Unix profiling tools and SQL</li>  <li>Knowledge of AWS Infrastructure</li>    <li>Experience with Git</li>    <li>Bachelor degree in Computer Science, Engineering, Math, or related disciplines</li></ul><p><u style=""line-height: 1.2;"">Bonus</u></p><ul><li>Experience in 1 or more than these languages (Javascript, Java, Python)</li>   <li>Worked with Salesforce CRM in the past</li> <li>Worked with ERP in the past</li>    <li>Experience with Hadoop or NoSQL Database &amp; Technology</li>  <li>Knowledge and direct experience using business intelligence reporting tools. (OBIEE, Business Objects, Cognos, Tableau, MicroStrategy, SSAS Cubes, etc.)</li></ul><p> </p><p><u>Benefits &amp; Perks</u></p><ul><li>Flexible work schedule and dress code. Want to come into work at 11 wearing sweatpants? Be our guest!</li> <li>Smash Brothers Melee Battles (and a variety of other games in our game room)</li>   <li>Kitchen fully stocked with snacks, the contents of which are decided by the team</li>   <li>Want to learn CoffeeScript? Brush up on CSS? Dabble in iOS development? Dive right in with a free Code School subscription!</li>    <li>Enjoy our vast reference library of DRM-free eBooks. Don&#39;t see the one you like? We&#39;ll buy it!</li> <li>Code in style on a generously configured MacBook Pro with Retina Display and 27&quot; Thunderbolt Display</li>   <li>Keep up with the industry by attending a domestic conference of your choice each year... on us, of course</li>  <li>Catered meals on Fridays</li>   <li>Health, dental and vision benefits</li> <li>Generous paid time off each year</li></ul><p><span style=""line-height: 1.2;"">________________________</span></p><p><strong>About Fullscreen</strong></p><p><a href=""http://www.fullscreen.net"">Fullscreen</a> is a next-generation media company that offers innovative technology and premium services for content creators and the world&#39;s leading brands to thrive on YouTube. Fullscreen&#39;s global network generates over 3 billion monthly video views and reaches over 300 million subscribers. Headquartered in Culver City, California, Fullscreen was founded in January 2011 by CEO George Strompolos, a co-creator of the YouTube Partner Program. Fullscreen’s video channel network includes top creative talent like The Fine Brothers, filmmaker Devin Super Tramp, and recording artist Lindsey Stirling. (<a href=""http://www.fullscreen.net"">www.fullscreen.net</a>)</p><p> </p> <img src=""https://www.applytracking.com/track.aspx/5OJuf""/></p>
+",Fullscreen,"<p><a href=""https://www.applytracking.com/track.aspx/5OJup"">https://www.applytracking.com/track.aspx/5OJup</a></p>
+"
+Senior Software Engineer (Platform Development),"New York, NY, US",Full Time,"<p><a href='http://www.jobscore.com/jobs/crowdtwist/list'><img src='https://jobscore-assets.s3.amazonaws.com/account_logos/logo_b6dSPiUVer44qIiGak6IKg.png' /></a><br /><h3><strong style=""font-size: 13px; line-height: 1.6;"">About Us and the Role:</strong></h3><p>CrowdTwist is seeking a Senior Software Engineer for our growing team based in New York City.  In this role, you will work directly with many areas of our platform while adding new features, and enhancing existing features.  You will be involved in many different projects as we continue to grow and enhance our platform.  Your work will directly influence the loyalty program offerings for many of our clients, such as Pepsi, Nestlé, Lancome, and Zumiez.</p><p>We are a venture-backed NYC based company that provides the most comprehensive omni-channel loyalty &amp; analytics solutions for industry leading brands. We&#39;re relaxed, experienced, hard driving and are changing our industry.</p><p>Your work will span many areas of the CrowdTwist platform, including but not limited to:</p><ul><li>The consumer-facing loyalty program experience</li>   <li>Our RESTful APIs</li>   <li>Back end integrations with social networks (Facebook, Twitter, Instagram, and Foursquare)</li>  <li>Our data-driven, client-customizable JavaScript SDK</li>    <li>Our client-facing content management applications</li></ul><p>This role is for an engineer who loves to roll up their sleeves, dive in, and tackle any problem with speed and precision.  You will be utilizing your experience with object-oriented software design and implementation, data modeling, and building high-performance, scalable web applications.  We operate in an agile manner, so you must thrive in a fast-paced environment and enjoy shipping product.</p><p>In this role, you will work with a broad back end tech stack, including but not limited to:</p><ul><li>PHP</li>    <li>Oracle</li> <li>Node.js</li>    <li>Redis</li>  <li>Amazon Web Services</li>    <li>Various third-party services (Twilio, SendGrid, EdgeCast, etc.)</li></ul><h3><strong>You:</strong></h3><ul><li>Have a college degree in Computer Science or equivalent experience</li>  <li>Have 7+ years of professional experience with one or more of: PHP, Ruby, Python, Java, C, C++</li>  <li>Know your way around a relational and/or NoSQL database</li>    <li>Write great code, view it as a craft, and love cranking out solid work</li></ul><p>At over one million lines of code, you’ll be working with a large, highly-trafficked, scalable application.  Quality is of extreme importance to us, so you’ll be writing unit and integration tests, which are used in our continuous integration process.  Our QA team will show you no mercy, either — bring your “A&quot; game.</p><p>You should be back end-focused, but our front end tech stack covers a wide range of JavaScript frameworks and related tools, such as:</p><ul><li>Angular</li>    <li>CoffeeScript</li>   <li>Backbone</li>   <li>Marionette</li> <li>Jade</li>   <li>Sass</li>   <li>jQuery</li></ul><p>Bonus points for front end development and systems administration experience.</p><p>We have a fun, generous company culture that&#39;s built on our fundamental principle that when you give more, you get more:</p><ul><li>We offer a generous employee benefits package including stock options, fully paid medical, dental and vision plans for employees and their dependents!</li>  <li>We bring toys to the office but still think the most fun thing to do is build product</li>  <li>We love getting to know one another outside the office through CrowdTwist sponsored events (volleyball and dodgeball teams, high speed go-karting, bowling, paintball, happy hour, etc.)</li>   <li>Provide lunches, drinks and snacks so our team can be hungry for other things</li>  <li>Learn from and teach each other at CrowdTwist U</li>    <li>Try to say what we mean and mean what we say</li></ul><p>If this sounds like you, get in touch. We&#39;re cool, relaxed, experienced, hard driving, changing our industry and looking for smart people like yourself to help tackle tough technical challenges.</p><p>This is a full-time position based in our New York City office.  Relocation assistance will be available if needed.</p> <img src=""https://www.applytracking.com/track.aspx/5OFen""/></p>
+",CrowdTwist,"<p><a href=""https://www.applytracking.com/track.aspx/5OFf7"">https://www.applytracking.com/track.aspx/5OFf7</a></p>
+"
+Senior Software Engineer (Front End Development),"New York, NY, US",Full Time,"<p><a href='http://www.jobscore.com/jobs/crowdtwist/list'><img src='https://jobscore-assets.s3.amazonaws.com/account_logos/logo_b6dSPiUVer44qIiGak6IKg.png' /></a><br /><h3><strong>About the role:</strong></h3><p>CrowdTwist is seeking a Senior Software Engineer to join our growing platform development team based in New York City. In this role, you will be responsible for growing and maintaining the front end applications within the CrowdTwist platform. You will collaborate with your fellow team members, including back and front end developers, as well as Product Management and User Experience.</p><p>We are a venture-backed NYC based company that provides the most comprehensive omni-channel loyalty &amp; analytics solutions for industry leading brands including Pepsi, L&#39;Oreal, Vizio, Nestle and more.</p><p>In this role, you will work with a broad front end tech stack, including:</p><ul><li>Angular</li>  <li>CoffeeScript</li>   <li>Backbone</li>   <li>Marionette</li> <li>Jade</li>   <li>Node</li>   <li>jQuery</li> <li>Sass</li></ul><p>These are some of the technologies in place today, but we&#39;re open to using any technology that solves our challenges in a thoughtful and expert manner. At over a million lines of code, you&#39;ll be working with a large, highly-trafficked, scalable application used by millions of people. For a developer with the right skill set and attitude, this is an excellent opportunity to get in at the early stage of a growing company, work on challenging technical problems alongside top talent and help shape the future of the CrowdTwist platform.</p><h3><strong>Responsibilities:</strong></h3><ul><li>Architecting and developing front end components of the CrowdTwist platform</li>    <li>Provide thought leadership regarding coding best practices, standards, frameworks, programming languages and technologies</li>  <li>Ensure optimal performance and scalability of all aspects of the platform</li>  <li>Assist in training and mentoring team members</li></ul><h3><strong>You:</strong></h3><ul><li>Have a BS in Computer Science or equivalent experience</li>    <li>Have 5+ years of professional software development experience</li>  <li>Have strong working knowledge of Ajax, XHTML, JSON, JavaScript, and JavaScript frameworks (jQuery, Backbone, Ember, Angular, Mustache, etc)</li>   <li>Have deep experience with cross browser quirks and compatibility issues</li>    <li>Have experience designing and developing responsive websites</li>   <li>Have thorough understanding of the full web stack (e.g. HTTP, cookies, asset loading/caching)</li>  <li>Know how to find a balance between doing a good job, and shipping products</li> <li>Manage your time effectively, and can be a strong example for others</li>   <li>Are comfortable collaborating with UX designers to deliver outstanding user experiences</li>    <li>Are product-oriented, always coding with the product in mind</li>   <li>Take a holistic and pragmatic approach to software development</li> <li>Can follow style guides and bring wireframes to life</li></ul><p>Does this sound like you? Do you enjoy working on a small team with smart people solving complex technical problems? Do you have an entrepreneurial spirit with a get-it-done attitude?</p><p>If so, you should join us! We&#39;re cool, relaxed, experienced, hard driving, changing our industry and looking for smart people like yourself to help tackle tough technical challenges.</p><p>We have a fun, generous company culture that&#39;s built on our fundamental principle that when you give more, you get more!</p><ul><li>We offer a generous employee benefits package including stock options, fully paid Medical, Dental &amp; Vision plans for employees &amp; their dependents!</li>  <li>We bring toys to the office but still think the most fun thing to do is build product</li>  <li>We love getting to know one another outside the office through CrowdTwist sponsored events (volleyball and dodgeball teams, high speed go-karting, bowling, paintball, happy hour, the list goes on and on)</li>  <li>Provide lunches, drinks and snacks so our team can be hungry for other things</li>  <li>Learn from and teach each other at CrowdTwist U</li>    <li>Try to say what we mean and mean what we say</li></ul><p>This is a full-time position based in our New York City office. Relocation assistance will be available if needed.</p> <img src=""https://www.applytracking.com/track.aspx/5OFbF""/></p>
+",CrowdTwist,"<p><a href=""https://www.applytracking.com/track.aspx/5OFbt"">https://www.applytracking.com/track.aspx/5OFbt</a></p>
+"
+Wireless Roaming Software Engineer,"Palo Alto, CA",Full Time,"<p>COMPANY DESCRIPTION</p>
+
+<p>Suitable is redefining face-to-face interaction and building a new market. We’re looking for creative, collaborative, and entrepreneurial talent to join our team.</p>
+
+<p>JOB DESCRIPTION</p>
+
+<p>We&#39;re looking for talented engineers to work on our wireless roaming system. Your focus will be to ensure that our customers always experience seamless network connectivity as they roam the Beam around heterogeneous WiFi and/or 4G environments.</p>
+
+<p>This is a broad job description. Candidates who cannot cover the whole range of roles and skills will still be considered.</p>
+
+<p>Roles and Responsibilities</p>
+
+<p>Find, build, compile, test and debug 4G and WiFi Linux drivers. (C)
+Participate in the selection of 4G and WiFi hardware.
+Add features to and maintain WiFi/4G roaming code. (Python, and some C++)
+Expand WiFi/4G test suites. (Python)
+Develop tools to help diagnose problems in the field. (Python, and some C++)
+Provide responsive support when new networking difficulties are discovered in the field.
+Improve integration of roaming code with videoconferencing application (C++ and Python)</p>
+
+<p>QUALIFICATIONS</p>
+
+<p>Skills / Job Requirements</p>
+
+<p>Degree in Computer Science or related technical field (or equivalent)
+Solid knowledge of data structures, algorithms, and software design
+Solid understanding of Linux networking
+Solid understanding of WiFi and Cellular (4G) networking
+Extensive programming experience in C/C++/Python
+Experienced Linux user
+Ability to get things done quickly and of high quality
+Willingness to take on new challenges and solve unfamiliar problems
+In addition, we love to see people with personal projects that show an interest in product development and good engineering principles.</p>
+
+<p>ADDITIONAL INFORMATION</p>
+
+<p>All your information will be kept confidential according to EEO guidelines.</p>
+","Suitable Technologies, Inc.","<p>Please click here to APPLY ONLINE: <a href=""https://www.smartrecruiters.com/SuitableTechnologiesInc/77842596-wireless-roaming-software-engineer"">https://www.smartrecruiters.com/SuitableTechnologiesInc/77842596-wireless-roaming-software-engineer</a></p>
+"
+"FinalCAD, international start up company, looking for Ruby, JS and iOS engineers. Remote welcome.",Remote,Full Time,"<p><strong>Who we are: FinalCAD, an international start up company.</strong></p>
+
+<p>We are FinalCAD, a 2 year start up company that is looking for Ruby, JS and iOS engineers. Our application is revolutionizing the construction industry and beyond this the global internal organization of those companies. Our mission is to re-invent construction traditional inefficient processes.</p>
+
+<p><strong>What we do: The “video game” of the construction industry.</strong></p>
+
+<p>This mobile app (FinalCAD available on the app store, iPad, iPhone) is already used on thousands of projects globally. We do standardize construction processes, quality checks, easing communications among stakeholders. We make the construction industry a lot more fun. </p>
+
+<p><strong>What we are looking for:</strong></p>
+
+<p>Because we believe that great products are only made by great people, we are looking for highly talented engineers. <strong>Used technologies</strong>: Ruby (Rails…), JS (Ember…), Heroku, PG, Redis, Objective-C (Cocoa,...). <strong>Work place</strong>: where you want. (Based in Paris - 50% of our engineers work remotely). <strong>Salary</strong>: to be negotiated.</p>
+",FinalCAD,"<p><strong>Want to be part of the FinalCAD Team?</strong></p>
+
+<p>Show us some code ;-)
+<a href=""mailto:antoinequhen@gmail.com"">antoinequhen@gmail.com</a></p>
+"
+Sr Front End Developer,"Boston, MA",Full Time,"<p>As a Front End Developer at WHOOP you will be responsible for the implementation and maintenance of the consumer facing side of the web application. The role involves working closely with a talented design team, brainstorming UI/UX, and implementation from PSD to HTML and CSS.</p>
+
+<p>Requirements</p>
+
+<p>· A developer who has the necessary skills to bring design ideas and PSDs to the web</p>
+
+<p>· Excellent HTML5/CSS3 Skills</p>
+
+<p>· Strong Javascript skills</p>
+
+<p>· Understanding and appreciation of great UI/UX</p>
+
+<p>· A strong portfolio that includes beautiful visual design and an intuitive user experience</p>
+
+<p>· Working knowledge of a modern source code version control (git, mercurial)</p>
+
+<p>Desirable</p>
+
+<p>· Experience with CSS Preprocessors (LESS, SASS, etc)</p>
+
+<p>· Experience with Responsive Design</p>
+
+<p>· Previous projects involving data visualization particularly those involving D3</p>
+
+<p>· Knowledge of JavaScript MV* frameworks (e.g. AngularJS)</p>
+
+<p>WHOOP is pairing proprietary physiological monitors with an online health diagnostic initially targeting athletes. Our first product is a wrist-worn device designed to be worn continuously that provides analysis on Strain, Recovery, and Sleep. The mobile and web platforms allow for deeper insights, competition, and group optimization.</p>
+
+<p>We offer an exciting, young startup environment and offer perks such as subsidized gym membership, team dinners, wearable tech and happy hour Fridays, along with medical benefits, 401k plan, and commuter benefits.</p>
+","Whoop, Inc.","<p>Email resume to: <a href=""mailto:jobs@whoop.com"">jobs@whoop.com</a></p>
+"
+Senior Web Developer,"Solana Beach, CA",Full Time,"<p>Senior Web Developer</p>
+
+<p>Who Are We?</p>
+
+<p>Located only minutes away from the beach, PracticeGenius enjoys a fun, fast-paced and exciting corporate culture that never leaves its team members without a new problem to solve for. We pride ourselves on the diversity that is celebrated amongst our teams. Further, we’re passionate people, collectively sharing in an affinity for intelligent minds, quality of work, taking care of customers and the success that comes with it. As challenges occur, we greatly appreciate the willingness to meet and successfully overcome those moments with an open mind and positive outlook. We strive for a work-life balance and do our best to accommodate for which of the two need the center stage on any given day or week.</p>
+
+<p>If this all sounds good to you and you think we might have a fit, please proceed!</p>
+
+<p>Who Are You?</p>
+
+<ul>
+<li>You&#39;re an experienced LAMP expert who goes to bed reading tech blogs</li>
+<li>You fantasize about highly scalable Javascript applications</li>
+<li>You constantly mutter &quot;GROUP BY&quot; while organizing your desk</li>
+<li>You see any chatroom without emoticons as ineffective</li>
+<li>You branch often and dream about design patterns</li>
+<li>You hate bloated CSS as much as you hate janky animations, and can spot them both</li>
+<li>Introvert or extrovert, you&#39;ve got a phenomenal personality and respect for others</li>
+<li>You don&#39;t take shortcuts, love a challenge, and learn surprisingly fast</li>
+<li>You&#39;re funny.  No really... we love a good laugh</li>
+<li>You&#39;re disciplined, but know when to compromise</li>
+</ul>
+
+<p>What Do You Know?</p>
+
+<ul>
+<li>PHP, MySQL &amp; Javascript on an extensive level</li>
+<li>How to transform PSD designs to modern, standards compliant, HTML &amp; CSS</li>
+<li>When you are actually using a design pattern</li>
+<li>PHP MVC frameworks such as Laravel, CakePHP, or Zend</li>
+<li>How to configure and manage Linux and Apache</li>
+<li>How to both build and use a RESTful web services</li>
+<li>Distributed Version Control Systems</li>
+<li>How to work comfortably on large, small, or remote teams</li>
+<li>How to build scalable systems and applications</li>
+<li>How to achieve great code coverage</li>
+</ul>
+
+<p>Brownie Points - It would really be marvelous if you:</p>
+
+<ul>
+<li>Are comfortable with advanced Git usage: rebase, rebase -i, merge –no-ff</li>
+<li>Are able to list some sources you use to keep current with programming news</li>
+<li>echo &quot;Are comfortable using the Unix command line&quot; | sed -e &quot;s/ / very /&quot;</li>
+<li>Are comfortable with regular expressions</li>
+<li>Are familiar with SASS or LESS and their accompanying wonders</li>
+<li>Have basic image creation and manipulation skills</li>
+<li>Aren&#39;t dogmatic about any aspect of development, even testing</li>
+</ul>
+
+<p>The Fun Stuff</p>
+
+<p>Being located right off Highway 101 has many privileges... We are steps from the beach, walking distance to a full-service Amtrak station, surrounded by local craft breweries and wineries, an abundance of boutique shops and delicious eateries.  Beyond this, we offer our employees new Macs, office bikes, standup desks and a group of work hard play hard team members who are building industry-leading products! What are you waiting for?! Apply already!!!</p>
+
+<p>What Do We Do?</p>
+
+<p>With customers around the globe PracticeGenius is an emerging software-as-a-service provider specializing in customer engagement applications principally through Reward, Social, Gamification, and Contest Media technologies. Through the industry leading Patient Rewards Hub™ we offer a powerful marketing platform that is both simple to administrate while being customizable to unique business requirements. This approach provides the turn-key process, systems and tools necessary to carry out operationally friendly and financially successful marketing strategies for small-to-mid sized operators that typically lack the dedicated resources to do so.</p>
+
+<p>Compensation</p>
+
+<p>Salary is commensurate with experience</p>
+
+<p>Requirements for Consideration</p>
+
+<ul>
+<li>Resume</li>
+<li>Code Samples - Send us an example of some beautiful code</li>
+</ul>
+
+<p>To apply, please see form above</p>
+
+<p>NO RECRUITERS.  Please apply directly.</p>
+",PracticeGenius,"<p>Please apply online here: </p>
+
+<p><a href=""http://careers.practicegenius.com/apply/TFe1w7/Senior-Web-Developer.html"">http://careers.practicegenius.com/apply/TFe1w7/Senior-Web-Developer.html</a></p>
+"
+Java Engineer,"San Francisco, CA",Full Time,"<p>Java Engineer</p>
+
+<p>We are looking for software engineers who want to work in a fun, collaborative, and fast paced environment where ownership, problem solving, and teamwork are rewarded. You will write robust, maintainable, and scalable code every day. You have both a sense of humor and embrace the Extreme Programming values and practices.</p>
+
+<p>Responsibilities</p>
+
+<ul>
+<li>Shape our web and mobile technology innovation as we continuously improve our platform.</li>
+<li>Collaborate on the design and implementation of new features.</li>
+<li>Write elegant, maintainable, and extensible code in a team environment.</li>
+<li>Implement unit and integration tests to ensure the delivery of high quality features.</li>
+</ul>
+
+<p>About You</p>
+
+<ul>
+<li>You are an expert in object-oriented design and have a deep experience using Java (or other OO languages like C++, Ruby, Python).</li>
+<li>You love owning large portions of our code base and using technology to solve business problems.</li>
+<li>You are able to work independently or in teams and manage time effectively.</li>
+<li>You have experience with test-driven development techniques and/or well-disciplined to write unit tests that assert something useful.</li>
+<li>You have experience with hosted, high-volume, multi-tenant SaaS application environments.</li>
+<li>Passion for technology outside the workplace with an interest in the latest open source framework/libraries/tools such as Spring, Hibernate, concurrency, memcached/keyvalue repositories, Freemarker, Tomcat, Subversion, and Maven.</li>
+<li>You understand the importance of security and have experience with OWASP secure coding guidelines.</li>
+<li>You have a technical background with a BS or MS in a computer-related engineering field.</li>
+</ul>
+
+<p>About Us </p>
+
+<p>Switchfly&#39;s multi-tenant, internationalized, SaaS platform powers the world&#39;s most enviable brands. Our mission is to engineer rewarding experiences for our client&#39;s customers and to build world class software.</p>
+
+<p>We are:</p>
+
+<ul>
+<li>wicked smart and super social</li>
+<li>fun loving and charismatic</li>
+<li>proactive and adaptive</li>
+</ul>
+
+<p>Our system processes millions of searches per month with bookings in over 100 countries, 50 currencies and 20 languages. We are growing to meet new business demand and are looking for talented engineers to join our strong team.</p>
+","Switchfly, Inc.","<p>To apply, click here: <a href=""http://www.switchfly.com/careers?gnk=apply&amp;gni=8a42a12b3c9b1c58013cb399197b42bd&amp;gns=Github"">http://www.switchfly.com/careers?gnk=apply&amp;gni=8a42a12b3c9b1c58013cb399197b42bd&amp;gns=Github</a></p>
+"
+Javascript Architect,"San Francisco, CA",Full Time,"<p>Javascript Architect</p>
+
+<p>We are looking for a Javascript Architect to design and implement our web and mobile applications. You will collaborate with our team of engineers and web developers to build a sustainable, reusable, and scalable codebase. Our success is based on an ongoing discussion about how the tech community is identifying and solving some of the most difficult problems in today&#39;s environment. You will be responsible for participating in that discussion and implementing those solutions across our platform.</p>
+
+<p>About The Role</p>
+
+<ul>
+<li>Innovate and improve on our platform</li>
+<li>Collaborate on the design and implementation of our system services and front-end </li>
+<li>Work with teams to help disseminate best practices </li>
+<li>Write unit, integration, and end-to-end tests to prove code quality</li>
+</ul>
+
+<p>About You</p>
+
+<ul>
+<li>You are an expert in JavaScript, CSS, and HTML</li>
+<li>You are passionate for open source technologies, frameworks, and modern tools, in particular, jQuery, Ember.js, SASS, Bootstrap, Spring MVC, Grunt, and Git</li>
+<li>You have a disciplined approach of writing elegant, understandable code</li>
+<li>You have a serious interest in front end and back end architecture </li>
+<li>You are an expert in object-oriented design and have experience using Java (or other OO languages)</li>
+<li>You have experience working with and designing RESTful APIs</li>
+<li>You believe in the value of testing your code</li>
+<li>You are very conscious of web application security</li>
+</ul>
+
+<p>About Us 
+Switchfly&#39;s multi-tenant, internationalized, SaaS platform powers the world&#39;s most enviable brands. Our mission is to engineer rewarding experiences for our client&#39;s customers and to build world-class software.</p>
+
+<ul>
+<li>We have a passion for learning and improving our craft</li>
+<li>We are smart, fun loving, and charismatic</li>
+<li>We are proactive and adaptive</li>
+</ul>
+
+<p>Our system processes millions of searches per month with bookings in over 100 countries, 50 currencies, and 20 languages. We are growing to meet new business demand and are looking for talented engineers to join our strong team. Visit our website to learn more: <a href=""http://www.switchfly.com"">http://www.switchfly.com</a>.</p>
+","Switchfly, Inc.","<p>To apply, click here: <a href=""http://www.switchfly.com/careers?gnk=apply&amp;gni=8a42a12b3fa43372013fc5a8ff8b7904&amp;gns=Github"">http://www.switchfly.com/careers?gnk=apply&amp;gni=8a42a12b3fa43372013fc5a8ff8b7904&amp;gns=Github</a></p>
+"
+Wireless Roaming Software Engineer,"Palo Alto, CA",Full Time,"<p>Company Description</p>
+
+<p>Suitable is redefining face-to-face interaction and building a new market. We’re looking for creative, collaborative, and entrepreneurial talent to join our team.</p>
+
+<p>Job Description</p>
+
+<p>We&#39;re looking for talented engineers to work on our wireless roaming system. Your focus will be to ensure that our customers always experience seamless network connectivity as they roam the Beam around heterogeneous WiFi and/or 4G environments.</p>
+
+<p>This is a broad job description. Candidates who cannot cover the whole range of roles and skills will still be considered.</p>
+
+<p>Roles and Responsibilities</p>
+
+<ul>
+<li> Find, build, compile, test and debug 4G and WiFi Linux drivers. (C)</li>
+<li> Participate in the selection of 4G and WiFi hardware.</li>
+<li> Add features to and maintain WiFi/4G roaming code. (Python, and some C++)</li>
+<li> Expand WiFi/4G test suites. (Python)</li>
+<li> Develop tools to help diagnose problems in the field. (Python, and some C++)</li>
+<li> Provide responsive support when new networking difficulties are discovered in the field.</li>
+<li> Improve integration of roaming code with videoconferencing application (C++ and Python)</li>
+</ul>
+
+<p>Qualifications</p>
+
+<p>Skills / Job Requirements</p>
+
+<ul>
+<li> Degree in Computer Science or related technical field (or equivalent)</li>
+<li> Solid knowledge of data structures, algorithms, and software design</li>
+<li> Solid understanding of Linux networking</li>
+<li> Solid understanding of WiFi and Cellular (4G) networking</li>
+<li> Extensive programming experience in C/C++/Python</li>
+<li> Experienced Linux user</li>
+<li> Ability to get things done quickly and of high quality</li>
+<li> Willingness to take on new challenges and solve unfamiliar problems</li>
+</ul>
+
+<p>In addition, we love to see people with personal projects that show an interest in product development and good engineering principles.</p>
+
+<p>Additional Information</p>
+
+<p>All your information will be kept confidential according to EEO guidelines.</p>
+","Suitable Technologies, Inc.","<p>Please apply online at: <a href=""https://www.smartrecruiters.com/SuitableTechnologiesInc/77842596-wireless-roaming-software-engineer"">https://www.smartrecruiters.com/SuitableTechnologiesInc/77842596-wireless-roaming-software-engineer</a></p>
+"
+Networking Software Engineer,"Palo Alto, CA",Full Time,"<p>Company Description</p>
+
+<p>Suitable is redefining face-to-face interaction and building a new market. We’re looking for creative, collaborative, and entrepreneurial talent to join our team.</p>
+
+<p>Job Description</p>
+
+<p>We&#39;re looking for talented engineers to work on our videoconferencing application’s networking stack. Your focus will be to ensure that our client is able to function with minimal configuration behind a broad range of corporate firewalls, and provide low-loss, low-latency connectivity for call data.</p>
+
+<p>This is a broad job description. Candidates who cannot cover the whole range of roles and skills will still be considered.</p>
+
+<p>Roles and Responsibilities</p>
+
+<ul>
+<li> Develop congestion control algorithms.</li>
+<li> Develop loss management algorithms using Forward Error Correction and retransmission.</li>
+<li> Develop additional NAT/Firewall traversal protocols.</li>
+<li> Develop relays to allow media traffic to flow despite firewalls.</li>
+<li> Help design and develop our relay deployment strategy.</li>
+<li> Add IPv6 support to the product.</li>
+<li> Develop tools to help diagnose problems in the field.</li>
+<li> Provide responsive support when new networking difficulties are discovered in the field.</li>
+</ul>
+
+<p>Qualifications</p>
+
+<p>Skills / Job Requirements</p>
+
+<ul>
+<li> Degree in Computer Science or related technical field (or equivalent)</li>
+<li> Solid knowledge of data structures, algorithms, and software design</li>
+<li> Solid understanding of IP networking</li>
+<li> Extensive programming experience C++</li>
+<li> Experience writing networking code on Linux, Windows and OSX</li>
+<li> Experience with Linux</li>
+<li> Ability to get things done quickly and of high quality</li>
+<li> Willingness to take on new challenges and solve unfamiliar problems</li>
+<li> +1 for security experience</li>
+</ul>
+
+<p>In addition, we love to see people with personal projects that show an interest in product development and good engineering principles.</p>
+
+<p>Additional Information</p>
+
+<p>All your information will be kept confidential according to EEO guidelines.</p>
+","Suitable Technologies, Inc.","<p>Please apply online at: <a href=""https://www.smartrecruiters.com/SuitableTechnologiesInc/77842502-networking-software-engineer"">https://www.smartrecruiters.com/SuitableTechnologiesInc/77842502-networking-software-engineer</a></p>
+"
+Web Designer,Amsterdam,Full Time,"<p>Booking.com - planet Earth’s #1 accommodation website - is looking for the world’s smartest designers. As a member of our Front End team you’ll be given the freedom to make meaningful and measurable improvements impacting millions of people. You’ll join us at our beautiful Amsterdam HQ and work with some of our industry’s smartest people.</p>
+
+<p>About the Front End team</p>
+
+<p>Our guiding principle is that by helping our users we help our business. As a designer in our Front End team you&#39;ll be a key part of the idea generation process, working in a small startup-like group which takes full ownership of their part of our platform. You&#39;ll work with developers, product owners, copywriters and user researchers to conceive, analyse, hand code &amp; test your ideas.</p>
+
+<p>About You</p>
+
+<p>‘Designer’ is just what it says on your CV - you’d be just as happy to be labeled an Engineer, or Analyst; a Builder, Hacker or Maker. Because what you really do, what you live for, is solving problems. Your portfolio isn’t a series of beautiful but generic templates - it’s a collection of stories that you can discuss with enthusiasm, and regret ... because you’re always getting better at what you do and you’re never satisfied with ‘good enough.’. You’re equally comfortable discussing colour theory, user psychology, or the semantic implications of the DIV tag, you&#39;re a writer of excellent HTML &amp; CSS. You’re excited about the endless potential of the web, and being able to build things that millions of people can use every day.</p>
+
+<p>Your skills</p>
+
+<p>Your core responsibility will be in combining your knowledge and expertise with the goals of our business to deliver a world-class user experience to our diverse, loyal user-base. You’ll be comfortable taking a data-led approach to design. You will be a passionate advocate for the user, dedicated to the craft of design and excited about working in an agile, collaborative environment.</p>
+
+<p>-Simplicity: Good design is invisible.</p>
+
+<p>-Collaboration: You’ll be working alongside developers and copywriters to create elegant user experiences; you should thrive on feedback, critique and iteration.</p>
+
+<p>-Visual Design: Photoshop, Fireworks, Keynote, MS Paint - whatever works for you. Your process is your own; you get to decide which tools you use.</p>
+
+<p>-HTML/CSS: You’ll be given full ownership of your ideas, and so you’ll be required to both create beautiful mockups/wireframes/prototypes - and implement them.</p>
+
+<p>Required Experience</p>
+
+<p>-You have a minimum of 2 years UX design experience 
+-You’ve Mastered front-end technologies: HTML and CSS 
+-You’ve got experience or are enthusiastic to work in a large e-commerce environment 
+-You&#39;re excited to learn how to work with our templating and version control systems.</p>
+
+<p>Our Offer</p>
+
+<p>-Competitive salary and bonus scheme</p>
+
+<p>-Global relocation package, full support for you and your family</p>
+
+<p>-26 days paid vacation plus an average of 9 public holidays extra</p>
+
+<p>-Discount on hotel bookings</p>
+
+<p>-Opportunities to attend conferences, internal and external trainings, workshops, etc.</p>
+
+<p>-Vibrant company culture, including our annual Christmas all-hands conference and year-end party!</p>
+
+<p>Interested?</p>
+
+<p>We offer a competitive salary plus bonuses, with opportunities for career progression within our fast growing company. This position is open to worldwide candidates and in the case of relocation we will assist you with a relocation package insuring a smooth transition to working and living in the Netherlands, where you’ll be joining a team of people from all over the world who now call Amsterdam home.</p>
+
+<p>The perfect candidate has a passion their craft... and a portfolio with examples of your web design to back it up. Send us a link or upload your work and tell us all about it. Please submit your CV, portfolio and Motivation Letter in English.</p>
+
+<p>IMPORTANT!!  All candidates must send a portfolio with personal design contributions or work samples, otherwise the application cannot be taken into consideration.</p>
+",Booking.com,"<p>Please apply via our career page:
+<a href=""https://workingatbooking.com/vacancies/web-designer/"">https://workingatbooking.com/vacancies/web-designer/</a></p>
+"
+UX Designer,Amsterdam,Full Time,"<p>Booking.com - planet Earth’s #1 accommodation website - is looking for the world’s smartest designers. As a member of our Front End team you’ll be given the freedom to make meaningful and measurable improvements impacting millions of people. You’ll join us at our beautiful Amsterdam HQ and work with some of our industry’s smartest people.</p>
+
+<p>About the Front End team</p>
+
+<p>Our guiding principle is that by helping our users we help our business. As a designer in our Front End team you&#39;ll be a key part of the idea generation process, working in a small startup-like group which takes full ownership of their part of our platform. You&#39;ll work with developers, product owners, copywriters and user researchers to conceive, analyse, hand code &amp; test your ideas.</p>
+
+<p>About You</p>
+
+<p>‘Designer’ is just what it says on your CV - you’d be just as happy to be labeled an Engineer, or Analyst; a Builder, Hacker or Maker. Because what you really do, what you live for, is solving problems. Your portfolio isn’t a series of beautiful but generic templates - it’s a collection of stories that you can discuss with enthusiasm, and regret ... because you’re always getting better at what you do and you’re never satisfied with ‘good enough.’. You’re equally comfortable discussing colour theory, user psychology, or the semantic implications of the DIV tag, you&#39;re a writer of excellent HTML &amp; CSS. You’re excited about the endless potential of the web, and being able to build things that millions of people can use every day.</p>
+
+<p>Your skills</p>
+
+<p>Your core responsibility will be in combining your knowledge and expertise with the goals of our business to deliver a world-class user experience to our diverse, loyal user-base. You’ll be comfortable taking a data-led approach to design. You will be a passionate advocate for the user, dedicated to the craft of design and excited about working in an agile, collaborative environment.</p>
+
+<p>-Simplicity: Good design is invisible.</p>
+
+<p>-Collaboration: You’ll be working alongside developers and copywriters to create elegant user experiences; you should thrive on feedback, critique and iteration.</p>
+
+<p>-Visual Design: Photoshop, Fireworks, Keynote, MS Paint - whatever works for you. Your process is your own; you get to decide which tools you use.</p>
+
+<p>-HTML/CSS: You’ll be given full ownership of your ideas, and so you’ll be required to both create beautiful mockups/wireframes/prototypes - and implement them.</p>
+
+<p>Required Experience</p>
+
+<p>-You have a minimum of 2 years UX design experience 
+-You’ve Mastered front-end technologies: HTML and CSS 
+-You’ve got experience or are enthusiastic to work in a large e-commerce environment 
+-You&#39;re excited to learn how to work with our templating and version control systems.</p>
+
+<p>Our Offer</p>
+
+<p>-Competitive salary and bonus scheme</p>
+
+<p>-Global relocation package, full support for you and your family</p>
+
+<p>-26 days paid vacation plus an average of 9 public holidays extra</p>
+
+<p>-Discount on hotel bookings</p>
+
+<p>-Opportunities to attend conferences, internal and external trainings, workshops, etc.</p>
+
+<p>-Vibrant company culture, including our annual Christmas all-hands conference and year-end party!</p>
+
+<p>Interested?</p>
+
+<p>We offer a competitive salary plus bonuses, with opportunities for career progression within our fast growing company. This position is open to worldwide candidates and in the case of relocation we will assist you with a relocation package insuring a smooth transition to working and living in the Netherlands, where you’ll be joining a team of people from all over the world who now call Amsterdam home.</p>
+
+<p>The perfect candidate has a passion their craft... and a portfolio with examples of your web design to back it up. Send us a link or upload your work and tell us all about it. Please submit your CV, portfolio and Motivation Letter in English.</p>
+
+<p>IMPORTANT!!  All candidates must send a portfolio with personal design contributions or work samples, otherwise the application cannot be taken into consideration.</p>
+",Booking.com,"<p>Please apply via our careers page:
+<a href=""https://workingatbooking.com/vacancies/ux-designer/"">https://workingatbooking.com/vacancies/ux-designer/</a></p>
+"
+Allround Systeembeheerder / System Administrator,Amsterdam,Full Time,"<p><em>Zoek jij een uitdagende baan met veel afwisseling? Waar jouw mening zeer op prijs wordt gesteld en jouw expertise op waarde wordt geschat? Versterk ons team bij AG5.com als</em></p>
+
+<p><strong><em>Allround Systeembeheerder / System Administrator</em></strong></p>
+
+<p>Locatie: Amsterdam</p>
+
+<p><strong>Jouw functie</strong>
+In deze functie bied jij technische ondersteuning van onze webbased producten en onze infrastructuur. Jij zorgt ervoor dat alle systemen continu functioneren en jij ondersteunt mede daardoor de continue groei van AG5.com. Jij maakt deel uit van het Framework Team om nieuwe en reeds draaiende systemen en software te ontwerpen, installeren, updaten, troubleshooten en te repareren.</p>
+
+<p><strong>Jouw taken</strong> </p>
+
+<p>Als systeembeheerder zorg jij ervoor dat de organisatie draait: </p>
+
+<ul>
+<li>Jij houdt je bezig met de automatisering van management systemen van zowel nieuwe, als reeds geïmplementeerde systemen;</li>
+<li>Jij bewaakt dagelijks de performance en stabiliteit van alle productiesystemen, waarbij je jouw analytische vaardigheden inzet om toekomstige problemen te voorkomen en de opgespoorde aandachtspunten effectief op te lossen;</li>
+<li>Jij doet aan troubleshooting bij problemen en samen met software ontwikkelaars en met collega’s van de commerciële afdeling help jij structurele problemen doelgericht uit de wereld;</li>
+<li>Jij ondersteunt het release-proces op technisch vlak;</li>
+<li>Jij neemt deel aan het on-call rotatieprincipe voor de support buiten kantoortijden. </li>
+</ul>
+
+<p><strong>Jouw vaardigheden en ervaring</strong></p>
+
+<ul>
+<li>Afgeronde HBO Bèta opleiding (Informatica, Natuurkunde, Technische Bedrijfskunde enz.);</li>
+<li>Minimaal 4 jaar werkervaring;</li>
+<li>Goede programmeervaardigheden in scripting-talen;</li>
+<li>Ruime ervaring met Linux systemen;</li>
+<li>Ervaring met en affiniteit voor configuratiebeheer;</li>
+<li>Kennis van systeemvirtualisatie.</li>
+</ul>
+
+<p>Jij functioneert goed binnen een team. Dat betekent dat jij je communicatie op je collega’s en klanten afstemt om samen tot een effectieve samenwerking te komen. Daarbij hoort dat jij zowel met collega’s kan overleggen die van alle technische In’s en Out’s weten, als ook aan niet-technisch onderlegde collega’s kunt uitleggen wat jij bedoelt. Verder ben jij nieuwsgierig en toegewijd waardoor jij altijd voor de beste oplossing gaat. </p>
+
+<p><strong>Bonus punten</strong></p>
+
+<ul>
+<li>Ervaring met versiebeheer-systemen;</li>
+<li>Ervaring met database-administratie;</li>
+<li>Legendarische pingpong skills. </li>
+</ul>
+
+<p><strong>Wij bieden</strong></p>
+
+<p>Werken bij AG5.com biedt jou veel voordelen. Wij bieden jou:</p>
+
+<ul>
+<li>Een competitief salaris;</li>
+<li>Een aantrekkelijke bonus plan;</li>
+<li>25 vakantiedagen;</li>
+<li>Reiskostenvergoeding;</li>
+<li>Een pensioenregeling;</li>
+<li>Opleidings- en scholingsmogelijkheden.</li>
+</ul>
+
+<p>Onze werkomgeving is dynamisch, motiverend en uitdagend. Complexe projecten worden afgewisseld met het verhelpen van storingen en de ondersteuning van collega’s. Wij hebben bij AG5.com een open, innovatieve en resultaatgerichte cultuur waar iedereen op waarde wordt geschat. En iedereen het beste uit zichzelf wil halen. </p>
+
+<p><strong>Werken bij AG5.com</strong></p>
+
+<p>AG5.com is marktleider in webbased Skills Managementsystemen in Nederland. Wij ondersteunen meer dan 11.000 gebruikers en 300.000 veiligheidsprofielen. De reikwijdte en omvang van onze diensten, onze aandacht voor mensen en de hoge mate aan integriteit maken AG5.com een fantastische organisatie om voor te werken.</p>
+
+<p>Onze cultuur draait om goede ideeën en een prestatiegerichte houding. Wij allen zijn samen daarvoor verantwoordelijk om ons bedrijf naar een nog hoger niveau te tillen. Wij geloven erin dat elke medewerker waarde aan het bedrijf kan toevoegen, gewoon door zichzelf te zijn. </p>
+
+<p>Wij dagen je uit om jouw stempel op onze organisatie te drukken door op deze vacature te solliciteren.</p>
+
+<p><strong><em>Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld.</em></strong></p>
+
+<p><em>Trefwoorden: HTS, Linux beheerder, Programmeur, Scripten, IT.</em></p>
+",AG5 B.V.,"<p><strong>Klinkt goed?</strong></p>
+
+<p>Solliciteer nu met jouw CV en motivatie via onderstaande link en wij nemen binnen twee dagen contact met jou op.</p>
+
+<p><a href=""http://ag5.heeft-vacatures.nl/Allround_Systeembeheerder_System_Administrator_Amsterdam/27300/V147/solliciteren"">Klik hier voor het sollicitatieformulier!</a></p>
+"
+Senior Rapid Prototyping Software Engineer,"San Francisco, CA",Full Time,"<p>New Relic
+Senior Rapid Prototyping Software Engineer
+San Francisco, CA</p>
+
+<p>New Relic is software analytics. Fueled by real-time data from production software, we provide clear, actionable intelligence about high-velocity web and mobile applications and their end-users. We are building a team of engineers who will have a direct impact on the future of multiple products that are/will be used by tens of thousands of customers every day. </p>
+
+<p>The right person for this job delights in building solutions, has a talent for executing quickly, and has “agile” in their DNA. They can confidently build any type of software component and if they don’t know something, they’ll learn and adapt very quickly. They probably have 5+ years of software development experience with a couple of those years working in Java. And they undoubtedly have open source contributions with a GitHub repository, personal project page, or blog. </p>
+
+<p>Their ideal environment is driven by rapid prototyping concepts and they have a demonstrated record of using creativity and innovation to go beyond current tools to deliver the best solution to complex problems.</p>
+
+<p>This is an opportunity to innovate and have a direct impact on our future product line.  It is a high-visibility role in an environment where the Founder/CEO actively participates in the creation and development of our product suite.</p>
+
+<p>So if you are ready to do your best work, in a “Best Place to Work” environment, then click the link below and join us on our incredible journey of changing how the world uses software.</p>
+
+<p>Skills and experience needed for the job:</p>
+
+<ul>
+<li>  Real tech fluency - Significant experience with multiple backend language(s) such as Java, Ruby, Python, or Node.js</li>
+<li>  Has proven track record of building working prototypes</li>
+<li>  Worked in a highly interactive, team-oriented environment</li>
+<li>  Broad understanding of SaaS and technology trends</li>
+</ul>
+
+<p>A little about us:</p>
+
+<p>New Relic is a software analytics company that, on behalf of our customers, makes sense of billions of metrics about millions of applications, all in real time. Our comprehensive SaaS-based solution for web and mobile applications consolidates the performance monitoring data into a single, powerful interface. Our 90,000+ customers use New Relic every day to optimize more than three million applications. </p>
+
+<p>New Relic is a San Francisco Best Places to Work award winner, an Oregon “Top Workplace” award winner, named a leader in the Gartner’s 2013 “Magic Quadrant” for APM companies, a Top 100 OnDemand Company, Best of SaaS (THINKStrategies), Top 100 Coolest Cloud Computing (CRN); 10 Cloud Management Companies to Watch (NetworkWorld) – the list of accolades goes on. More important than all of that: we provide challenging work, opportunities to learn, high quality teammates, a standard-setting product, and a company on the move.</p>
+
+<p>Our office is in the tech-rich urban center of San Francisco, with easy commute access and a plethora of good eats. We provide competitive compensation, stock options, and big-company benefits (medical, dental, etc) -- all while maintaining the energy, agility, and fun of a start-up. We can help with relocation and are open to H1-B transfers.</p>
+
+<p>New Relic is most decidedly an equal opportunity employer. We seek applicants of diverse background and hire without regard to race, color, gender, religion, national origin, ancestry, citizenship, disability, age, sexual orientation, or any other characteristic protected by law. Note: Our stewardship of the data of thousands of customers’ means that a criminal background check is required to join New Relic.</p>
+
+<p>To get started, click on the link below. To fast track your application, let us know in your cover letter why this job, product, and/or company is of particular interest to you. And remember to include your online identity – Github, blog, portfolio etc.</p>
+
+<p>Apply Here: <a href=""http://www.Click2Apply.net/2fdbkjw"">http://www.Click2Apply.net/2fdbkjw</a></p>
+",New Relic,"<p>Apply Here: <a href=""http://www.Click2Apply.net/2fdbkjw"">http://www.Click2Apply.net/2fdbkjw</a></p>
+"
+PHP Developer,Minneapolis,Full Time,"<p>ABOUT GOKART LABS</p>
+
+<p>At GoKart Labs, we deliver digital innovation. </p>
+
+<p>We grow businesses (for our clients and ourselves) through four practices: Invention &amp; Business Strategy, User Experience &amp; Design, Web &amp; Mobile Software Development, and Digital Marketing.</p>
+
+<p>We are adding to our team of the best and brightest– balanced, curious, creative and passionate people who believe in purposeful innovation. </p>
+
+<p>ABOUT THE JOB: PHP DEVELOPER</p>
+
+<p>You will work in a creative and highly collaborative environment to develop a wide variety of web-based products using PHP, JavaScript, MySQL, CSS, and AJAX, but also delving into other technologies as needed. GoKart utilizes a wide variety of open source technology stacks for our various projects. We typically focus on custom LAMP, WordPress, and Rails implementations.</p>
+
+<p>REQUIRED SKILLS &amp; EXPERIENCE</p>
+
+<p>Strong and demonstrable PHP, JavaScript, MySQL, HTML/HTML5, CSS3, and AJAX skills.
+Deep expertise with a variety of website CMS systems, including hands-on WordPress programming experience, including proficiency in the install, maintenance and administration of WordPress themes and plugins. Experience with custom WordPress theme and plugin development.
+Responsive web design and development experience.
+Experience integrating open source and third-party applications into existing systems.
+Strong oral and written communication skills and strong listening skills.</p>
+
+<p>MINIMUM TECHNICAL REQUIREMENTS</p>
+
+<p>5+ years experience as a professional web developer.
+2+ years experience developing custom web applications and APIs in PHP.
+Experience extending a variety of existing applications, frameworks and software libraries.
+Experience leveraging best practices in web development through the use of proper design patterns, integration/unit testing, security, version control, etc.
+Experience setting up, configuring, and developing sites using WordPress</p>
+
+<p>TECHNICAL NICE-TO-HAVE&#39;s</p>
+
+<p>Experience or motivation to learn other open-source technologies, platforms, languages and frameworks (eg. Rails, mongoDB, node.js, Laravel, Heroku, New Relic, capistrano, etc).
+Experience / understanding of data modeling best practices.
+Experience with complex analytics implementations.
+Experience with JavaScript frameworks (Ember, AngularJS, Backbone.js, etc) a plus
+Proficient with Git
+Setting up, configuring, and developing sites using WordPress</p>
+
+<p>CORE BUSINESS EXPECTATIONS</p>
+
+<p>Manage project deliverables and due dates assuring on-time, high-quality software for our clients.
+Work closely with project participants to define and refine requirements.
+Consistently meet established deadlines through proper organization and follow up.
+Balance discipline and structure with the necessary flexibility of an emerging company environment.</p>
+
+<p>ABOUT YOUR BACKGROUND</p>
+
+<p>Bachelor’s degree in Computer Science, Mathematics or a related field or 5+ years of professional web development experience working in a team environment.</p>
+
+<p>ABOUT THE STRUCTURE</p>
+
+<p>You’ll report to the Director of Technology.
+You’ll work closely with other developers (back-end, front-end, and mobile), group leaders and other employees across the company.</p>
+
+<p>ABOUT OUR COMPENSATION AND BENEFITS</p>
+
+<p>Our commitment to your success is enhanced by our competitive compensation and benefits package including paid time off, medical, dental, 401K, profit sharing, metro bus pass, and future growth opportunities within the company.</p>
+
+<p>We work hard to maintain the best possible environment for our employees, where people can learn and grow with the company. We strive to provide a fun, creative environment where everyone feels encouraged to contribute to our processes, decisions, planning and culture. To learn more about us, please visit: <a href=""http://www.gokartlabs.com"">www.gokartlabs.com</a>  </p>
+
+<p>GoKart Labs is an equal opportunity employer. © 2014 GoKart Labs</p>
+",GoKart Labs,"<p><a href=""mailto:gigs@gokartlabs.com"">gigs@gokartlabs.com</a></p>
+"
+Ruby Developer,Minneapolis,Full Time,"<p>ABOUT GOKART LABS</p>
+
+<p>GoKart Labs is in the digital experience business. We invent, design, develop, launch, promote and optimize digital strategies. We create websites, mobile experiences, applications &amp; businesses for our clients... and for ourselves. We are growing a team of smart, curious, creative and passionate people who “like things that matter.”
+Located in the heart of the Minneapolis Warehouse District, GoKart Labs is an agile organization and believes in open innovation and experimentation while applying data &amp; analytics to constantly improve results and make us all better at what we do.</p>
+
+<p>ABOUT THE JOB:  RUBY DEVELOPER</p>
+
+<p>The Ruby Developer will work in a creative and highly collaborative environment to develop custom web based applications and APIs.  Using an agile development methodology, you will engage in a ‘Build, Measure &amp; Expand’ strategy allowing GoKart Labs to deliver digital solutions that evolve and grow with our clients, or the businesses we invent.</p>
+
+<p>MINIMUM TECHNICAL REQUIREMENTS</p>
+
+<p>5+ years experience as a professional back-end software engineer.
+2+ years experience developing web applications and APIs in Ruby, with experience using Rails and/or Sinatra.
+Experience / understanding of best practices in software development through the use of proper design patterns, integration/unit testing, security, version control, etc.
+Experience or motivation to learn other open-source technologies, platforms, languages and frameworks (eg. Node.js, mongoDB, PHP, WordPress, Laravel, Heroku, New Relic, capistrano, git)
+Experience extending a variety of existing applications, frameworks and software libraries.
+Experience / understanding of data modeling best practices.
+Candidates will be expected to submit code examples and/or open-source projects they’ve contributed to as part of the interview process.</p>
+
+<p>CORE BUSINESS EXPECTATIONS</p>
+
+<p>Must be comfortable working in a collaborative development environment (paired programming, code reviews, etc)
+Manage project deliverables and due dates assuring on-time, high-quality software for our clients.
+Work closely with project participants to define and refine requirements.
+Consistently meet established deadlines through proper organization and follow up.
+Balance discipline and structure with the necessary flexibility of an emerging company environment.</p>
+
+<p>ABOUT YOUR BACKGROUND</p>
+
+<p>5+ years of professional software development experience working in a team environment.
+Bachelors degree in Computer Science, Mathematics or a related field.</p>
+
+<p>ABOUT THE STRUCTURE</p>
+
+<p>You’ll report to the Director of Technology.
+You’ll work closely with other developers (back-end, front-end, and mobile), group leaders and other employees across the company.</p>
+
+<p>WHAT YOU CAN EXPECT FROM US
+Our commitment to your success is enhanced by our competitive compensation and benefits package including paid time off, medical, dental, 401K with company contribution, maternity / paternity leave, metro bus pass, and future growth opportunities within the company.  We work hard to maintain the best possible environment for our employees, where people can learn and grow with the company. We strive to provide a fun, creative environment where everyone feels encouraged to contribute to our processes, decisions, planning and culture. To learn more about us, please visit: <a href=""http://www.gokartlabs.com"">www.gokartlabs.com</a></p>
+
+<p>GoKart Labs is an equal opportunity employer. © 2014 GoKart Labs</p>
+",GoKart Labs,"<p><a href=""mailto:gigs@gokartlabs.com"">gigs@gokartlabs.com</a></p>
+"
+Software Engineer,"Washington, DC ",Full Time,"<p>Join KaBOOM! </p>
+
+<p>We’re seeking a talented individual to work at our Washington, DC headquarters as our Manager, Software Engineering position.  This senior-level position as a full-stack engineer will be playing a crucial role in constructing the technical infrastructure and code architecture of KaBOOM!&#39;s technical initiatives. Some of the duties of this position include: </p>
+
+<ul>
+<li>Conceptualize, design, development, and maintain new and existing web products and applications in an Agile (two-week iterations, bug-days &amp; pair programming) environment</li>
+<li>Contribute as a full stack engineer to ALL portions of the development cycle, including the front-end/UI, application, data, server, and (virtual) hardware layers, etc.</li>
+<li>Find and implement the right tool(s) for the job</li>
+<li>Make the team stronger</li>
+<li>Ensure a high quality product </li>
+</ul>
+
+<p>Qualifications</p>
+
+<ul>
+<li>Have 4+ years of experience developing/configuring all levels of the stack with web applications, with minimally 1 year with Ruby on Rails (Rails 3.0+).</li>
+<li>Be extremely proficient with JavaScript / JQuery, HTML, CSS</li>
+<li>Feel very comfortable working in the database layer, from creating DDLs to setting up monitoring tools for performance tracking and visibility. PostgreSQL experience preferred.</li>
+<li>Think setting up new Ubuntu/Linux servers by hand is not fun after the first time, and you&#39;d rather write a configuration script using any of the great configuration management tools available (Ansible, Fabric, Chef, Puppet, etc., ...).</li>
+<li>Recognize that getting the job done is the most important thing at the end of the day, and sometimes that means by brute force in lieu of elegantly designed solutions.</li>
+<li>Want to work with your (albeit small) team to in a constructive and productive way; to achieve the end-goal of making it run like a well-oiled machine</li>
+<li>Appreciate TDD and BDD</li>
+<li>Feel very comfortable with Git</li>
+</ul>
+
+<p>About KaBOOM! 
+KaBOOM! is the national non-profit dedicated to the bold new goal of ensuring that all children, particularly the 16 million American children living in poverty, get the balance of active play they need to become healthy and successful adults. KaBOOM! has been a powerful champion for play since its founding in 1996, working with partners to build, improve and open more than 15,000 playgrounds, engage more than 1,000,000 volunteers and serve more than 6,600,000 children. KaBOOM! creates and catalyzes great places to play, inspires, empowers and leads play advocates, and educates and elevates the societal conversation about the importance of play in children’s lives. For more information, visit kaboom.org/act or follow the conversation on why #PlayMatters at twitter.com/kaboom or facebook.com/kaboom. </p>
+
+<p>We have a fun and dynamic work atmosphere filled with talented Boomers who want to make a difference in children’s lives.  In addition, we offer competitive compensation and an excellent benefits package, including; health, dental, vision, life insurance, matching 403(b) program, generous PTO and holiday time.  If this position sounds like an  opportunity you’ve been looking for and you meet our qualifications; apply online at: <a href=""http://kaboom.applicantpro.com/jobs/"">http://kaboom.applicantpro.com/jobs/</a>.   Please make sure in include your resume and cover letter with your application.  KaBOOM! is an EOE dedicated to workforce diversity.</p>
+",KaBOOM!,"<p>Apply online at: <a href=""http://kaboom.applicantpro.com/jobs/"">http://kaboom.applicantpro.com/jobs/</a>.<br>
+Please make sure in include your resume and cover letter with your application.</p>
+"
+Software Engineer,"Irvine, CA",Full Time,"<p>Illuminate software and support solutions were designed to match our mantra, “one system, one login, one solution”. Since its founding in 2009, we have been creating software and service solutions for over 600 school districts across the United States with our three products that provide a complete data, information, and assessment solution for all school districts. </p>
+
+<p>We’re looking for someone who gets fired up about working for a company with vision and purpose, who believes that they have a lot to learn, and who can be flexible and creative in a fast-paced development environment. </p>
+
+<p>Our team of developers takes ownership over the product and has a direct impact on the experience of K-12 students, teachers, parents, and administrators. We’re hiring a software engineer who’s ready to work hard to bring us to and through the next phases of our growth and can have a good time with a cool and laid-back team while you do it. </p>
+
+<p>At Illuminate, we believe that it’s your ship. We don’t have bosses, managers, supervisors, or executives; we’re all Illuminators, and we’re all trying to change the world.</p>
+
+<p>Qualifications: </p>
+
+<ul>
+<li>  Comfort/fluency in a PHP shop </li>
+<li>  Ability to solve difficult problems at a large scale with an orientation towards performance and scalability</li>
+<li>  Familiarity with HTML, Javascript, and CSS</li>
+<li>  Belief in constant learning and growth (after all, we’re an education company)</li>
+<li>  Flexibility and positivity coupled with a true commitment to our end users</li>
+<li>  Experience with jQuery, MVC design pattern (e.g. Zend Framework), and version control software</li>
+<li>  The ability to laugh at yourself and at others (when appropriate)</li>
+<li>  Interest in contributing towards a complex and powerful tool that is changing the way that classrooms, schools, and districts serve their students</li>
+</ul>
+
+<p>Technologies and vendors we use: PHP, Zend Framework, CentOS, jQuery, Node.js, Bootstrap, Git/GitHub, Bazaar, Composer, PHPUnit, Basecamp, ZenDesk, Jira</p>
+",Illuminate Education,"<p>To apply, please send your resume, references and salary history to <a href=""mailto:jobs@illuminateed.com"">jobs@illuminateed.com</a></p>
+"
+Full Stack Developer - Analytics,San Francisco Preferred Remote OK,Full Time,"<p><strong>Summary</strong></p>
+
+<p>The Analytics Team at Wikimedia Foundation is looking for a Full Stack Developer. Join our team of engineers and scientists and help us curate data generated by the world&#39;s largest collaborative project, Wikipedia and its sister projects. We protect privacy, share data, build APIs, and help our feature and product teams understand what to focus on.</p>
+
+<p>We use open source tools as much as possible, and always open source our own work (<a href=""https://git.wikimedia.org"">https://git.wikimedia.org</a>).  Python, Java, and Javascript make up most of our code, but we value using the right tool for the job.  We have autonomy and responsibility and can have a large and immediate impact on the future of the site.  </p>
+
+<p><strong>Description</strong></p>
+
+<ul>
+<li><p>Design, develop, test, and deploy new features, improvements and upgrades to the systems that support analytics operations to aggregate, serve and visualize our data</p></li>
+<li><p>Assist developers and community members in identifying and resolving issues with the software and configuration of Wikimedia&#39;s analytics infrastructure</p></li>
+<li><p>Work collaboratively with the research team and the Wikimedia community</p></li>
+</ul>
+
+<p><strong>Requirements</strong></p>
+
+<ul>
+<li><p>Experience with some of the following languages in a Linux/Unix server environment: Python, PHP, Java, Javascript,  C, and Scala</p></li>
+<li><p>Experience with MySQL/Postgres or similar database technology</p></li>
+<li><p>Experience developing APIs for data retrieval and Web Applications</p></li>
+<li><p>Understanding of basic statistical concepts</p></li>
+<li><p>BS, MS, or PhD in CS, Mathematics, or equivalent work experience</p></li>
+</ul>
+
+<p><strong>Pluses</strong></p>
+
+<ul>
+<li><p>Experience working with high traffic web site architectures and operations</p></li>
+<li><p>Production experience with Hadoop and ecosystem (Pig, Hive, Streaming) technologies</p></li>
+<li><p>A history of providing measurable results from analytical efforts</p></li>
+<li><p>Experience with Flask, SQLAlchemy, node</p></li>
+<li><p>Understanding of the free culture movement</p></li>
+<li><p>Ability to operate effectively in multiple cultural contexts as part of a globally distributed team</p></li>
+<li><p>Active participation as a Wikimedia volunteer or as free/open source software developer</p></li>
+</ul>
+
+<p><strong>About the Wikimedia Foundation</strong></p>
+
+<p>The Wikimedia Foundation is a non-profit organization based in San Francisco, California that operates Wikipedia and its sister projects in 285 languages. Together they receive nearly 500 million unique visitors per month making it the 5th most popular Web property. Wikimedia’s globally-distributed staff of 170 interact with a community of more than 100,000 people worldwide and remains committed to creating a world in which every single human being can freely and easily share in the sum of all knowledge.</p>
+
+<p><strong>More Information</strong></p>
+
+<p><a href=""http://wikimediafoundation.org"">http://wikimediafoundation.org</a></p>
+
+<p><a href=""http://blog.wikimedia.org"">http://blog.wikimedia.org</a></p>
+
+<p><a href=""http://wikimediafoundation.org/wiki/Vision"">http://wikimediafoundation.org/wiki/Vision</a></p>
+
+<p><strong>Some of our code</strong></p>
+
+<p><a href=""https://github.com/wikimedia/varnishkafka"">https://github.com/wikimedia/varnishkafka</a></p>
+
+<p><a href=""https://github.com/wikimedia/analytics-wikimetrics"">https://github.com/wikimedia/analytics-wikimetrics</a></p>
+
+<p><a href=""https://github.com/wikimedia/mediawiki-extensions-EventLogging"">https://github.com/wikimedia/mediawiki-extensions-EventLogging</a></p>
+",Wikimedia Foundation,"<p><a href=""https://hire.jobvite.com/j?cj=orQ2Yfw1&amp;s=Github"">https://hire.jobvite.com/j?cj=orQ2Yfw1&amp;s=Github</a></p>
+"
+Senior Software Developer (iOS),"New York, NY",Full Time,"<p>We are seeking a Senior iOS Developer to join our team. You will leverage your knowledge in developing rich media, highly-customized mobile apps to bring our apps to life on the iPhone. As a developer at <strong>iHeartRadio,</strong> your code, designs and decisions will be highly visible, and will directly impact and delight millions of listeners.</p>
+
+<p><strong>What you will do:</strong></p>
+
+<ul>
+<li>Help create and define the future of iOS mobile development</li>
+<li>Set and achieve build schedules</li>
+<li>Maintain current suite of native apps</li>
+<li>Eliminates impediments</li>
+<li>Performs design reviews</li>
+<li>Performs code reviews</li>
+</ul>
+
+<p><strong>You should have:</strong></p>
+
+<ul>
+<li>4+ years of full lifecycle iOS development.</li>
+<li>Excellent command of Objective-C and iOS SDK.</li>
+<li>Solid foundation in data structures, algorithms, and OO Design</li>
+<li>Strong track record of shipping products</li>
+<li>Very good debugging skills</li>
+<li>Bachelors degree in Computer Science or equivalent</li>
+</ul>
+
+<p><strong>Working at iHeartRadio, you will also get:</strong></p>
+
+<ul>
+<li>The opportunity to work with some of the best innovators in the industry.</li>
+<li>Competitive Salary</li>
+<li>Full suite of health, vision and dental benefits</li>
+<li>Access to our Nerf® gun arsenal</li>
+<li>Bi-weekly company-sponsored happy hours</li>
+<li>All you can eat snacks</li>
+<li>Free lunch every Thursday</li>
+</ul>
+",iHeartRadio,"<p><a href=""mailto:jobs@iheartradio.com"">jobs@iheartradio.com</a></p>
+"
+Front-End Web Developer - Next Gen Data Science,"New York, NY",Full Time,"<p>COMPANY DESCRIPTION</p>
+
+<p>Join Ufora to develop software for the most advanced data science teams on the planet.</p>
+
+<p>Ufora’s data science customers range in requirements from quants in finance and engineers at NASA to doctors in emergency rooms and ahead-of-the-curve school systems. As a result, we develop interfaces for everything from IDEs to business intelligence tools. As a Front End Developer, you will help us create and refine software that transforms people’s ability to make sense of vast amounts of critical data.</p>
+
+<p>JOB DESCRIPTION</p>
+
+<p>Build beautiful, engaging web interfaces to manage the data science workflow and support stunning data visualizations.</p>
+
+<p>What you&#39;ll be doing:</p>
+
+<ul>
+<li><p>Working with a team of product managers, UX designers, and engineers to design and build new features and interfaces</p></li>
+<li><p>Contributing to design discussions for both front-end interaction and engineering systems</p></li>
+<li><p>Learning new software languages</p></li>
+<li><p>Collaborating on product and feature planning</p></li>
+</ul>
+
+<p>QUALIFICATIONS</p>
+
+<p>You&#39;ll need:</p>
+
+<ul>
+<li><p>JavaScript skills, and of course, HTML5 and CSS. CoffeeScript a plus.</p></li>
+<li><p>Experience with client-side frameworks, Backbone or Angular.</p></li>
+<li><p>Familiarity with Node.</p></li>
+<li><p>Have controlled source with git.</p></li>
+<li><p>Some experience building real-time apps (e.g. with Socket.io)</p></li>
+</ul>
+
+<p>Extra Points:</p>
+
+<ul>
+<li><p>Python a huge plus.</p></li>
+<li><p>Experience with visualization libraries like d3.js.</p></li>
+<li><p>Visual design skills or graphic design training.</p></li>
+<li><p>Experience with a (relatively) modern front-end toolchain: grunt, bower, etc.</p></li>
+</ul>
+
+<p>ADDITIONAL INFORMATION</p>
+
+<p>All your information will be kept confidential according to EEO guidelines.</p>
+",Ufora,"<p>Please apply online at: <a href=""https://www.smartrecruiters.com/Ufora/77808507-front-end-developer-next-gen-data-science"">https://www.smartrecruiters.com/Ufora/77808507-front-end-developer-next-gen-data-science</a></p>
+"
+Team Lead Development,Amsterdam,Full Time,"<p>Booking.com is world’s largest online hotel reservation company. We have over 340,000 properties listed on our website and do transactions spanning half a million room nights every day. We are part of Priceline group of companies and have presence in over 110+ cities worldwide.</p>
+
+<p>At Booking.com we work in small (4-5 people) agile teams. Each team owns a part of our product and works on it independently. Due to our company’s phenomenal success and the incumbent growth, we are now hiring Team Leads to join our development team in the heart of Amsterdam.</p>
+
+<p>As a Team Lead you should be able to: </p>
+
+<ul>
+<li><p>Write code and play an active role in developing new features for a high performance, scalable web platform.</p></li>
+<li><p>Work with the team and the product owner to define a prioritized backlog of stories that the team will tackle during a given sprint.</p></li>
+<li><p>Monitor team’s progress and take ownership of removing any impediments that slow the team down.</p></li>
+<li><p>Mentor people on the team and help them improve their game.</p></li>
+<li><p>Assess and communicate how your work impacts business and other systems.</p></li>
+</ul>
+
+<p>You should apply if :</p>
+
+<ul>
+<li><p>You are a technically strong candidate with a minimum of 5 years experience of working on a large web product.</p></li>
+<li><p>You have a sound understanding of programming fundamentals and know how they apply to highly scalable web based systems.</p></li>
+<li><p>You are comfortable making hands-on contributions, i.e. write code that is deployed to production servers.</p></li>
+<li><p>You have led a small team before and like working with people.</p></li>
+<li><p>You have a pragmatic outlook and excellent communication skills.</p></li>
+</ul>
+
+<p>We primarily use Perl for development. It’s ok if you haven’t used Perl before – as long as you are willing to learn it. We use MySQL with Memcache and Redis where necessary. We use Git for source control and our deployments are also closely tied to it.</p>
+
+<p>Experience with an e-commerce product is desirable but not mandatory.</p>
+
+<p>We offer a competitive salary, a comprehensive relocation package, a wonderful, diverse, work environment in the heart of Amsterdam and a chance to work on a fast-growing, successful product that touches millions of users every day.</p>
+",Booking.com,"<p>Please apply following the link at our web site - <a href=""https://workingatbooking.com/vacancies/team-lead-development/"">https://workingatbooking.com/vacancies/team-lead-development/</a></p>
+"
+Software Developer - willing to learn Perl,Amsterdam,Full Time,"<p>At Booking.com we believe that a good developer is a good developer no matter what technology is involved. We run one of the world&#39;s largest Perl websites, but we do not require Perl experience to apply – only a willingness to learn, superior software craftsmanship, and commercial focus.</p>
+
+<p>With over half a million room nights reserved on Booking.com daily, we are seeking developers driven by challenges of scalability and rapid, customer-focused development. Our development strategy is agile and based on Scrum. We do several rollouts every day. We are data-driven and do extensive A/B testing. Everything we do is aimed at solving problems for our customers. If it doesn&#39;t help our customers, we&#39;re not interested in doing it.</p>
+
+<p>As a Software Developer, you are responsible for the development, performance, and scaling of our public website as well as internal systems, which includes using: Perl, Javascript, nginx, Plack, MySQL, Memcached, Redis, Hadoop, Elasticsearch, git, and CentOS Linux. You will work both independently and also be part of a team. You will work independently and will also be responsible for making technical decisions within a team.</p>
+
+<p>Software developers work from our headquarters in Amsterdam, the Netherlands. We are inviting CVs from candidates worldwide. Even without Perl experience, your colleagues will help you get up to speed in order to be able to start solving real problems from day one. Are you ready to join an international, result-driven, fun, and dynamic environment?</p>
+
+<p>Qualification</p>
+
+<p>Your Role at Booking.com</p>
+
+<p>Rapidly develop next-generation scalable, flexible, and high-performance systems
+Explain current systems, coach and train new developers
+Solve issues with the site and internal systems, prioritizing based on customer impact
+Act as an intermediary for problems, with both technical and non-technical audiences
+Collaborate with Team Leaders and Product Owners to prioritize projects.
+Your Skills and Experience</p>
+
+<p>Pragmatic and proactive attitude, with excellent verbal and written communication skills
+Four years experience with hands-on software development (object-oriented is a plus)
+Experience with HTTP and server-side technologies (web servers, database servers)
+Preferably university degree in Mathematics or Software Engineering
+Prepared to relocate to Amsterdam, the Netherlands
+Interested?</p>
+
+<p>We offer a competitive salary, plus bonuses, with possibilities for training and further career opportunities within our fast-growing company. This position is open to candidates worldwide. We will assist you with a relocation package, ensuring a smooth transition to working and living in the Netherlands.</p>
+",Booking.com,"<p>Please send your CV following the link - <a href=""https://workingatbooking.com/vacancies/software-developer-willing-to-learn-perl-amsterdam/"">https://workingatbooking.com/vacancies/software-developer-willing-to-learn-perl-amsterdam/</a></p>
+"
+Systems Administrator III," Playa Vista, California, USA",Full Time,"<p>The University of Southern California (USC), founded in 1880, is located in the heart of downtown L.A. and is the largest private employer in the City of Los Angeles. As an employee of USC, you will be a part of a world-class research university and a member of the &quot;Trojan Family,&quot; which is comprised of the faculty, students and staff that make the university what it is.
+The University of Southern California Institute for Creative Technologies (ICT) is located in Playa Vista. ICT is revolutionizing learning through the development of immersive learning environments. We are the leaders in producing virtual humans, computer training simulations and immersive experiences for decision making, cultural awareness, leadership and health.
+ICT is currently looking for a Systems Administrator to work in a small, motivated and energetic Information Technology group to support the backend Linux infrastructure. Candidate will be responsible for managing a Linux environment that consists of web servers, database servers, file servers, and various other technologies. Candidate will also be required to support end user systems and perform and assist in other helpdesk responsibilities as required.
+Technical Responsibilities:</p>
+
+<ul>
+<li>Design, deploy, monitor, maintain, upgrade, and support new and existing Linux systems; this includes hardware, software, applications and services. This includes multiple centralized storage systems (NAS) and the backup infrastructure.</li>
+<li>Provide end-user services escalation requiring UNIX administrative assistance for help desk services where necessary.</li>
+<li>Contribute to systems architecture and infrastructure design for upgrades and new installations.</li>
+<li>Lead technical projects focused on the introduction of new infrastructure: hardware and * Responsible for ensuring adherence to security policies, including regular security updates to Linux systems and applications.</li>
+<li>Monitor systems, servers and equipment for performance, security and stability.</li>
+<li>Available to work off-hour shifts and provide on-call support as required.
+Technical Experience:</li>
+<li>4+ years of experience working with Linux, Apache, PHP, Tomcat, MySQL, PostgreSQL etc...</li>
+<li>Experience with installation and troubleshooting of DNS, DHCP, NFS, Samba, Postfix etc...</li>
+<li>General understanding and management of backup systems and methodologies.</li>
+<li>Ability to write basic administration scripts using BASH, Perl, Python</li>
+<li>Experience with and understanding of virtualized environments (VMware a plus).</li>
+<li>Knowledge of monitoring systems and tools such as: Solarwinds, Nagios
+Knowledge and Skill Requirements:</li>
+<li>Systems integration expertise with a solid understanding of technical design and deployment strategies.</li>
+<li>Effective and clear written and verbal communication skills.</li>
+<li>Capacity to work with a wide variety of technical and managerial personnel to solve complex problems.</li>
+<li>Ability to work within a team environment.</li>
+<li>Self-starter with the initiative and ability to complete tasks under minimal supervision.</li>
+<li>Ability to multitask.</li>
+<li>Some Windows administration experience required.
+Individual should have at least 4+ years of Linux experience - preferably Debian or 5+ years of UNIX experience.
+US Citizenship is required for this position.
+The University of Southern California values diversity and is committed to equal opportunity in employment</li>
+</ul>
+
+<p>FLSA Non-Exempt
+MINIMUM QUALIFICATIONS</p>
+
+<p>Minimum Education
+Bachelor’s degree Combined experience/education as substitute for minimum education</p>
+
+<p>Minimum Experience
+3 years</p>
+
+<p>Minimum Field of Expertise
+Advanced understanding of and experience with systems administration, backups, operating systems programming languages and associated hardware platforms. Previous systems administration experience required.</p>
+
+<p>PREFERRED QUALIFICATIONS</p>
+
+<p>Individual should have at least 4+ years of Linux experience.
+Solid understanding and strong technical knowledge of and experience with systems administration, backups, operating systems, service applications using primarily Linux systems.</p>
+
+<p>ADDITIONAL INFORMATION</p>
+
+<p>Quicklink to apply: <a href=""http://jobs.usc.edu:80/postings/23787"">http://jobs.usc.edu:80/postings/23787</a></p>
+
+<p>Applicant Documents
+Required Documents
+1.  Resume/CV
+2.  Cover Letter
+3.  Letter of Reference 1</p>
+
+<p>Apply Here: <a href=""http://www.Click2apply.net/5prrr3k"">http://www.Click2apply.net/5prrr3k</a></p>
+",University of Southern California,"<p>Apply Here: <a href=""http://www.Click2apply.net/5prrr3k"">http://www.Click2apply.net/5prrr3k</a></p>
+"
+UI Engineer,San Francisco,Full Time,"<p>Job Responsibilities</p>
+
+<ul>
+<li>Contribute to the design and development of LucidWorks user interfaces including selection of appropriate UI technology (javascript frameworks, etc.) for building data driven applications on top of search technology</li>
+<li>Work with Customers, Product Management and Operations to generate requirements, scope feature implementations and resolve production issues.</li>
+<li>Actively Participate in developing Lucid Works User Interface Technology.</li>
+<li>Participate in Overall Architecture/Design and Development of Lucid Works products
+Required Experience and Skills</li>
+<li>Excellent knowledge of modern web standards, semantic HTML and CSS2/3</li>
+<li>Excellent visual awareness and attention to detail</li>
+<li>Competent in using software such as Photoshop or Illustrator</li>
+<li>Experience with latest frontend technologies like AngularJS, D3, etc.</li>
+<li>2+ years of technical experience in frontend development</li>
+<li>Proficient in analysis, design, and development of large-scale distributed applications</li>
+<li>Good communication and interpersonal skills.</li>
+<li>Self-driven quick learner with attention to detail</li>
+</ul>
+
+<p>Desired Experience and Skills</p>
+
+<ul>
+<li>Happy writing regular JS, not just jQuery</li>
+<li>Front-end MVC experience, ideally AngularJS</li>
+<li>CSS preprocessor knowledge and experience</li>
+<li>JS testing experience with Oauth and web security</li>
+<li>Interested in data-driven applications, analytics and text processing</li>
+<li>Experience with Search such as Solr/Lucene</li>
+<li>Experience Leading Local and Remote Teams</li>
+<li>Experience with High availability, scalability and performance optimization</li>
+</ul>
+",Lucidworks,"<p>If this position sounds like a fit, please apply with your resume and a cover letter, explaining why you are the right person for the role: <a href=""mailto:careers@lucidworks.com"">careers@lucidworks.com</a></p>
+"
+ZeroCater is looking for a full-stack engineer to help feed the world.,San Francisco,Full Time,"<p>We&#39;re looking for full-stack engineers to join our team and help us feed the world. Our stack consists of Python, Django, PostgreSQL, AngularJS. We move quickly and deploy to EC2 multiple times a day. We&#39;re profitable and we’re growing like crazy.</p>
+
+<p>About You:</p>
+
+<ul>
+<li><p>You&#39;re ridiculously in love with Python</p></li>
+<li><p>You’ve got experience with Django or another MVC framework</p></li>
+<li><p>You&#39;re constantly learning new technologies</p></li>
+<li><p>You’ve built and shipped a project that you’re really proud of</p></li>
+<li><p>You’re ready and willing to work on the full stack - backend, frontend, and everything in between</p></li>
+</ul>
+
+<p>Bonus Points:</p>
+
+<ul>
+<li><p>You love food!</p></li>
+<li><p>You appreciate good design, whether it’s a clean API or a beautiful UI</p></li>
+<li><p>You&#39;ve worked at other startups and loved it</p></li>
+</ul>
+
+<p>Responsibilities:</p>
+
+<ul>
+<li><p>Build customer- and restaurant-facing features to make their experience awesome</p></li>
+<li><p>Work on our internal tools to make our non-technical team as efficient as possible</p></li>
+<li><p>Dig into our data to find useful metrics or possible problems</p></li>
+<li><p>Automate all the things!</p></li>
+</ul>
+",ZeroCater,"<p><a href=""http://www.jobscore.com/jobs2/zerocater/full-stack-engineer/aTP12sqair47qbiGakhP3Q?ref=rss&amp;sid=68"">http://www.jobscore.com/jobs2/zerocater/full-stack-engineer/aTP12sqair47qbiGakhP3Q?ref=rss&amp;sid=68</a></p>
+"
