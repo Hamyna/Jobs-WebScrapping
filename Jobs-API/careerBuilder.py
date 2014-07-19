@@ -25,9 +25,6 @@ def get_jobposting():
          row.append(str(item['Company'].encode('utf-8')))
          row.append(str(item['CompanyDetailsURL'].encode('utf-8')))
          row.append(str(item['CompanyDID'].encode('utf-8')))
-         row.append(str(item['DescriptionTeaser'].encode('utf-8')))
-         row.append(str(item['EmploymentType'].encode('utf-8')))
-         row.append(str(item['EducationRequired'].encode('utf-8')))
 
 if __name__ == "__main__":
     get_jobposting()
