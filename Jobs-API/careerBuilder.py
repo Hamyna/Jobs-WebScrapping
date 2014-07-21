@@ -9,9 +9,9 @@ from xml.etree import ElementTree as ET
 
 def get_jobposting():
     # tell computer where to put CSV
-    outfile_path='/home/hamyna/Documents/Git/BullFrogIT/Jobs-WebsScrapping/Results/Github/jobPosting_careerBuilder-IT.csv'
+    outfile_path='/home/hamyna/Documents/Git/BullFrogIT/Jobs-WebsScrapping/Results/CareerBuilder/jobPosting_careerBuilder-IT.csv'
     # open it up, the w means we will write to it
-    writer = csv.writer(open(outfile_path, 'wb'))
+    writer = csv.writer(open(outfile_path, 'w'))
     #create a list with headings for our columns
     headers = ['Company', 'CompanyDetailsURL', 'CompanyDID', 'DescriptionTeaser', 'EmploymentType', 'EducationRequired', 'ExperienceRequired', 'Location', 'JobTitle', 'CanBulkApply', 'Skills']
     url = urllib2.Request('http://api.careerbuilder.com/v1/jobsearch?DeveloperKey=WDHL7MB628RRNH2V6WJQ&Keywords=IT')
