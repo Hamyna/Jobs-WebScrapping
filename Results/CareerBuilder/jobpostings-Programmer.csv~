@@ -1,0 +1,181 @@
+Company,CompanyDID,CompanyDetailsURL,DID,OnetCode,ONetFriendlyTitle,DescriptionTeaser,Distance,EmploymentType,EducationRequired,ExperienceRequired,JobDetailsURL,JobServiceURL,Location,LocationLatitude,LocationLongitude,PostedTime,PostedTime,Pay,SimilarJobsURL,JobTitle,ApplyRequirement,Skills
+<>Ashley Ellis</>,<>c8c2yx68v3nlcrnx096</>,<>http://www.careerbuilder.com/jobs/company/c8c2yx68v3nlcrnx096/ashley-ellis?sc_cmp1=13_JobRes_ComDet</>,<>JHM62560SP7GB6GX415</>,<>15-1051.00</>,<>Computer Systems Analysts</>,"<> enthusiasm and vision are constantly rewarded, apply for this Sr. Programmer Analyst position today. From the ...  This Sr. Programmer Analyst Has:...</>",</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHM62560SP7GB6GX415</>,<>https://api.careerbuilder.com/v1/job?DID=JHM62560SP7GB6GX415&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>NY - Purchase</>,<>41.03687</>,<>-73.71296</>,<>7/9/2014 8:55:08 AM</>,<>7/9/2014 8:55:08 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHM62560SP7GB6GX415</>,<>Sr. Programmer Analyst</>,<>HasAOReview</>,"<>
+        <Skill>adobe flex</Skill>
+        <Skill>rocket u2</Skill>
+        <Skill>workflow</Skill>
+      </>"
+<>Ockham</>,<>chv46r7896kdfjtnfr4</>,<>http://www.careerbuilder.com/jobs/company/chv46r7896kdfjtnfr4/ockham?sc_cmp1=13_JobRes_ComDet</>,<>JHR0L46C04QB3JZD0N7</>,<>15-1021.00</>,<>Computer Programmers</>,</>,<>Contractor</>,<>Associate Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHR0L46C04QB3JZD0N7</>,<>https://api.careerbuilder.com/v1/job?DID=JHR0L46C04QB3JZD0N7&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>CA - Nationwide - Work from home</>,<>37.77712</>,<>-122.41964</>,<>6/27/2014 1:01:55 AM</>,<>6/27/2014 1:01:55 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHR0L46C04QB3JZD0N7</>,<>NONMEM Clinical Programmer</>,<>CanBulkApply</>,"<>
+        <Skill>citrix systems</Skill>
+        <Skill>software development</Skill>
+        <Skill>SAS Enterprise</Skill>
+        <Skill>sdlc</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>computer security</Skill>
+        <Skill>SAS</Skill>
+        <Skill>unix</Skill>
+      </>"
+<>BranCore Technologies</>,</>,</>,<>JHR09H5WZWGWH1XBJTB</>,<>15-1021.00</>,<>Computer Programmers</>,"<>/V. Programmer - C#.NET A multi-talented, cross-discipline Application Developer to join the Enterprise Data ...  Programmer C#.NET Programmer C#.NET...</>",</>,<>Contractor</>,<>Associate Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHR09H5WZWGWH1XBJTB</>,<>https://api.careerbuilder.com/v1/job?DID=JHR09H5WZWGWH1XBJTB&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>VA - Richmond</>,<>37.5407</>,<>-77.43365</>,<>7/11/2014 4:34:10 PM</>,<>7/11/2014 4:34:10 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHR09H5WZWGWH1XBJTB</>,<>Programmer - C#.NET</>,<>HasAOReview</>,"<>
+        <Skill>html5</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>x window system</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>database</Skill>
+        <Skill>xml</Skill>
+        <Skill>ado.net</Skill>
+        <Skill>javascript</Skill>
+        <Skill>IIS</Skill>
+        <Skill>jquery</Skill>
+        <Skill>microsoft silverlight</Skill>
+        <Skill>User Interface design</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>mvc</Skill>
+        <Skill>dbase</Skill>
+        <Skill>team foundation server</Skill>
+        <Skill>sql</Skill>
+        <Skill>quality of service</Skill>
+        <Skill>application programming interface</Skill>
+        <Skill>data management</Skill>
+      </>"
+<>PrideStaff</>,<>c8g66f6mbz71yyvd1fp</>,<>http://www.careerbuilder.com/jobs/company/c8g66f6mbz71yyvd1fp/pridestaff?sc_cmp1=13_JobRes_ComDet</>,<>JHN0L468ZGLZXWBTHN7</>,<>51-4012.00</>,<>Numerical Tool and Process Control Programmers</>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHN0L468ZGLZXWBTHN7</>,<>https://api.careerbuilder.com/v1/job?DID=JHN0L468ZGLZXWBTHN7&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>GA - Atlanta</>,<>33.8984</>,<>-84.2503</>,<>7/15/2014 9:15:59 AM</>,<>7/15/2014 9:15:59 AM</>,<>$22.00/hour</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHN0L468ZGLZXWBTHN7</>,<>CNC Programmer</>,<>HasAOReview</>,</>
+"<>Cosmos Manufacturing, Inc.</>",</>,</>,<>JHV7Y376JKFCM20X8RK</>,<>51-4012.00</>,<>Numerical Tool and Process Control Programmers</>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHV7Y376JKFCM20X8RK</>,<>https://api.careerbuilder.com/v1/job?DID=JHV7Y376JKFCM20X8RK&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>IL - South Chicago</>,<>41.5054</>,<>-87.5907</>,<>7/7/2014 2:49:58 PM</>,<>7/7/2014 2:49:58 PM</>,<>$24.00 - $28.00/hour</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHV7Y376JKFCM20X8RK</>,<>CNC / Wire EDM Programmer</>,<>HasAOReview</>,</>
+<>Ronan Engineering  Measurement Division</>,</>,</>,<>JHS8955Y2Q5N32L960C</>,<>51-4041.00</>,<>Machinists</>,<>CNC Programmer / Machinist This key supervisor of our team must have experience as a CNC ...  The CNC Programmer / Machinist should possess previous...</>,</>,<>Full-Time</>,<>High School Diploma</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHS8955Y2Q5N32L960C</>,<>https://api.careerbuilder.com/v1/job?DID=JHS8955Y2Q5N32L960C&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>KY - Florence</>,<>38.997</>,<>-84.6517</>,<>7/8/2014 12:44:09 PM</>,<>7/8/2014 12:44:09 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHS8955Y2Q5N32L960C</>,<>CNC Programmer / Machinist</>,<>CanBulkApply</>,</>
+<>Gloucester County College</>,</>,</>,<>JHV8H26B7GH19JQSFB8</>,<>15-1099.04</>,<>Web Developers</>,<>Programmer Analyst : Provides high level technical and analytical support for all Ellucian ...  Programmer Analyst : Web Developer: ... </>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHV8H26B7GH19JQSFB8</>,<>https://api.careerbuilder.com/v1/job?DID=JHV8H26B7GH19JQSFB8&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>NJ - Sewell</>,<>39.7561</>,<>-75.1094</>,<>7/3/2014 11:08:25 AM</>,<>7/3/2014 11:08:25 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHV8H26B7GH19JQSFB8</>,<>Programmer Analyst / Web Developer</>,<>NoOnlineApply</>,"<>
+        <Skill>web development</Skill>
+        <Skill>html</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>mobile application development</Skill>
+        <Skill>javascript</Skill>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>jquery</Skill>
+        <Skill>data warehouse</Skill>
+        <Skill>microsoft office</Skill>
+        <Skill>pl/sql</Skill>
+        <Skill>sql</Skill>
+      </>"
+<>ESPO Engineering Corp</>,<>chn4kk70dj1n28z99p2</>,<>http://www.careerbuilder.com/jobs/company/chn4kk70dj1n28z99p2/espo-engineering-corp?sc_cmp1=13_JobRes_ComDet</>,<>JHT5CY5XFVTNFZWV4L8</>,<>17-2112.00</>,<>Industrial Engineers</>,<>Manufacturing Engineer - CNC Programmer Duration: Perm hire Pay range: 70-85k 1st shift (Flex ...  Manufacturing Engineer - CNC Programmer Summary:...</>,</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHT5CY5XFVTNFZWV4L8</>,<>https://api.careerbuilder.com/v1/job?DID=JHT5CY5XFVTNFZWV4L8&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>IL - Wheeling</>,<>42.1311</>,<>-87.9211</>,<>7/16/2014 8:22:36 AM</>,<>7/16/2014 8:22:36 AM</>,<>$70k - $85k/year</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHT5CY5XFVTNFZWV4L8</>,<>Manufacturing Engineer - CNC Programmer</>,<>HasScreener</>,"<>
+        <Skill>Process simulation</Skill>
+        <Skill>CNC Software/Mastercam</Skill>
+        <Skill>Computer-aided design</Skill>
+        <Skill>Numerical control</Skill>
+        <Skill>Microsoft Word</Skill>
+        <Skill>Statistical process control</Skill>
+        <Skill>Lean manufacturing</Skill>
+      </>"
+<>Bartech Group</>,<>c8g5xl6rqnqy6pmmtkb</>,<>http://www.careerbuilder.com/jobs/company/c8g5xl6rqnqy6pmmtkb/bartech-group?sc_cmp1=13_JobRes_ComDet</>,<>J3G2T66DN0TQJXXS71W</>,<>15-1021.00</>,<>Computer Programmers</>,<>Job Description If you are an experienced Software Programmer looking for a position with a ...  Software Programmer Job Requirements As a Software...</>,</>,<>Contractor</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3G2T66DN0TQJXXS71W</>,<>https://api.careerbuilder.com/v1/job?DID=J3G2T66DN0TQJXXS71W&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>VA - Norfolk</>,<>36.8517</>,<>-76.2873</>,<>7/18/2014 3:56:00 PM</>,<>7/18/2014 3:56:00 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3G2T66DN0TQJXXS71W</>,<>Software Programmer</>,<>CanBulkApply</>,"<>
+        <Skill>html</Skill>
+        <Skill>javascript</Skill>
+        <Skill>ibm software</Skill>
+        <Skill>jquery</Skill>
+        <Skill>dynamic html</Skill>
+        <Skill>scala (programming language)</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>sql</Skill>
+        <Skill>ajax</Skill>
+        <Skill>c++</Skill>
+        <Skill>php</Skill>
+      </>"
+<>V Force Infotech</>,</>,</>,<>JHV2JJ5YSWG9MYQ503D</>,<>15-1051.00</>,<>Computer Systems Analysts</>,"<>Seeking a Programmer/Analyst professional with excellent technical and interpersonal skills ...  , Insurance, Health Care, Life Sciences,...</>",</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHV2JJ5YSWG9MYQ503D</>,<>https://api.careerbuilder.com/v1/job?DID=JHV2JJ5YSWG9MYQ503D&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>NJ - Iselin</>,<>40.57357</>,<>-74.32265</>,<>7/10/2014 5:54:28 PM</>,<>7/10/2014 5:54:28 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHV2JJ5YSWG9MYQ503D</>,<>Programmer / Analyst</>,<>CanBulkApply</>,"<>
+        <Skill>database</Skill>
+        <Skill>Business Intelligence</Skill>
+        <Skill>systems analysis</Skill>
+        <Skill>sql</Skill>
+        <Skill>data modeling</Skill>
+      </>"
+<>Silicon Valley Staffing Group</>,<>chq1br62npmzbhbn8gc</>,<>http://www.careerbuilder.com/jobs/company/chq1br62npmzbhbn8gc/silicon-valley-staffing-group?sc_cmp1=13_JobRes_ComDet</>,<>JHP3H46T90152KZD57P</>,<>17-2112.00</>,<>Industrial Engineers</>,<>SVS Group is currently looking to hire a Manufacturing Engineer/CNC Programmer for one of our ...  Requirements: You must be a Manufacturing Engineer...</>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHP3H46T90152KZD57P</>,<>https://api.careerbuilder.com/v1/job?DID=JHP3H46T90152KZD57P&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>AZ - Phoenix</>,<>33.4044</>,<>-112.028</>,<>7/16/2014 7:38:55 PM</>,<>7/16/2014 7:38:55 PM</>,<>$60k - $80k/year</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHP3H46T90152KZD57P</>,<>Manufacturing Engineer/CNC Programmer</>,<>CanBulkApply</>,"<>
+        <Skill>Process simulation</Skill>
+        <Skill>GibbsCAM</Skill>
+        <Skill>Submittals (construction)</Skill>
+        <Skill>Computer-aided design</Skill>
+        <Skill>Advanced manufacturing</Skill>
+        <Skill>Numerical control</Skill>
+        <Skill>SolidWorks</Skill>
+        <Skill>Microsoft Office</Skill>
+      </>"
+<>Ockham</>,<>chv46r7896kdfjtnfr4</>,<>http://www.careerbuilder.com/jobs/company/chv46r7896kdfjtnfr4/ockham?sc_cmp1=13_JobRes_ComDet</>,<>JHL0Z86Y7CK4YTR235J</>,<>15-1021.00</>,<>Computer Programmers</>,"<> clients in San Francisco, CA is looking for a Sr. Statistical Programmer. This is a perm position. Designs ... </>",</>,<>Full-Time</>,<>Associate Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHL0Z86Y7CK4YTR235J</>,<>https://api.careerbuilder.com/v1/job?DID=JHL0Z86Y7CK4YTR235J&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>CA - San Francisco</>,<>37.77712</>,<>-122.41964</>,<>7/6/2014 1:01:08 AM</>,<>7/6/2014 1:01:08 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHL0Z86Y7CK4YTR235J</>,<>Sr. Statistical Programmer</>,<>CanBulkApply</>,"<>
+        <Skill>data validation</Skill>
+        <Skill>sql</Skill>
+        <Skill>data management</Skill>
+        <Skill>SAS</Skill>
+        <Skill>SAS Base</Skill>
+      </>"
+<>Staffing Network</>,<>chl16l69l5sttq2zb49</>,<>http://www.careerbuilder.com/jobs/company/chl16l69l5sttq2zb49/staffing-network?sc_cmp1=13_JobRes_ComDet</>,<>J3G02J6Y9X26Z57ZR22</>,<>51-4012.00</>,<>Numerical Tool and Process Control Programmers</>,"<>CNC Programmer Are you a CNC Programmeropen to exploring a better work environment? If so, we ... </>",</>,<>Full-Time</>,<>High School Diploma</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3G02J6Y9X26Z57ZR22</>,<>https://api.careerbuilder.com/v1/job?DID=J3G02J6Y9X26Z57ZR22&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>IL - Alsip</>,<>41.6719</>,<>-87.7294</>,<>7/9/2014 5:18:56 PM</>,<>7/9/2014 5:18:56 PM</>,<>$20.00 - $28.00/hour</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3G02J6Y9X26Z57ZR22</>,<>CNC Programmer</>,<>CanBulkApply</>,</>
+<>United Staffing Services</>,<>c8d2f563rq3686rktlm</>,<>http://www.careerbuilder.com/jobs/company/c8d2f563rq3686rktlm/united-staffing-services?sc_cmp1=13_JobRes_ComDet</>,<>JHN4N05Z5QCMM6YY9D8</>,<>43-5061.00</>,"<>Production, Planning, and Expediting Clerks</>",</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHN4N05Z5QCMM6YY9D8</>,<>https://api.careerbuilder.com/v1/job?DID=JHN4N05Z5QCMM6YY9D8&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>CA - Valencia</>,<>34.4173</>,<>-118.5733</>,<>7/2/2014 6:51:13 PM</>,<>7/2/2014 6:51:13 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHN4N05Z5QCMM6YY9D8</>,<>Estimator Planner CNC Programmer</>,<>HasAOReview</>,</>
+<>Ockham</>,<>chv46r7896kdfjtnfr4</>,<>http://www.careerbuilder.com/jobs/company/chv46r7896kdfjtnfr4/ockham?sc_cmp1=13_JobRes_ComDet</>,<>JHS0VF5WS98QSFLYM42</>,<>15-2041.02</>,<>Clinical Data Managers</>,<> clients in California is looking for a Senior Statistical Programmer. This is a contract position ... </>,</>,<>Contractor</>,<>Associate Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHS0VF5WS98QSFLYM42</>,<>https://api.careerbuilder.com/v1/job?DID=JHS0VF5WS98QSFLYM42&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>CA - West Coast - Work From Home</>,<>38.57906</>,<>-121.49101</>,<>7/6/2014 1:14:31 AM</>,<>7/6/2014 1:14:31 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHS0VF5WS98QSFLYM42</>,<>Senior Statistical Programmer - Clinical</>,<>CanBulkApply</>,"<>
+        <Skill>database</Skill>
+        <Skill>software development</Skill>
+        <Skill>SAS Data</Skill>
+        <Skill>SAS</Skill>
+      </>"
+<>Ockham</>,<>chv46r7896kdfjtnfr4</>,<>http://www.careerbuilder.com/jobs/company/chv46r7896kdfjtnfr4/ockham?sc_cmp1=13_JobRes_ComDet</>,<>JHQ4T46P1FGYKG6BYLT</>,<>15-1021.00</>,<>Computer Programmers</>,</>,<>Contractor</>,<>Associate Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHQ4T46P1FGYKG6BYLT</>,<>https://api.careerbuilder.com/v1/job?DID=JHQ4T46P1FGYKG6BYLT&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>CA - San Francisco</>,<>37.77712</>,<>-122.41964</>,<>6/28/2014 1:25:42 AM</>,<>6/28/2014 1:25:42 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHQ4T46P1FGYKG6BYLT</>,<>Statistical Programmer</>,<>CanBulkApply</>,"<>
+        <Skill>quality assurance</Skill>
+        <Skill>R</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>SAS</Skill>
+      </>"
+<>Youngblood Construstion</>,</>,</>,<>JHN2RL6W59M6W8M322G</>,<>51-4041.00</>,<>Machinists</>,"<>MACHINIST, CNC PROGRAMMER wanted to work for an LG&amp;E Contractor. Full time permanent position ... </>",</>,<>Full-Time</>,<>High School Diploma</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHN2RL6W59M6W8M322G</>,<>https://api.careerbuilder.com/v1/job?DID=JHN2RL6W59M6W8M322G&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>KY - Louisville</>,<>38.1471</>,<>-85.8742</>,<>7/21/2014 12:57:10 PM</>,<>7/21/2014 12:57:10 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHN2RL6W59M6W8M322G</>,"<>Machinist, CNC Programmer</>",<>RequireUserInfo</>,</>
+<>UCLA Health</>,<>c7g2yt62bcfz95z94x0</>,<>http://www.careerbuilder.com/jobs/company/c7g2yt62bcfz95z94x0/ucla-health?sc_cmp1=13_JobRes_ComDet</>,<>J3G5ZQ5YVDBRC5K08SK</>,<>15-1051.00</>,<>Computer Systems Analysts</>,"<> consider a career with UCLA Health. The Lawson Programmer Analyst, under the supervision of the Director of ...   management skills There are two...</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3G5ZQ5YVDBRC5K08SK</>,<>https://api.careerbuilder.com/v1/job?DID=J3G5ZQ5YVDBRC5K08SK&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>CA - Los Angeles</>,<>34.071</>,<>-118.4432</>,<>7/15/2014 4:30:32 PM</>,<>7/15/2014 4:30:32 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3G5ZQ5YVDBRC5K08SK</>,<>Lawson Programmer Analyst</>,<>IsExternal</>,"<>
+        <Skill>microsoft excel</Skill>
+        <Skill>cobol</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>microsoft outlook</Skill>
+        <Skill>microsoft office</Skill>
+        <Skill>crystal reports</Skill>
+        <Skill>change management</Skill>
+        <Skill>acceptance testing</Skill>
+        <Skill>workflow</Skill>
+        <Skill>pl/sql</Skill>
+        <Skill>sql</Skill>
+        <Skill>unix</Skill>
+      </>"
+<>KERN HEALTH SYSTEMS</>,</>,</>,<>JHL0NL5X658SG7CFG7Q</>,<>15-1021.00</>,<>Computer Programmers</>,"<>Programmer IV Note: This position is located in Bakersfield, Ca Kern Health Systems is the ...   highly organized. The Programmer IV position is...</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHL0NL5X658SG7CFG7Q</>,<>https://api.careerbuilder.com/v1/job?DID=JHL0NL5X658SG7CFG7Q&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>CA - Relocate to Bakersfield</>,<>34.05349</>,<>-118.24532</>,<>7/14/2014 11:57:37 AM</>,<>7/14/2014 11:57:37 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHL0NL5X658SG7CFG7Q</>,<>Programmer IV</>,<>HasAOReview</>,"<>
+        <Skill>html5</Skill>
+        <Skill>html</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>agile software development</Skill>
+        <Skill>systems design</Skill>
+        <Skill>javascript</Skill>
+        <Skill>visual basic</Skill>
+        <Skill>software development</Skill>
+        <Skill>vb</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>mvc</Skill>
+        <Skill>fax</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>c++</Skill>
+      </>"
+<>The Albrecht Group</>,<>c8e3bd68940ssk5q3g4</>,<>http://www.careerbuilder.com/jobs/company/c8e3bd68940ssk5q3g4/the-albrecht-group?sc_cmp1=13_JobRes_ComDet</>,<>JHS6F86SK8HG6XFW6YQ</>,<>51-4012.00</>,<>Numerical Tool and Process Control Programmers</>,"<>CMMProgrammer TheCompany Our client, a manufacturer of metal shapes used in a varietyof ...  Requirementsof the CMM Programmer High School diploma or...</>",</>,<>Full-Time</>,<>High School Diploma</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHS6F86SK8HG6XFW6YQ</>,<>https://api.careerbuilder.com/v1/job?DID=JHS6F86SK8HG6XFW6YQ&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,"<>IL - Elkhart, IN</>",<>41.88415</>,<>-87.63241</>,<>6/30/2014 11:32:38 AM</>,<>6/30/2014 11:32:38 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHS6F86SK8HG6XFW6YQ</>,<>CMM Programmer</>,<>CanBulkApply</>,</>
+<>The Albrecht Group</>,<>c8e3bd68940ssk5q3g4</>,<>http://www.careerbuilder.com/jobs/company/c8e3bd68940ssk5q3g4/the-albrecht-group?sc_cmp1=13_JobRes_ComDet</>,<>JHM2QT5YBPT9K4RJSC0</>,<>51-4012.00</>,<>Numerical Tool and Process Control Programmers</>,"<>CNCProgrammer TheCompany Our client, a manufacturer of metal shapes used in a varietyof ...  Requirementsof the CMM Programmer High School diploma or...</>",</>,<>Full-Time</>,<>High School Diploma</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHM2QT5YBPT9K4RJSC0</>,<>https://api.careerbuilder.com/v1/job?DID=JHM2QT5YBPT9K4RJSC0&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,"<>IL - Elkhart, IN</>",<>41.88415</>,<>-87.63241</>,<>6/30/2014 11:27:24 AM</>,<>6/30/2014 11:27:24 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHM2QT5YBPT9K4RJSC0</>,<>CNC Programmer</>,<>CanBulkApply</>,</>
+<>Posey</>,<>c8e4fw67lfd65rg9f9b</>,<>http://www.careerbuilder.com/jobs/company/c8e4fw67lfd65rg9f9b/posey?sc_cmp1=13_JobRes_ComDet</>,<>JHL2TX6KKLYV6NC4YN4</>,<>15-1021.00</>,<>Computer Programmers</>,</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHL2TX6KKLYV6NC4YN4</>,<>https://api.careerbuilder.com/v1/job?DID=JHL2TX6KKLYV6NC4YN4&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>CA - Arcadia</>,<>34.13616</>,<>-118.03885</>,<>7/1/2014 1:13:35 AM</>,<>7/1/2014 1:13:35 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHL2TX6KKLYV6NC4YN4</>,<>Database Programmer</>,<>IsExternal</>,"<>
+        <Skill>microsoft excel</Skill>
+        <Skill>microsoft access</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>ETL</Skill>
+        <Skill>database</Skill>
+        <Skill>systems design</Skill>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>visual basic</Skill>
+        <Skill>data warehouse</Skill>
+        <Skill>software development</Skill>
+        <Skill>stored procedure</Skill>
+        <Skill>crystal reports</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>systems analysis</Skill>
+        <Skill>sql</Skill>
+        <Skill>microsoft visio</Skill>
+        <Skill>data modeling</Skill>
+      </>"
+<>Infovision Consultants Inc</>,<>chv68872hr1z9ff5t8n</>,<>http://www.careerbuilder.com/jobs/company/chv68872hr1z9ff5t8n/infovision-consultants-inc?sc_cmp1=13_JobRes_ComDet</>,<>JHN7H3771CJ93SL321T</>,<>15-1021.00</>,<>Computer Programmers</>,"<>Title: Database Programmer Location: Rancho Cordova, CA - 95670 Duration: 8 months We are ...  Title: Database Programmer Location: Rancho Cordova, CA...</>",</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHN7H3771CJ93SL321T</>,<>https://api.careerbuilder.com/v1/job?DID=JHN7H3771CJ93SL321T&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>CA - Rancho Cordova</>,<>38.5857</>,<>-121.2825</>,<>7/23/2014 3:02:56 PM</>,<>7/23/2014 3:02:56 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHN7H3771CJ93SL321T</>,<>Sr Database Programmer (PL/SQL)</>,<>CanBulkApply</>,"<>
+        <Skill>x window system</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>database</Skill>
+        <Skill>fax</Skill>
+        <Skill>pl/sql</Skill>
+        <Skill>sql</Skill>
+        <Skill>ERWin</Skill>
+        <Skill>database design</Skill>
+        <Skill>unit testing</Skill>
+      </>"
+<>Cambridge International</>,</>,</>,<>JHM0V5794B9H8KND7TY</>,<>51-4012.00</>,<>Numerical Tool and Process Control Programmers</>,"<> an experienced CNC Programmer looking for an opportunity to work for a fast-growing, world-class ...  Success Factors: As a CNC Programmer, you must...</>",</>,<>Full-Time</>,<>High School Diploma</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHM0V5794B9H8KND7TY</>,<>https://api.careerbuilder.com/v1/job?DID=JHM0V5794B9H8KND7TY&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>MD - Cambridge</>,<>38.55896</>,<>-76.07317</>,<>7/23/2014 9:13:42 AM</>,<>7/23/2014 9:13:42 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHM0V5794B9H8KND7TY</>,<>CNC Programmer</>,<>CanBulkApply</>,</>

@@ -1,0 +1,273 @@
+Company,CompanyDID,CompanyDetailsURL,DID,OnetCode,ONetFriendlyTitle,DescriptionTeaser,Distance,EmploymentType,EducationRequired,ExperienceRequired,JobDetailsURL,JobServiceURL,Location,LocationLatitude,LocationLongitude,PostedTime,Pay,SimilarJobsURL,JobTitle,ApplyRequirement,Skills
+<>Collabera Inc.</>,<>c8a5z874t503m6w7ghf</>,<>http://www.careerbuilder.com/jobs/company/c8a5z874t503m6w7ghf/collabera-inc?sc_cmp1=13_JobRes_ComDet</>,<>JHS20X5X4BHR6KPLDKW</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",<>One of our Fortune 100 financial clients is looking for Python Developer experience t o work ... </>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHS20X5X4BHR6KPLDKW</>,<>https://api.careerbuilder.com/v1/job?DID=JHS20X5X4BHR6KPLDKW&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>NY - New York</>,<>40.7059</>,<>-74.0086</>,<>7/18/2014 11:32:22 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHS20X5X4BHR6KPLDKW</>,<>Python Developer</>,<>CanBulkApply</>,"<>
+        <Skill>python (programming language)</Skill>
+      </>"
+<>NWN Corporation</>,<>c8h4416mhg0y2160pc7</>,<>http://www.careerbuilder.com/jobs/company/c8h4416mhg0y2160pc7/nwn-corporation?sc_cmp1=13_JobRes_ComDet</>,<>JB71C967KGQNZCSXW5X</>,<>15-1021.00</>,<>Computer Programmers</>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JB71C967KGQNZCSXW5X</>,<>https://api.careerbuilder.com/v1/job?DID=JB71C967KGQNZCSXW5X&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>NY - New York</>,<>40.71455</>,<>-74.00712</>,<>7/8/2014 3:45:40 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JB71C967KGQNZCSXW5X</>,<>SAS Model Implementer _ Python Programmer</>,<>CanBulkApply</>,"<>
+        <Skill>microsoft excel</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>database</Skill>
+        <Skill>data warehouse</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>data management</Skill>
+        <Skill>SAS</Skill>
+      </>"
+<>NWN Corporation</>,<>c8h4416mhg0y2160pc7</>,<>http://www.careerbuilder.com/jobs/company/c8h4416mhg0y2160pc7/nwn-corporation?sc_cmp1=13_JobRes_ComDet</>,<>JHT7KW69M38H6ZFY6PK</>,<>15-1021.00</>,<>Computer Programmers</>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHT7KW69M38H6ZFY6PK</>,<>https://api.careerbuilder.com/v1/job?DID=JHT7KW69M38H6ZFY6PK&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>OH - Columbus</>,<>39.96196</>,<>-83.00298</>,<>7/8/2014 3:45:40 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHT7KW69M38H6ZFY6PK</>,<>SAS Model Implementer _ Python Programmer</>,<>CanBulkApply</>,"<>
+        <Skill>microsoft excel</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>database</Skill>
+        <Skill>data warehouse</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>data management</Skill>
+        <Skill>SAS</Skill>
+      </>"
+<>Emerald Resource Group</>,<>chq4hb63lrlc57h3wy9</>,<>http://www.careerbuilder.com/jobs/company/chq4hb63lrlc57h3wy9/emerald-resource-group?sc_cmp1=13_JobRes_ComDet</>,<>JHM7SD79VD0QQGHV3X4</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>","<>Python Tools Developer Location: Morrisville, NC Salary: Up to 95K Immigration: US Citizens ...  Requirements for the Python Tools Developer: Four...</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHM7SD79VD0QQGHV3X4</>,<>https://api.careerbuilder.com/v1/job?DID=JHM7SD79VD0QQGHV3X4&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>NC - Morrisville</>,<>35.82305</>,<>-78.83015</>,<>7/17/2014 2:30:45 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHM7SD79VD0QQGHV3X4</>,<>Python Tools Developer</>,<>CanBulkApply</>,"<>
+        <Skill>apache http server</Skill>
+        <Skill>mysql</Skill>
+        <Skill>html5</Skill>
+        <Skill>javascript</Skill>
+        <Skill>Linux</Skill>
+        <Skill>perl</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>Joomla</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>ajax</Skill>
+        <Skill>json</Skill>
+        <Skill>c++</Skill>
+      </>"
+"<>Technology Consulting, Inc.</>",<>chm54l6sx22p1k6mbqw</>,<>http://www.careerbuilder.com/jobs/company/chm54l6sx22p1k6mbqw/technology-consulting-inc?sc_cmp1=13_JobRes_ComDet</>,<>JHL7YB67221B7FTRNP7</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>","<>TCI has an immediate need for a Full Stack (Python) Web Application Developer in ...  , Python, Ruby, and/or .NET MVC. Demonstrated proficiency with...</>",</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHL7YB67221B7FTRNP7</>,<>https://api.careerbuilder.com/v1/job?DID=JHL7YB67221B7FTRNP7&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>IN - Jeffersonville</>,<>38.27913</>,<>-85.73747</>,<>7/9/2014 10:19:45 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHL7YB67221B7FTRNP7</>,<>Python Developer</>,<>HasScreener</>,"<>
+        <Skill>html</Skill>
+        <Skill>x window system</Skill>
+        <Skill>database</Skill>
+        <Skill>javascript</Skill>
+        <Skill>stored procedure</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>mvc</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>sql</Skill>
+        <Skill>ruby on rails</Skill>
+        <Skill>php</Skill>
+        <Skill>mercurial</Skill>
+      </>"
+<>Merchant Link</>,</>,</>,<>JHR75T69PG4D1W8Y7HN</>,<>15-1021.00</>,<>Computer Programmers</>,</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHR75T69PG4D1W8Y7HN</>,<>https://api.careerbuilder.com/v1/job?DID=JHR75T69PG4D1W8Y7HN&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>MD - Silver Spring</>,<>38.99489</>,<>-77.03161</>,<>7/10/2014 12:42:11 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHR75T69PG4D1W8Y7HN</>,<>Python Developers</>,<>CanBulkApply</>,"<>
+        <Skill>gateway (telecommunications)</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>database</Skill>
+        <Skill>bash</Skill>
+        <Skill>software development</Skill>
+        <Skill>Linux</Skill>
+        <Skill>sdlc</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>internet protocol suite</Skill>
+        <Skill>sql</Skill>
+        <Skill>computer security</Skill>
+        <Skill>c++</Skill>
+        <Skill>unix</Skill>
+      </>"
+<>HireNetworks</>,<>c8b61z67mwrqs4r88nj</>,<>http://www.careerbuilder.com/jobs/company/c8b61z67mwrqs4r88nj/hirenetworks?sc_cmp1=13_JobRes_ComDet</>,<>JB71FL7413JLCQ18ZRF</>,<>15-1021.00</>,<>Computer Programmers</>,<>Python Developer The Python Developer role is a direct hire opportunity with one of our ...  Requirements of the Python Developer: Web oriented Python...</>,</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JB71FL7413JLCQ18ZRF</>,<>https://api.careerbuilder.com/v1/job?DID=JB71FL7413JLCQ18ZRF&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>NC - Durham</>,<>35.78933</>,<>-78.78117</>,<>7/7/2014 1:04:58 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JB71FL7413JLCQ18ZRF</>,<>Python Developer</>,<>HasScreener</>,"<>
+        <Skill>message passing</Skill>
+        <Skill>User Interface design</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>python (programming language)</Skill>
+      </>"
+</>,</>,<>JHP63G6FHV9Y0T42B49</>,<>15-1099.04</>,<>Web Developers</>,</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHP63G6FHV9Y0T42B49</>,<>https://api.careerbuilder.com/v1/job?DID=JHP63G6FHV9Y0T42B49&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>TX - Dallas/Fort Worth Metroplex</>,<>32.8798</>,<>-97.0002</>,<>7/22/2014 12:26:32 AM</>,<>$50k - $85k/year</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHP63G6FHV9Y0T42B49</>,"<>Software Application Developers (PHP, Python, DB2 AND Java or JQuery)</>",<>HasAOReview</>,"<>
+        <Skill>apache http server</Skill>
+        <Skill>html5</Skill>
+        <Skill>quality assurance</Skill>
+        <Skill>html</Skill>
+        <Skill>database</Skill>
+        <Skill>javascript</Skill>
+        <Skill>jquery</Skill>
+        <Skill>software development</Skill>
+        <Skill>User Interface design</Skill>
+        <Skill>Linux</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>sql</Skill>
+        <Skill>computer security</Skill>
+        <Skill>ajax</Skill>
+        <Skill>json</Skill>
+        <Skill>php</Skill>
+        <Skill>http secure</Skill>
+      </>"
+<>Crescent Solutions</>,<>chp6vr61846d48yk0qk</>,<>http://www.careerbuilder.com/jobs/company/chp6vr61846d48yk0qk/crescent-solutions?sc_cmp1=13_JobRes_ComDet</>,<>JHT2QJ5VNDPSPXYZB54</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",<>Description Are you a developer interested in automation and Python? Client is developing the ...  Requirements Demonstrable knowledge of distributed...</>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHT2QJ5VNDPSPXYZB54</>,<>https://api.careerbuilder.com/v1/job?DID=JHT2QJ5VNDPSPXYZB54&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>CA - Aliso Viejo</>,<>33.5767</>,<>-117.7127</>,<>7/9/2014 1:30:08 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHT2QJ5VNDPSPXYZB54</>,<>software engineer - Python</>,<>HasAOReview</>,"<>
+        <Skill>representational state transfer</Skill>
+        <Skill>software documentation</Skill>
+        <Skill>Unified Modeling Language</Skill>
+        <Skill>database</Skill>
+        <Skill>nosql</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>github</Skill>
+        <Skill>integration testing</Skill>
+        <Skill>unit testing</Skill>
+      </>"
+<>AMS Staffing Solutions</>,<>cht01v6tg04602zck6y</>,<>http://www.careerbuilder.com/jobs/company/cht01v6tg04602zck6y/ams-staffing-solutions?sc_cmp1=13_JobRes_ComDet</>,<>JHP3DJ64NW2NXN659HC</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>","<> interested in this Python Developer / PHP Developer / LAMP Developer opening in Chicago, IL 60606. Client is ... </>",</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHP3DJ64NW2NXN659HC</>,<>https://api.careerbuilder.com/v1/job?DID=JHP3DJ64NW2NXN659HC&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>IL - Chicago</>,<>41.8818</>,<>-87.6367</>,<>6/30/2014 4:48:09 PM</>,<>$90k - $105k/year</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHP3DJ64NW2NXN659HC</>,<>Senior Python Developer</>,<>CanBulkApply</>,"<>
+        <Skill>mysql</Skill>
+        <Skill>representational state transfer</Skill>
+        <Skill>web service</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>database</Skill>
+        <Skill>xml</Skill>
+        <Skill>LAMP</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>nosql</Skill>
+        <Skill>Linux</Skill>
+        <Skill>IL (network protocol)</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>electronic commerce</Skill>
+        <Skill>application programming interface</Skill>
+        <Skill>json</Skill>
+        <Skill>php</Skill>
+        <Skill>xhtml</Skill>
+      </>"
+</>,</>,</>,<>JHT3PP5X2G33SPC8WM3</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHT3PP5X2G33SPC8WM3</>,<>https://api.careerbuilder.com/v1/job?DID=JHT3PP5X2G33SPC8WM3&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>CA - Culver City</>,<>34.0181</>,<>-118.3922</>,<>7/22/2014 9:54:46 PM</>,<>$70k - $130k/year</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHT3PP5X2G33SPC8WM3</>,<>Python/ Django Engineer wanted!</>,<>CanBulkApply</>,"<>
+        <Skill>web development</Skill>
+        <Skill>javascript</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>python (programming language)</Skill>
+      </>"
+<>Smith &amp; Keller</>,<>chm71v6plkqrr62l1x6</>,<>http://www.careerbuilder.com/jobs/company/chm71v6plkqrr62l1x6/smith-keller?sc_cmp1=13_JobRes_ComDet</>,<>J3J0676CWDZXZFQJ9C9</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",<>Smith &amp; Keller is on the lookout for an up and coming Python Developer Position ... </>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3J0676CWDZXZFQJ9C9</>,<>https://api.careerbuilder.com/v1/job?DID=J3J0676CWDZXZFQJ9C9&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>NY - New York</>,<>40.71455</>,<>-74.00712</>,<>7/23/2014 6:24:37 AM</>,<>$85k - $125k/year</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3J0676CWDZXZFQJ9C9</>,<>Python Developer</>,<>CanBulkApply</>,"<>
+        <Skill>mysql</Skill>
+        <Skill>web development</Skill>
+        <Skill>html</Skill>
+        <Skill>agile software development</Skill>
+        <Skill>ubuntu</Skill>
+        <Skill>javascript</Skill>
+        <Skill>Android</Skill>
+        <Skill>User Interface design</Skill>
+        <Skill>android (operating system)</Skill>
+        <Skill>mongodb</Skill>
+        <Skill>nosql</Skill>
+        <Skill>Linux</Skill>
+        <Skill>mvc</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>postgresql</Skill>
+        <Skill>sql</Skill>
+        <Skill>application programming interface</Skill>
+        <Skill>computer security</Skill>
+        <Skill>unit testing</Skill>
+      </>"
+<>Morpace</>,</>,</>,<>JHN42J79LFKLHJNTY56</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHN42J79LFKLHJNTY56</>,<>https://api.careerbuilder.com/v1/job?DID=JHN42J79LFKLHJNTY56&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>MI - Farmington Hills</>,<>42.5067</>,<>-83.3489</>,<>7/21/2014 12:10:03 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHN42J79LFKLHJNTY56</>,<>Python Application Developer</>,<>IsExternal</>,"<>
+        <Skill>mysql</Skill>
+        <Skill>html</Skill>
+        <Skill>x window system</Skill>
+        <Skill>ETL</Skill>
+        <Skill>database</Skill>
+        <Skill>Business Intelligence</Skill>
+        <Skill>javascript</Skill>
+        <Skill>jquery</Skill>
+        <Skill>Linux</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>workflow</Skill>
+        <Skill>postgresql</Skill>
+        <Skill>sql</Skill>
+        <Skill>database design</Skill>
+      </>"
+"<>TekPartners, A P2P Staffing </>",<>chn2fd6fzwr32kbhlht</>,<>http://www.careerbuilder.com/jobs/company/chn2fd6fzwr32kbhlht/tekpartners-a-p2p-staffing-company?sc_cmp1=13_JobRes_ComDet</>,<>JHQ55169XJ044P0HBXV</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>","<>Title : Software Tool Developer (Python) Location: Hillsboro, OR Duration: 18 months ...  Title : Software Tool Developer (Python) Location: Hillsboro...</>",</>,<>Contractor</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHQ55169XJ044P0HBXV</>,<>https://api.careerbuilder.com/v1/job?DID=JHQ55169XJ044P0HBXV&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>OR - Hillsboro</>,<>45.5227</>,<>-122.99056</>,<>6/26/2014 10:22:04 AM</>,<>$40.00 - $55.00/hour</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHQ55169XJ044P0HBXV</>,<>Software Tool Developer (Python)</>,<>CanBulkApply</>,"<>
+        <Skill>database</Skill>
+        <Skill>software development</Skill>
+        <Skill>requirements analysis</Skill>
+        <Skill>Linux</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>machine learning</Skill>
+      </>"
+</>,</>,</>,<>JHR7S5631SMF3RZ477Y</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",<>: Python Engineer should have a strong Python/Unix scripting foundation with experience in automating ... </>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHR7S5631SMF3RZ477Y</>,<>https://api.careerbuilder.com/v1/job?DID=JHR7S5631SMF3RZ477Y&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>GA - Alpharetta</>,<>34.0843</>,<>-84.2249</>,<>7/21/2014 1:08:31 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHR7S5631SMF3RZ477Y</>,<>Python Engineer</>,<>HasAOReview</>,"<>
+        <Skill>mysql</Skill>
+        <Skill>apache hadoop</Skill>
+        <Skill>apache subversion</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>ldap</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>fax</Skill>
+        <Skill>shell script</Skill>
+        <Skill>Kerberos (protocol)</Skill>
+        <Skill>computer security</Skill>
+        <Skill>unix</Skill>
+      </>"
+<>Digital Staffing</>,<>chm4tq6pyb1lzgfsh88</>,<>http://www.careerbuilder.com/jobs/company/chm4tq6pyb1lzgfsh88/digital-staffing?sc_cmp1=13_JobRes_ComDet</>,<>JHT2W364ZZN4763PV6J</>,<>15-1071.00</>,<>Network and Computer Systems Administrators</>,"<> Perl or Python Advanced experience with SQL (creating tables, updating applications, patching, writing ... </>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHT2W364ZZN4763PV6J</>,<>https://api.careerbuilder.com/v1/job?DID=JHT2W364ZZN4763PV6J&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>IL - Chicago</>,<>41.88415</>,<>-87.63241</>,<>7/2/2014 12:24:41 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHT2W364ZZN4763PV6J</>,<>Trading Support Specialist SQL Perl Python FIX Protocol Uncapped Bonus Potential</>,<>CanBulkApply</>,"<>
+        <Skill>daytime protocol</Skill>
+        <Skill>Linux</Skill>
+        <Skill>perl</Skill>
+        <Skill>cryptographic protocol</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>sql</Skill>
+      </>"
+</>,</>,</>,<>JHQ2YW66TPV7D6QQS4S</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHQ2YW66TPV7D6QQS4S</>,<>https://api.careerbuilder.com/v1/job?DID=JHQ2YW66TPV7D6QQS4S&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>NC - Raleigh</>,<>35.78551</>,<>-78.64267</>,<>7/18/2014 1:41:43 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHQ2YW66TPV7D6QQS4S</>,<>Python Developer</>,<>CanBulkApply</>,"<>
+        <Skill>hypertext transfer protocol</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>scrum (development)</Skill>
+      </>"
+"<>TEKsystems, Inc</>",<>c7g7jj77nvmshq4fctz</>,<>http://www.careerbuilder.com/jobs/company/c7g7jj77nvmshq4fctz/teksystems-inc?sc_cmp1=13_JobRes_ComDet</>,<>J3J14K65X4CTGSW5KGG</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>","<>. They are looking for someone who has a strong background in Python Development and who also has ...  Quantitative Development, Python Development,...</>",</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3J14K65X4CTGSW5KGG</>,<>https://api.careerbuilder.com/v1/job?DID=J3J14K65X4CTGSW5KGG&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>NY - New York</>,<>40.7059</>,<>-74.0086</>,<>7/25/2014 2:20:02 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3J14K65X4CTGSW5KGG</>,<>Sr. Quant Developer (Python)</>,<>CanBulkApply</>,"<>
+        <Skill>python (programming language)</Skill>
+      </>"
+"<>TEKsystems, Inc</>",<>c7g7jj77nvmshq4fctz</>,<>http://www.careerbuilder.com/jobs/company/c7g7jj77nvmshq4fctz/teksystems-inc?sc_cmp1=13_JobRes_ComDet</>,<>J3H7K764QDT23WR8738</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>","<>Job Classification: Contract We are looking for a Python Consultant for a long term position ...  Python, Java or C#, Object Orientated ... </>",</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H7K764QDT23WR8738</>,<>https://api.careerbuilder.com/v1/job?DID=J3H7K764QDT23WR8738&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>NY - New York</>,<>40.75</>,<>-73.9967</>,<>7/17/2014 11:11:17 AM</>,<>$80.00/hour</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H7K764QDT23WR8738</>,<>Python Developer</>,<>RequireUserInfo</>,"<>
+        <Skill>c-sharp</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>data warehouse</Skill>
+        <Skill>software development</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>c++</Skill>
+      </>"
+"<>TEKsystems, Inc</>",<>c7g7jj77nvmshq4fctz</>,<>http://www.careerbuilder.com/jobs/company/c7g7jj77nvmshq4fctz/teksystems-inc?sc_cmp1=13_JobRes_ComDet</>,<>J3J3Q75WQ119TVMRBMP</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>","<>Job Classification: Contract We are looking for a Python Consultant for a long term position ...  Python, Object Orientated Scripting ... </>",</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3J3Q75WQ119TVMRBMP</>,<>https://api.careerbuilder.com/v1/job?DID=J3J3Q75WQ119TVMRBMP&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>NC - Charlotte</>,<>35.2466</>,<>-80.6973</>,<>7/15/2014 2:38:56 PM</>,<>$80.00/hour</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3J3Q75WQ119TVMRBMP</>,<>Python Developer</>,<>RequireUserInfo</>,"<>
+        <Skill>c-sharp</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>data warehouse</Skill>
+        <Skill>software development</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>c++</Skill>
+      </>"
+</>,</>,</>,<>JHR7SM749MKH7V6TXVL</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>","<>-Oriented Developer needed, learn C++/Unix (OR Python - we will teach), Financial Services, NYC, experience, C# or ...   Object Oriented programming...</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHR7SM749MKH7V6TXVL</>,<>https://api.careerbuilder.com/v1/job?DID=JHR7SM749MKH7V6TXVL&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>NY - New York</>,<>40.71455</>,<>-74.00712</>,<>7/21/2014 12:00:28 PM</>,<>$110k - $150k/year</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHR7SM749MKH7V6TXVL</>,<>OOD Object Oriented Developer - C# or Java or C++ or Python</>,<>RequireUserInfo</>,"<>
+        <Skill>c-sharp</Skill>
+        <Skill>database</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>c++</Skill>
+        <Skill>unix</Skill>
+      </>"
+<>Webrecruit US</>,<>chm02y70p7479mf40p8</>,<>http://www.careerbuilder.com/jobs/company/chm02y70p7479mf40p8/webrecruit-us?sc_cmp1=13_JobRes_ComDet</>,<>JHV7WY61Q3DRHTMYQGT</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHV7WY61Q3DRHTMYQGT</>,<>https://api.careerbuilder.com/v1/job?DID=JHV7WY61Q3DRHTMYQGT&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>MA - Waltham</>,<>42.3973</>,<>-71.25937</>,<>6/26/2014 12:30:11 PM</>,<>$120k/year</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHV7WY61Q3DRHTMYQGT</>,<>CanBulkApply</>,"<>
+        <Skill>mysql</Skill>
+        <Skill>apache solr</Skill>
+        <Skill>database</Skill>
+        <Skill>nosql</Skill>
+        <Skill>Linux</Skill>
+        <Skill>Pivotal</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>software design</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>dbase</Skill>
+        <Skill>php</Skill>
+        <Skill>unix</Skill>
+        <Skill>scrum (development)</Skill>
+      </>"
+<>ATR International</>,<>chv5bf6302xz5d1mdjg</>,<>http://www.careerbuilder.com/jobs/company/chv5bf6302xz5d1mdjg/atr-international?sc_cmp1=13_JobRes_ComDet</>,<>JHM4WH77GLH800P84GZ</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",<>The ideal candidate must have strong Python development skills and integration engineering ... </>,</>,<>Contractor</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHM4WH77GLH800P84GZ</>,<>https://api.careerbuilder.com/v1/job?DID=JHM4WH77GLH800P84GZ&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>AZ - Chandler</>,<>33.30338</>,<>-111.84083</>,<>7/3/2014 3:30:34 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHM4WH77GLH800P84GZ</>,<>Rao Python</>,<>IsExternal</>,"<>
+        <Skill>mysql</Skill>
+        <Skill>representational state transfer</Skill>
+        <Skill>web service</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>database</Skill>
+        <Skill>message passing</Skill>
+        <Skill>hypertext transfer protocol</Skill>
+        <Skill>Linux</Skill>
+        <Skill>cryptographic protocol</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>systems engineering</Skill>
+        <Skill>github</Skill>
+        <Skill>json</Skill>
+      </>"
+<>Robert Half Technology</>,<>cht3vg6lk6nkvvrxlrm</>,<>http://www.careerbuilder.com/jobs/company/cht3vg6lk6nkvvrxlrm/robert-half-technology?sc_cmp1=13_JobRes_ComDet</>,<>J3J4G65YD8Z77HRMRT5</>,<>15-1021.00</>,<>Computer Programmers</>,<> is seeking a Python/Django (3+ years) to work on multiple projects. If you are interested in learning ...   applications using Python/Django....</>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3J4G65YD8Z77HRMRT5</>,<>https://api.careerbuilder.com/v1/job?DID=J3J4G65YD8Z77HRMRT5&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>MD - Baltimore</>,<>39.2974</>,<>-76.6074</>,<>7/25/2014 11:26:50 AM</>,<>$35.62 - $45.00/hour</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3J4G65YD8Z77HRMRT5</>,<>Python / Django</>,<>CanBulkApply</>,"<>
+        <Skill>web development</Skill>
+        <Skill>representational state transfer</Skill>
+        <Skill>html</Skill>
+        <Skill>soap</Skill>
+        <Skill>javascript</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>sql</Skill>
+        <Skill>system integration</Skill>
+        <Skill>computer security</Skill>
+      </>"

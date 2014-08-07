@@ -1,0 +1,446 @@
+Company,CompanyDID,CompanyDetailsURL,DID,OnetCode,ONetFriendlyTitle,DescriptionTeaser,Distance,EmploymentType,EducationRequired,ExperienceRequired,JobDetailsURL,JobServiceURL,Location,LocationLatitude,LocationLongitude,PostedTime,PostedTime,Pay,SimilarJobsURL,JobTitle,ApplyRequirement,Skills
+<>Extreme Technologies</>,<>chl2yy64mkbqbyq24v5</>,<>http://www.careerbuilder.com/jobs/company/chl2yy64mkbqbyq24v5/extreme-technologies?sc_cmp1=13_JobRes_ComDet</>,<>JHV7TZ79F59BBBVKL0G</>,<>15-1099.04</>,<>Web Developers</>,</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHV7TZ79F59BBBVKL0G</>,<>https://api.careerbuilder.com/v1/job?DID=JHV7TZ79F59BBBVKL0G&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>TX - Houston</>,<>29.76045</>,<>-95.36978</>,<>7/11/2014 4:20:20 PM</>,<>7/11/2014 4:20:20 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHV7TZ79F59BBBVKL0G</>,<>Senior Java Developer</>,<>RequireUserInfo</>,"<>
+        <Skill>mysql</Skill>
+        <Skill>universal description discovery and integration</Skill>
+        <Skill>web service</Skill>
+        <Skill>soap</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>Unified Modeling Language</Skill>
+        <Skill>database</Skill>
+        <Skill>xml</Skill>
+        <Skill>java development kit</Skill>
+        <Skill>operator yapo</Skill>
+        <Skill>oracle weblogic server</Skill>
+        <Skill>apache ant</Skill>
+        <Skill>eclipse</Skill>
+        <Skill>Linux</Skill>
+        <Skill>jboss application server</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>sql</Skill>
+        <Skill>jsp</Skill>
+        <Skill>java naming and directory interface</Skill>
+        <Skill>system integration</Skill>
+        <Skill>apache maven</Skill>
+        <Skill>data modeling</Skill>
+        <Skill>unix</Skill>
+      </>"
+<>Collabera Inc.</>,<>c8a5z874t503m6w7ghf</>,<>http://www.careerbuilder.com/jobs/company/c8a5z874t503m6w7ghf/collabera-inc?sc_cmp1=13_JobRes_ComDet</>,<>JHN66V72VNCDT0HPFPG</>,<>15-1099.04</>,<>Web Developers</>,</>,<>Contractor</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHN66V72VNCDT0HPFPG</>,<>https://api.careerbuilder.com/v1/job?DID=JHN66V72VNCDT0HPFPG&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>CA - Foster City</>,<>37.5559</>,<>-122.2691</>,<>7/21/2014 3:04:55 PM</>,<>7/21/2014 3:04:55 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHN66V72VNCDT0HPFPG</>,<>Core Java Developer</>,<>CanBulkApply</>,"<>
+        <Skill>representational state transfer</Skill>
+        <Skill>web service</Skill>
+        <Skill>soap</Skill>
+        <Skill>agile software development</Skill>
+        <Skill>xml</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>java development kit</Skill>
+        <Skill>jquery</Skill>
+        <Skill>vmware vsphere</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>hibernate (java)</Skill>
+        <Skill>sql</Skill>
+        <Skill>json</Skill>
+        <Skill>scrum (development)</Skill>
+      </>"
+<>Randstad Professionals</>,<>c8453c5xylzkdskr49r</>,<>http://www.careerbuilder.com/jobs/company/c8453c5xylzkdskr49r/randstad-professionals?sc_cmp1=13_JobRes_ComDet</>,<>J8D10M64ZYB4MBTJ3D8</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>","<>. Position: Web Software Engineer (Java) Status: Permanent, Direct Hire We are seeking talented Java ...  4 Year Degree in Computer Science . At least...</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J8D10M64ZYB4MBTJ3D8</>,<>https://api.careerbuilder.com/v1/job?DID=J8D10M64ZYB4MBTJ3D8&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>MD - Hunt Valley</>,<>39.485</>,<>-76.661</>,<>7/18/2014 1:01:18 AM</>,<>7/18/2014 1:01:18 AM</>,<>$85k - $115k/year</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J8D10M64ZYB4MBTJ3D8</>,<>Software Engineer (Java)</>,<>HasScreener</>,"<>
+        <Skill>web service</Skill>
+        <Skill>html</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>Unified Modeling Language</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>ado.net</Skill>
+        <Skill>javascript</Skill>
+        <Skill>software development</Skill>
+        <Skill>eclipse</Skill>
+        <Skill>hypertext transfer protocol</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>apache tomcat</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>hibernate (java)</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>internet protocol suite</Skill>
+        <Skill>sql</Skill>
+      </>"
+<>Collabera Inc.</>,<>c8a5z874t503m6w7ghf</>,<>http://www.careerbuilder.com/jobs/company/c8a5z874t503m6w7ghf/collabera-inc?sc_cmp1=13_JobRes_ComDet</>,<>JB76C96WXSBBCDP9CD0</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",</>,<>Full-Time</>,<>Master's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JB76C96WXSBBCDP9CD0</>,<>https://api.careerbuilder.com/v1/job?DID=JB76C96WXSBBCDP9CD0&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>VA - McLean</>,<>38.93652</>,<>-77.18428</>,<>7/18/2014 8:37:53 PM</>,<>7/18/2014 8:37:53 PM</>,<>$70.00 - $90.00/hour</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JB76C96WXSBBCDP9CD0</>,<>Java Hadoop Developer - Data Engineer _Multiple locations</>,<>CanBulkApply</>,"<>
+        <Skill>web service</Skill>
+        <Skill>apache hadoop</Skill>
+        <Skill>mapreduce</Skill>
+        <Skill>ETL</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>data warehouse</Skill>
+        <Skill>POST (HTTP)</Skill>
+        <Skill>regression testing</Skill>
+        <Skill>perl</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>sql</Skill>
+        <Skill>machine learning</Skill>
+        <Skill>github</Skill>
+        <Skill>data management</Skill>
+        <Skill>unix</Skill>
+        <Skill>unit testing</Skill>
+        <Skill>data mining</Skill>
+      </>"
+<>Collabera Inc.</>,<>c8a5z874t503m6w7ghf</>,<>http://www.careerbuilder.com/jobs/company/c8a5z874t503m6w7ghf/collabera-inc?sc_cmp1=13_JobRes_ComDet</>,<>JB70FM69P76Z66X0LRS</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",</>,<>Full-Time</>,<>Master's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JB70FM69P76Z66X0LRS</>,<>https://api.careerbuilder.com/v1/job?DID=JB70FM69P76Z66X0LRS&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>VA - Richmond</>,<>37.5407</>,<>-77.43365</>,<>7/18/2014 8:37:52 PM</>,<>7/18/2014 8:37:52 PM</>,<>$70.00 - $90.00/hour</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JB70FM69P76Z66X0LRS</>,<>Java Hadoop Developer - Data Engineer _Multiple locations</>,<>CanBulkApply</>,"<>
+        <Skill>web service</Skill>
+        <Skill>apache hadoop</Skill>
+        <Skill>mapreduce</Skill>
+        <Skill>ETL</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>data warehouse</Skill>
+        <Skill>POST (HTTP)</Skill>
+        <Skill>regression testing</Skill>
+        <Skill>perl</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>sql</Skill>
+        <Skill>machine learning</Skill>
+        <Skill>github</Skill>
+        <Skill>data management</Skill>
+        <Skill>unix</Skill>
+        <Skill>unit testing</Skill>
+        <Skill>data mining</Skill>
+      </>"
+<>Collabera Inc.</>,<>c8a5z874t503m6w7ghf</>,<>http://www.careerbuilder.com/jobs/company/c8a5z874t503m6w7ghf/collabera-inc?sc_cmp1=13_JobRes_ComDet</>,<>JB72K972GMYLMSSHKYN</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",</>,<>Full-Time</>,<>Master's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JB72K972GMYLMSSHKYN</>,<>https://api.careerbuilder.com/v1/job?DID=JB72K972GMYLMSSHKYN&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>TX - Plano</>,<>33.02079</>,<>-96.69921</>,<>7/18/2014 8:37:53 PM</>,<>7/18/2014 8:37:53 PM</>,<>$70.00 - $90.00/hour</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JB72K972GMYLMSSHKYN</>,<>Java Hadoop Developer - Data Engineer _Multiple locations</>,<>CanBulkApply</>,"<>
+        <Skill>web service</Skill>
+        <Skill>apache hadoop</Skill>
+        <Skill>mapreduce</Skill>
+        <Skill>ETL</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>data warehouse</Skill>
+        <Skill>POST (HTTP)</Skill>
+        <Skill>regression testing</Skill>
+        <Skill>perl</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>sql</Skill>
+        <Skill>machine learning</Skill>
+        <Skill>github</Skill>
+        <Skill>data management</Skill>
+        <Skill>unix</Skill>
+        <Skill>unit testing</Skill>
+        <Skill>data mining</Skill>
+      </>"
+<>Collabera Inc.</>,<>c8a5z874t503m6w7ghf</>,<>http://www.careerbuilder.com/jobs/company/c8a5z874t503m6w7ghf/collabera-inc?sc_cmp1=13_JobRes_ComDet</>,<>JB73286GYZ2QVG66DG5</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",</>,<>Full-Time</>,<>Master's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JB73286GYZ2QVG66DG5</>,<>https://api.careerbuilder.com/v1/job?DID=JB73286GYZ2QVG66DG5&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>DE - Wilmington</>,<>39.74023</>,<>-75.55084</>,<>7/18/2014 8:37:52 PM</>,<>7/18/2014 8:37:52 PM</>,<>$70.00 - $90.00/hour</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JB73286GYZ2QVG66DG5</>,<>Java Hadoop Developer - Data Engineer _Multiple locations</>,<>CanBulkApply</>,"<>
+        <Skill>web service</Skill>
+        <Skill>apache hadoop</Skill>
+        <Skill>mapreduce</Skill>
+        <Skill>ETL</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>data warehouse</Skill>
+        <Skill>POST (HTTP)</Skill>
+        <Skill>regression testing</Skill>
+        <Skill>perl</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>sql</Skill>
+        <Skill>machine learning</Skill>
+        <Skill>github</Skill>
+        <Skill>data management</Skill>
+        <Skill>unix</Skill>
+        <Skill>unit testing</Skill>
+        <Skill>data mining</Skill>
+      </>"
+<>Collabera Inc.</>,<>c8a5z874t503m6w7ghf</>,<>http://www.careerbuilder.com/jobs/company/c8a5z874t503m6w7ghf/collabera-inc?sc_cmp1=13_JobRes_ComDet</>,<>JHR2ZF60RZM5DQY17Q3</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",</>,<>Full-Time</>,<>Master's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHR2ZF60RZM5DQY17Q3</>,<>https://api.careerbuilder.com/v1/job?DID=JHR2ZF60RZM5DQY17Q3&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>NY - New York</>,<>40.7059</>,<>-74.0086</>,<>7/22/2014 11:45:38 AM</>,<>7/22/2014 11:45:38 AM</>,<>$70.00 - $90.00/hour</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHR2ZF60RZM5DQY17Q3</>,<>Java Developer - Data Engineer (ETL or Hadoop) _Multiple locations</>,<>CanBulkApply</>,"<>
+        <Skill>web service</Skill>
+        <Skill>apache hadoop</Skill>
+        <Skill>mapreduce</Skill>
+        <Skill>ETL</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>data warehouse</Skill>
+        <Skill>POST (HTTP)</Skill>
+        <Skill>regression testing</Skill>
+        <Skill>perl</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>sql</Skill>
+        <Skill>machine learning</Skill>
+        <Skill>github</Skill>
+        <Skill>data management</Skill>
+        <Skill>unix</Skill>
+        <Skill>unit testing</Skill>
+        <Skill>data mining</Skill>
+      </>"
+<>Systems Insight</>,<>c8g4c26bmq8cbz9738h</>,<>http://www.careerbuilder.com/jobs/company/c8g4c26bmq8cbz9738h/systems-insight?sc_cmp1=13_JobRes_ComDet</>,<>JHR45V6GKSKRPVQFVB3</>,<>15-1099.04</>,<>Web Developers</>,"<>Systems Insight, Inc. is looking for a Jr. to Mid Level Java Developer in the Cincinnati area ...  Technical Skills - ( * = Required): Required: -...</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHR45V6GKSKRPVQFVB3</>,<>https://api.careerbuilder.com/v1/job?DID=JHR45V6GKSKRPVQFVB3&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>OH - Cincinnati</>,<>39.1064</>,<>-84.5014</>,<>7/21/2014 1:04:54 AM</>,<>7/21/2014 1:04:54 AM</>,<>$35k - $80k/year</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHR45V6GKSKRPVQFVB3</>,<>Java Developer</>,<>CanBulkApply</>,"<>
+        <Skill>html</Skill>
+        <Skill>javascript</Skill>
+        <Skill>arcgis</Skill>
+        <Skill>apache tomcat</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>sql</Skill>
+        <Skill>json</Skill>
+        <Skill>java servlet</Skill>
+      </>"
+<>Digital Staffing</>,<>chm4tq6pyb1lzgfsh88</>,<>http://www.careerbuilder.com/jobs/company/chm4tq6pyb1lzgfsh88/digital-staffing?sc_cmp1=13_JobRes_ComDet</>,<>JHR6D55WQZD96YYV6TY</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>","<>Java Software Engineer - Java Developer Environment: Java, J2EE, JSON, Web Services Java ...  Java Software Engineer - Java Developer Java Software...</>",</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHR6D55WQZD96YYV6TY</>,<>https://api.careerbuilder.com/v1/job?DID=JHR6D55WQZD96YYV6TY&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>IL - Chicago</>,<>41.8781</>,<>-87.6283</>,<>7/8/2014 12:23:49 PM</>,<>7/8/2014 12:23:49 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHR6D55WQZD96YYV6TY</>,<>Java Software Engineer Java Developer J2EE Developer Work Remote 1 Day A Week Top 100 Digital Company in Chicago</>,<>HasAOReview</>,"<>
+        <Skill>universal description discovery and integration</Skill>
+        <Skill>web service</Skill>
+        <Skill>soap</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>web services description language</Skill>
+        <Skill>jquery</Skill>
+        <Skill>message passing</Skill>
+        <Skill>software development</Skill>
+        <Skill>daytime protocol</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>apache struts</Skill>
+        <Skill>service-oriented architecture</Skill>
+        <Skill>hibernate (java)</Skill>
+        <Skill>json</Skill>
+        <Skill>unit testing</Skill>
+      </>"
+<>vTech Solution Inc</>,</>,</>,<>JHL7RD5WYPV058YGMWT</>,<>15-1099.04</>,<>Web Developers</>,"<>a Senior Java Developer and are seeking an established company to work for, consider acareer at ...  Requirements Position: Senior Java Developer...</>",</>,<>Contractor</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHL7RD5WYPV058YGMWT</>,<>https://api.careerbuilder.com/v1/job?DID=JHL7RD5WYPV058YGMWT&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>PA - Harrisburg</>,<>40.25993</>,<>-76.88234</>,<>6/27/2014 2:18:13 PM</>,<>6/27/2014 2:18:13 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHL7RD5WYPV058YGMWT</>,<>Senior Java Developer</>,<>CanBulkApply</>,"<>
+        <Skill>representational state transfer</Skill>
+        <Skill>html5</Skill>
+        <Skill>web service</Skill>
+        <Skill>html</Skill>
+        <Skill>soap</Skill>
+        <Skill>javabean</Skill>
+        <Skill>x window system</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>database</Skill>
+        <Skill>jsf</Skill>
+        <Skill>xml</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>client-server model</Skill>
+        <Skill>spring framework</Skill>
+        <Skill>java database connectivity</Skill>
+        <Skill>javascript</Skill>
+        <Skill>ibm software</Skill>
+        <Skill>oracle weblogic server</Skill>
+        <Skill>apache ant</Skill>
+        <Skill>eclipse</Skill>
+        <Skill>jboss application server</Skill>
+        <Skill>javaserver faces</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>apache struts</Skill>
+        <Skill>hibernate (java)</Skill>
+        <Skill>xslt</Skill>
+        <Skill>jsp</Skill>
+        <Skill>java naming and directory interface</Skill>
+        <Skill>apache maven</Skill>
+        <Skill>jboss seam</Skill>
+        <Skill>json</Skill>
+        <Skill>java servlet</Skill>
+      </>"
+<>OPTOMI</>,<>chq8cw6l9q73h17kb4s</>,<>http://www.careerbuilder.com/jobs/company/chq8cw6l9q73h17kb4s/optomi?sc_cmp1=13_JobRes_ComDet</>,<>JHT87N6LY4T08VZVNBD</>,<>15-1099.04</>,<>Web Developers</>,<>Senior JAVA Developer The Senior JAVA Developer will be responsible for development of highly ...   technologies like Akamai and/or Memcache Nice to...</>,</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHT87N6LY4T08VZVNBD</>,<>https://api.careerbuilder.com/v1/job?DID=JHT87N6LY4T08VZVNBD&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>GA - Atlanta</>,<>33.8759</>,<>-84.45461</>,<>6/26/2014 11:33:07 AM</>,<>6/26/2014 11:33:07 AM</>,<>$85k - $110k/year</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHT87N6LY4T08VZVNBD</>,<>Senior Java Developer</>,<>CanBulkApply</>,"<>
+        <Skill>representational state transfer</Skill>
+        <Skill>web service</Skill>
+        <Skill>apache hadoop</Skill>
+        <Skill>xml</Skill>
+        <Skill>message passing</Skill>
+        <Skill>Advanced Message Queuing Protocol</Skill>
+        <Skill>eclipse</Skill>
+        <Skill>mongodb</Skill>
+        <Skill>nosql</Skill>
+        <Skill>apache tomcat</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>intelligent network</Skill>
+        <Skill>redis</Skill>
+        <Skill>apache maven</Skill>
+        <Skill>computer security</Skill>
+        <Skill>oauth</Skill>
+        <Skill>json</Skill>
+      </>"
+<>Werner Enterprises</>,<>c28646ydwkf0736ttx</>,<>http://www.careerbuilder.com/jobs/company/c28646ydwkf0736ttx/werner-enterprises?sc_cmp1=13_JobRes_ComDet</>,<>JHV0LZ74W2VMKBG3LZ8</>,<>15-1099.04</>,<>Web Developers</>,"<>Java Developer Werner Enterprises , one of the largest transportation and logistics companies ...   experience in specific Java software development...</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHV0LZ74W2VMKBG3LZ8</>,<>https://api.careerbuilder.com/v1/job?DID=JHV0LZ74W2VMKBG3LZ8&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>NE - Omaha</>,<>41.15851</>,<>-96.14196</>,<>6/26/2014 10:25:51 AM</>,<>6/26/2014 10:25:51 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHV0LZ74W2VMKBG3LZ8</>,<>Java Developer</>,<>CanBulkApply</>,"<>
+        <Skill>web service</Skill>
+        <Skill>Unified Modeling Language</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>java database connectivity</Skill>
+        <Skill>java development kit</Skill>
+        <Skill>software development</Skill>
+        <Skill>apache ant</Skill>
+        <Skill>junit</Skill>
+        <Skill>eclipse</Skill>
+        <Skill>enterprise javabean</Skill>
+        <Skill>apache subversion</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>service-oriented architecture</Skill>
+        <Skill>sql</Skill>
+        <Skill>apache maven</Skill>
+        <Skill>activity diagram</Skill>
+        <Skill>microsoft visio</Skill>
+        <Skill>testng</Skill>
+        <Skill>java servlet</Skill>
+        <Skill>unit testing</Skill>
+      </>"
+<>Collabera Inc.</>,<>c8a5z874t503m6w7ghf</>,<>http://www.careerbuilder.com/jobs/company/c8a5z874t503m6w7ghf/collabera-inc?sc_cmp1=13_JobRes_ComDet</>,<>JHN1CJ6GVX45XQX0VGL</>,<>15-1099.04</>,<>Web Developers</>,</>,<>Contractor</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHN1CJ6GVX45XQX0VGL</>,<>https://api.careerbuilder.com/v1/job?DID=JHN1CJ6GVX45XQX0VGL&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>CA - Foster City</>,<>37.5559</>,<>-122.2691</>,<>7/21/2014 3:04:55 PM</>,<>7/21/2014 3:04:55 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHN1CJ6GVX45XQX0VGL</>,<>Senior Java Developer - JMS</>,<>IsExternal</>,"<>
+        <Skill>mysql</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>database</Skill>
+        <Skill>java database connectivity</Skill>
+        <Skill>oracle weblogic server</Skill>
+        <Skill>junit</Skill>
+        <Skill>profiling (computer programming)</Skill>
+        <Skill>jboss application server</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>sql</Skill>
+        <Skill>apache maven</Skill>
+        <Skill>computer security</Skill>
+        <Skill>database design</Skill>
+        <Skill>unix</Skill>
+        <Skill>unit testing</Skill>
+        <Skill>scrum (development)</Skill>
+      </>"
+<>Randstad Professionals</>,<>c8453c5xylzkdskr49r</>,<>http://www.careerbuilder.com/jobs/company/c8453c5xylzkdskr49r/randstad-professionals?sc_cmp1=13_JobRes_ComDet</>,<>JHR5NL60TSZL0GLXMH9</>,<>15-1099.04</>,<>Web Developers</>,</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHR5NL60TSZL0GLXMH9</>,<>https://api.careerbuilder.com/v1/job?DID=JHR5NL60TSZL0GLXMH9&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>MD - Columbia</>,<>39.2119</>,<>-76.8793</>,<>7/9/2014 3:48:34 PM</>,<>7/9/2014 3:48:34 PM</>,<>$80k - $115k/year</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHR5NL60TSZL0GLXMH9</>,<>Java Web Developer</>,<>HasScreener</>,"<>
+        <Skill>web service</Skill>
+        <Skill>html</Skill>
+        <Skill>Unified Modeling Language</Skill>
+        <Skill>jsf</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>ado.net</Skill>
+        <Skill>spring framework</Skill>
+        <Skill>javascript</Skill>
+        <Skill>eclipse</Skill>
+        <Skill>jboss application server</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>mvc</Skill>
+        <Skill>hibernate (java)</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>glassfish</Skill>
+      </>"
+<>OPTOMI</>,<>chq8cw6l9q73h17kb4s</>,<>http://www.careerbuilder.com/jobs/company/chq8cw6l9q73h17kb4s/optomi?sc_cmp1=13_JobRes_ComDet</>,<>JHL13C6V714DCQG4CF8</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",</>,<>Contractor</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHL13C6V714DCQG4CF8</>,<>https://api.careerbuilder.com/v1/job?DID=JHL13C6V714DCQG4CF8&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>MI - Ann Arbor</>,<>42.28187</>,<>-83.74848</>,<>7/22/2014 10:47:58 AM</>,<>7/22/2014 10:47:58 AM</>,<>$35.00 - $55.00/hour</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHL13C6V714DCQG4CF8</>,"<>Java/J2EE Developer (Core Java, Back-end, UI)</>",<>CanBulkApply</>,"<>
+        <Skill>x window system</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>Android</Skill>
+        <Skill>User Interface design</Skill>
+        <Skill>sdlc</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>application programming interface</Skill>
+        <Skill>windows phone 7</Skill>
+        <Skill>ios</Skill>
+      </>"
+<>Visionaire Partners</>,<>chq2zv70wt1b3g3f5df</>,<>http://www.careerbuilder.com/jobs/company/chq2zv70wt1b3g3f5df/visionaire-partners?sc_cmp1=13_JobRes_ComDet</>,<>JHP8396VVVDZRBQMBR2</>,<>15-1099.04</>,<>Web Developers</>,<>Senior Swing Java Developer This is a very exciting opportunity for a Sr. level developer to ...  5+ years working in Java development in a high...</>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHP8396VVVDZRBQMBR2</>,<>https://api.careerbuilder.com/v1/job?DID=JHP8396VVVDZRBQMBR2&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>GA - Atlanta</>,<>33.74831</>,<>-84.39111</>,<>7/21/2014 1:06:40 AM</>,<>7/21/2014 1:06:40 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHP8396VVVDZRBQMBR2</>,<>Senior Swing Java Developer</>,<>CanBulkApply</>,"<>
+        <Skill>java web start</Skill>
+        <Skill>xml</Skill>
+        <Skill>apache ant</Skill>
+        <Skill>junit</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>swing (java)</Skill>
+        <Skill>apache maven</Skill>
+        <Skill>unit testing</Skill>
+      </>"
+<>Superior Staffing Solutions</>,</>,</>,<>JHP79G77KVWRZCZ22X2</>,<>15-1099.04</>,<>Web Developers</>,<>JAVA Technical Trainer - JAVA Technical Trainer - JAVA Technical Trainer Superior Staffing ...   Excellent communication and interpersonal skills...</>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHP79G77KVWRZCZ22X2</>,<>https://api.careerbuilder.com/v1/job?DID=JHP79G77KVWRZCZ22X2&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,"<>OH - Cincinnati, OH</>",<>39.1072</>,<>-84.5003</>,<>7/14/2014 8:24:29 PM</>,<>7/14/2014 8:24:29 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHP79G77KVWRZCZ22X2</>,<>JAVA Technical Trainer</>,<>HasAOReview</>,"<>
+        <Skill>apache http server</Skill>
+        <Skill>.net framework</Skill>
+        <Skill>web service</Skill>
+        <Skill>html</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>Unified Modeling Language</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>java database connectivity</Skill>
+        <Skill>javascript</Skill>
+        <Skill>jquery</Skill>
+        <Skill>DML</Skill>
+        <Skill>apache tomcat</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>apache struts</Skill>
+        <Skill>mvc</Skill>
+        <Skill>hibernate (java)</Skill>
+        <Skill>pl/sql</Skill>
+        <Skill>sql</Skill>
+        <Skill>jsp</Skill>
+        <Skill>java servlet</Skill>
+        <Skill>c++</Skill>
+        <Skill>unix</Skill>
+      </>"
+<>BranCore Technologies</>,</>,</>,<>JHN3R16K3FKBL4LC86V</>,<>15-1099.04</>,<>Web Developers</>,<>/V. Java Developer Java Developer Roles and Responsibilities: Java development on multiple tiers and OS ...  Java Developer Java Developer Minimum...</>,</>,<>Contractor</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHN3R16K3FKBL4LC86V</>,<>https://api.careerbuilder.com/v1/job?DID=JHN3R16K3FKBL4LC86V&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>MO - Saint Louis</>,<>38.629</>,<>-90.204</>,<>7/21/2014 9:37:12 AM</>,<>7/21/2014 9:37:12 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHN3R16K3FKBL4LC86V</>,<>Java Developer</>,<>CanBulkApply</>,"<>
+        <Skill>html</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>database</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>spring framework</Skill>
+        <Skill>javascript</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>pl/sql</Skill>
+        <Skill>sql</Skill>
+        <Skill>quality of service</Skill>
+        <Skill>unix</Skill>
+      </>"
+<>IT Associates</>,<>c8b2k26b87ch8shq5g0</>,<>http://www.careerbuilder.com/jobs/company/c8b2k26b87ch8shq5g0/it-associates?sc_cmp1=13_JobRes_ComDet</>,<>JHL5QQ5VHS75CWQMWFP</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHL5QQ5VHS75CWQMWFP</>,<>https://api.careerbuilder.com/v1/job?DID=JHL5QQ5VHS75CWQMWFP&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>IL - Loop</>,<>41.88415</>,<>-87.63241</>,<>7/22/2014 12:58:50 PM</>,<>7/22/2014 12:58:50 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHL5QQ5VHS75CWQMWFP</>,<>Java Applications Developer</>,<>HasAOReview</>,"<>
+        <Skill>web service</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>ext js</Skill>
+        <Skill>xml</Skill>
+        <Skill>java database connectivity</Skill>
+        <Skill>jquery</Skill>
+        <Skill>change management</Skill>
+        <Skill>apache tomcat</Skill>
+        <Skill>sdlc</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>workflow</Skill>
+        <Skill>hibernate (java)</Skill>
+        <Skill>pl/sql</Skill>
+        <Skill>sql</Skill>
+        <Skill>apache axis2</Skill>
+        <Skill>unix</Skill>
+        <Skill>scrum (development)</Skill>
+      </>"
+<>IDR</>,<>chl88273fp5x956l92b</>,<>http://www.careerbuilder.com/jobs/company/chl88273fp5x956l92b/idr?sc_cmp1=13_JobRes_ComDet</>,<>JHR2FL6F265T8GWFHRN</>,<>15-1099.04</>,<>Web Developers</>,"<>Multiple Openings for Senior Level Java Developers here in the Nashville, TN market! Come ...  Java Developer Job Requirements: Java/J2EE Development...</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHR2FL6F265T8GWFHRN</>,<>https://api.careerbuilder.com/v1/job?DID=JHR2FL6F265T8GWFHRN&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>TN - Nashville</>,<>36.16778</>,<>-86.77836</>,<>7/18/2014 4:36:57 PM</>,<>7/18/2014 4:36:57 PM</>,<>$90k - $110k/year</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHR2FL6F265T8GWFHRN</>,<>Senior Java Developer</>,<>CanBulkApply</>,"<>
+        <Skill>javabean</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>ETL</Skill>
+        <Skill>database</Skill>
+        <Skill>jsf</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>java database connectivity</Skill>
+        <Skill>jquery</Skill>
+        <Skill>junit</Skill>
+        <Skill>enterprise javabean</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>apache struts</Skill>
+        <Skill>hibernate (java)</Skill>
+        <Skill>jsp</Skill>
+        <Skill>integration testing</Skill>
+        <Skill>java servlet</Skill>
+      </>"
+"<>The Computer Merchant, Ltd.</>",</>,</>,<>JHL7HG6JWRPT2S26B9T</>,<>15-1099.04</>,<>Web Developers</>,<>Lead Java Developer The Computer Merchant is seeking a JAVA Developer for a long term contract ...  Lead Java Developer Lead Java Developer Job...</>,</>,<>Full-Time</>,<>Associate Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHL7HG6JWRPT2S26B9T</>,<>https://api.careerbuilder.com/v1/job?DID=JHL7HG6JWRPT2S26B9T&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>AZ - Scottsdale</>,<>33.494</>,<>-111.92069</>,<>7/16/2014 1:02:31 AM</>,<>7/16/2014 1:02:31 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHL7HG6JWRPT2S26B9T</>,<>Java Developer</>,<>CanBulkApply</>,"<>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>java ee application</Skill>
+        <Skill>jsp</Skill>
+        <Skill>java servlet</Skill>
+      </>"
+<>Collabera Inc.</>,<>c8a5z874t503m6w7ghf</>,<>http://www.careerbuilder.com/jobs/company/c8a5z874t503m6w7ghf/collabera-inc?sc_cmp1=13_JobRes_ComDet</>,<>JHQ8C66MF3C1VB5CN1D</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>","<>, maintain, and repair the JVM (Java Virtual Machine). Modify existing software to correct errors, to adapt ...   software, such as SQL, Java, J2EE,...</>",</>,<>Full-Time</>,<>Master's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHQ8C66MF3C1VB5CN1D</>,<>https://api.careerbuilder.com/v1/job?DID=JHQ8C66MF3C1VB5CN1D&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>WA - Everett</>,<>47.9451</>,<>-122.2269</>,<>7/7/2014 12:51:40 PM</>,<>7/7/2014 12:51:40 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHQ8C66MF3C1VB5CN1D</>,<>Java Developer</>,<>CanBulkApply</>,"<>
+        <Skill>java virtual machine</Skill>
+        <Skill>database</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>systems design</Skill>
+        <Skill>software development</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>systems analysis</Skill>
+        <Skill>sql</Skill>
+        <Skill>system testing</Skill>
+      </>"
+<>ECM Universe</>,</>,</>,<>JHN3046WFHVZMSX8SJN</>,<>15-1099.04</>,<>Web Developers</>,"<>. plus a masters degree). The position is primarily for a Java Web Developer, and will also include ...   Java Web Developer, and will also include...</>",</>,<>Full-Time</>,<>High School Diploma</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHN3046WFHVZMSX8SJN</>,<>https://api.careerbuilder.com/v1/job?DID=JHN3046WFHVZMSX8SJN&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>MD - Rockville</>,<>39.0519</>,<>-77.1242</>,<>7/16/2014 4:10:09 PM</>,<>7/16/2014 4:10:09 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHN3046WFHVZMSX8SJN</>,<>Java Web Developer Rockville MD</>,<>HasAOReview</>,"<>
+        <Skill>microsoft exchange server</Skill>
+        <Skill>representational state transfer</Skill>
+        <Skill>web service</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>SAP</Skill>
+        <Skill>java database connectivity</Skill>
+        <Skill>javascript</Skill>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>ibm software</Skill>
+        <Skill>software development</Skill>
+        <Skill>vb</Skill>
+        <Skill>microsoft office</Skill>
+        <Skill>hypertext transfer protocol</Skill>
+        <Skill>requirements analysis</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>javaserver faces</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>ibm websphere application server</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>sql</Skill>
+        <Skill>enterprise content management</Skill>
+        <Skill>computer security</Skill>
+        <Skill>ajax</Skill>
+        <Skill>sap bw</Skill>
+      </>"

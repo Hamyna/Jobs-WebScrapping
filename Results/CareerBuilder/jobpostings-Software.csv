@@ -1,0 +1,334 @@
+Company,CompanyDID,CompanyDetailsURL,DID,OnetCode,ONetFriendlyTitle,DescriptionTeaser,Distance,EmploymentType,EducationRequired,ExperienceRequired,JobDetailsURL,JobServiceURL,Location,LocationLatitude,LocationLongitude,PostedTime,Pay,SimilarJobsURL,JobTitle,ApplyRequirement,Skills
+"<>Omnitech, Inc.</>",</>,</>,<>JHQ7Y56M6F7W68YQXVM</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>","<>Software Engineer DEPARTMENT: Engineering REPORTS TO: Director Are you passionate about ...  Bachelor's Degree in Computer Science, or related field,...</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHQ7Y56M6F7W68YQXVM</>,<>https://api.careerbuilder.com/v1/job?DID=JHQ7Y56M6F7W68YQXVM&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>SD - Sioux Falls</>,<>43.54535</>,<>-96.73128</>,<>7/7/2014 1:05:49 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHQ7Y56M6F7W68YQXVM</>,<>Software Engineer</>,<>CanBulkApply</>,"<>
+        <Skill>mysql</Skill>
+        <Skill>web development</Skill>
+        <Skill>html5</Skill>
+        <Skill>quality assurance</Skill>
+        <Skill>microsoft access</Skill>
+        <Skill>html</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>database</Skill>
+        <Skill>agile software development</Skill>
+        <Skill>ado.net</Skill>
+        <Skill>javascript</Skill>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>jquery</Skill>
+        <Skill>data warehouse</Skill>
+        <Skill>software development</Skill>
+        <Skill>microsoft silverlight</Skill>
+        <Skill>vb</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>crystal reports</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>perl</Skill>
+        <Skill>coldfusion</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>mvc</Skill>
+        <Skill>Joomla</Skill>
+        <Skill>postgresql</Skill>
+        <Skill>sql</Skill>
+        <Skill>wordpress</Skill>
+        <Skill>language integrated query</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>jsp</Skill>
+        <Skill>windows presentation foundation</Skill>
+        <Skill>ajax</Skill>
+        <Skill>sql server reporting services</Skill>
+        <Skill>c++</Skill>
+        <Skill>php</Skill>
+        <Skill>database design</Skill>
+      </>"
+<>ARCOM</>,</>,</>,<>JHQ6MX76TPJ35Y4F282</>,<>15-1099.11</>,<>Information Technology Project Managers</>,</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHQ6MX76TPJ35Y4F282</>,<>https://api.careerbuilder.com/v1/job?DID=JHQ6MX76TPJ35Y4F282&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>UT - Salt Lake City</>,<>40.7595</>,<>-111.88823</>,<>7/21/2014 12:10:55 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHQ6MX76TPJ35Y4F282</>,<>Project Manager - Software</>,<>HasAOReview</>,"<>
+        <Skill>software development</Skill>
+        <Skill>software testing</Skill>
+      </>"
+<>PMMC</>,</>,</>,<>J8D5XY75LXSLPJXSRKB</>,<>15-1099.01</>,<>Software Quality Assurance Engineers and Testers</>,"<>Preferred Medical Marketing Corporation (PMMC), a software development and consulting firm ...  , Computer Engineering or related field. 2 to 5 years...</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J8D5XY75LXSLPJXSRKB</>,<>https://api.careerbuilder.com/v1/job?DID=J8D5XY75LXSLPJXSRKB&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>NC - Charlotte</>,<>35.1925</>,<>-80.6816</>,<>7/18/2014 10:43:56 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J8D5XY75LXSLPJXSRKB</>,<>QA Analyst - Software</>,<>CanBulkApply</>,"<>
+        <Skill>qa</Skill>
+        <Skill>quality assurance</Skill>
+        <Skill>.net framework</Skill>
+        <Skill>database</Skill>
+        <Skill>software development</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>microsoft office</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>software testing</Skill>
+        <Skill>sql</Skill>
+      </>"
+"<>Solution Systems, Inc.</>",</>,</>,<>JHP5RJ64DYQJB5GRKY1</>,<>15-1051.00</>,<>Computer Systems Analysts</>,</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHP5RJ64DYQJB5GRKY1</>,<>https://api.careerbuilder.com/v1/job?DID=JHP5RJ64DYQJB5GRKY1&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>IL - Rolling Meadows</>,<>42.0806</>,<>-88.02642</>,<>6/30/2014 3:38:47 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHP5RJ64DYQJB5GRKY1</>,<>ERP Software Implementation Consultant</>,<>CanBulkApply</>,"<>
+        <Skill>microsoft excel</Skill>
+        <Skill>database</Skill>
+        <Skill>software development</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>workflow</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>sql</Skill>
+        <Skill>microsoft dynamics nav</Skill>
+        <Skill>Customer relationship management</Skill>
+      </>"
+"<>Kritek, LLC</>",</>,</>,<>JHV85Y71Q16CYRFZ539</>,<>15-1099.01</>,<>Software Quality Assurance Engineers and Testers</>,"<>Kritek, LLC , a leader in the transportation software industry, is looking for a Senior ...  1) Must have 5+ years of past experience working as...</>",</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHV85Y71Q16CYRFZ539</>,<>https://api.careerbuilder.com/v1/job?DID=JHV85Y71Q16CYRFZ539&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>CO - Littleton</>,<>39.5497</>,<>-104.9672</>,<>7/23/2014 11:39:45 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHV85Y71Q16CYRFZ539</>,<>Senior Software Tester</>,<>CanBulkApply</>,"<>
+        <Skill>microsoft excel</Skill>
+        <Skill>qa</Skill>
+        <Skill>adobe flex</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>database</Skill>
+        <Skill>agile software development</Skill>
+        <Skill>xml</Skill>
+        <Skill>mobile application development</Skill>
+        <Skill>software development</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>regression testing</Skill>
+        <Skill>User Interface</Skill>
+        <Skill>requirements analysis</Skill>
+        <Skill>software testing</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>pl/sql</Skill>
+        <Skill>sql</Skill>
+        <Skill>usability testing</Skill>
+        <Skill>unix</Skill>
+        <Skill>jira</Skill>
+      </>"
+<>OmniSolve</>,</>,</>,<>JHR24C6M8DYQBKMTG06</>,<>15-1099.01</>,<>Software Quality Assurance Engineers and Testers</>,<>QA Software Test Engineer SUMMARY We are seeking a diverse and multi-talented individual to be ...  MUST HAVE QUALIFICATIONS: 3 - 5 years of software...</>,</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHR24C6M8DYQBKMTG06</>,<>https://api.careerbuilder.com/v1/job?DID=JHR24C6M8DYQBKMTG06&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>DC - Washington</>,<>38.89037</>,<>-77.03196</>,<>7/15/2014 10:02:37 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHR24C6M8DYQBKMTG06</>,<>QA Software Test Engineer</>,<>CanBulkApply</>,"<>
+        <Skill>microsoft excel</Skill>
+        <Skill>qa</Skill>
+        <Skill>quality assurance</Skill>
+        <Skill>web service</Skill>
+        <Skill>software development</Skill>
+        <Skill>hypertext transfer protocol</Skill>
+        <Skill>six sigma</Skill>
+        <Skill>software testing</Skill>
+        <Skill>acceptance testing</Skill>
+        <Skill>computer security</Skill>
+        <Skill>system testing</Skill>
+      </>"
+</>,</>,</>,<>JHM4D56JXQ5JF29SBLQ</>,<>11-3061.00</>,<>Purchasing Managers</>,"<>UPDATE: 7/14/14 - We are looking for a seasoned Software Procurement Category Manager ! This ...   Procurement or in Software Engineering, preferably...</>",</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHM4D56JXQ5JF29SBLQ</>,<>https://api.careerbuilder.com/v1/job?DID=JHM4D56JXQ5JF29SBLQ&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>IL - Schaumburg</>,<>41.9859</>,<>-88.0808</>,<>7/14/2014 1:57:42 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHM4D56JXQ5JF29SBLQ</>,<>Software Procurement Category Manager</>,<>CanBulkApply</>,"<>
+        <Skill>Request for proposal</Skill>
+        <Skill>Customer relationship management</Skill>
+        <Skill>Information technology consulting</Skill>
+        <Skill>Supplier relationship management</Skill>
+        <Skill>Strategic sourcing</Skill>
+        <Skill>Purchasing</Skill>
+        <Skill>Category management</Skill>
+        <Skill>Procurement</Skill>
+        <Skill>Consulting</Skill>
+      </>"
+"<>Baron Services, Inc</>",</>,</>,<>JHT89N621XZ8HXZSPTP</>,<>15-1099.01</>,<>Software Quality Assurance Engineers and Testers</>,"<>Software Test Lead Department: Software Development Job Code: STL-swd BaronServices Inc., an ...  Minimum Qualifications: Background in software...</>",</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHT89N621XZ8HXZSPTP</>,<>https://api.careerbuilder.com/v1/job?DID=JHT89N621XZ8HXZSPTP&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>AL - Huntsville</>,<>34.7068</>,<>-86.618</>,<>7/11/2014 3:28:00 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHT89N621XZ8HXZSPTP</>,<>Software Test Lead</>,<>CanBulkApply</>,"<>
+        <Skill>quality assurance</Skill>
+        <Skill>software development</Skill>
+        <Skill>software testing</Skill>
+        <Skill>acceptance testing</Skill>
+      </>"
+<>Bomgar Corporation</>,</>,</>,<>JB72R169VGQC7DNHPZ6</>,<>15-1099.01</>,<>Software Quality Assurance Engineers and Testers</>,<>The Software Quality Assurance Engineer is responsible for planning and implementing the ...  Software Quality Assurance Engineer - Requirements...</>,</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JB72R169VGQC7DNHPZ6</>,<>https://api.careerbuilder.com/v1/job?DID=JB72R169VGQC7DNHPZ6&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>MS - Ridgeland</>,<>32.41622</>,<>-90.16413</>,<>7/7/2014 4:56:49 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JB72R169VGQC7DNHPZ6</>,<>SOFTWARE QUALITY ASSURANCE ENGINEER</>,<>IsExternal</>,"<>
+        <Skill>qa</Skill>
+        <Skill>quality assurance</Skill>
+        <Skill>database</Skill>
+        <Skill>regression testing</Skill>
+        <Skill>hypertext transfer protocol</Skill>
+        <Skill>Linux</Skill>
+        <Skill>software testing</Skill>
+        <Skill>vmware</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>ping (video gaming)</Skill>
+        <Skill>c++</Skill>
+        <Skill>php</Skill>
+        <Skill>unix</Skill>
+      </>"
+<>CHRISTIAN CARE MINISTRY</>,</>,</>,<>JHL0VD73R5GYL77JPC1</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>","<>SOFTWARE DEVELOPER Summary : The Software Developer designs, develops, and maintains software ... </>",</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHL0VD73R5GYL77JPC1</>,<>https://api.careerbuilder.com/v1/job?DID=JHL0VD73R5GYL77JPC1&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>FL - Melbourne</>,<>28.0786</>,<>-80.6027</>,<>7/21/2014 9:56:16 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHL0VD73R5GYL77JPC1</>,<>SOFTWARE DEVELOPER</>,<>IsExternal</>,"<>
+        <Skill>vbscript</Skill>
+        <Skill>web service</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>database</Skill>
+        <Skill>mobile application development</Skill>
+        <Skill>javascript</Skill>
+        <Skill>software development</Skill>
+        <Skill>stored procedure</Skill>
+        <Skill>finger protocol</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>windows server 2008</Skill>
+        <Skill>sql</Skill>
+        <Skill>microsoft visual studio</Skill>
+        <Skill>salesforce.com</Skill>
+        <Skill>system testing</Skill>
+      </>"
+"<>WinSystems, Inc.</>",</>,</>,<>JHR27R6KLRQ2PG9VJ0M</>,<>15-1032.00</>,"<>Computer Software Engineers, Systems Software</>",<>WinSystems is seeking a candidate for the position of Software Development Engineer at our ...  The successful candidate for Software Development...</>,</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHR27R6KLRQ2PG9VJ0M</>,<>https://api.careerbuilder.com/v1/job?DID=JHR27R6KLRQ2PG9VJ0M&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>TX - Arlington</>,<>32.74642</>,<>-97.08115</>,<>7/23/2014 10:08:09 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHR27R6KLRQ2PG9VJ0M</>,<>Software Development Engineer</>,<>RequireUserInfo</>,"<>
+        <Skill>windows ce</Skill>
+        <Skill>ibm software</Skill>
+        <Skill>software development</Skill>
+        <Skill>windows 7</Skill>
+        <Skill>Linux</Skill>
+        <Skill>assembly language</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>c (programming language)</Skill>
+      </>"
+<>Emerald Resource Group</>,<>chq4hb63lrlc57h3wy9</>,<>http://www.careerbuilder.com/jobs/company/chq4hb63lrlc57h3wy9/emerald-resource-group?sc_cmp1=13_JobRes_ComDet</>,<>JHT1826F6SSNCJGKY0S</>,<>41-4011.00</>,<>Sales Reps (Technical and Scientific Products)</>,"<> candidates. Salary: 70,000 Plus Commission The Software Sales Representative is the primary technical ...  Required Qualifications for the Software...</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHT1826F6SSNCJGKY0S</>,<>https://api.careerbuilder.com/v1/job?DID=JHT1826F6SSNCJGKY0S&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>OH - Valley View</>,<>41.37944</>,<>-81.60897</>,<>7/17/2014 1:15:45 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHT1826F6SSNCJGKY0S</>,<>Software Sales</>,<>HasScreener</>,"<>
+        <Skill>Telecommuting</Skill>
+        <Skill>Request for Proposal</Skill>
+        <Skill>Pricing strategies</Skill>
+        <Skill>Sales process</Skill>
+        <Skill>New product development</Skill>
+      </>"
+<>Revenue Analytics</>,</>,</>,<>JHS0L16HC84WTR4NS0R</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",<>Revenue Analytics has an immediate need to hire a Senior Software Engineer for our Data ...   5+ years of experience in software engineering in a...</>,</>,<>Full-Time</>,<>Master's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHS0L16HC84WTR4NS0R</>,<>https://api.careerbuilder.com/v1/job?DID=JHS0L16HC84WTR4NS0R&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>GA - Atlanta</>,<>33.87734</>,<>-84.46567</>,<>7/24/2014 9:34:55 AM</>,<>$105k - $120k/year</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHS0L16HC84WTR4NS0R</>,<>Senior Software Engineer</>,<>HasScreener</>,"<>
+        <Skill>mysql</Skill>
+        <Skill>quality assurance</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>database</Skill>
+        <Skill>R</Skill>
+        <Skill>software development</Skill>
+        <Skill>stored procedure</Skill>
+        <Skill>Linux</Skill>
+        <Skill>software testing</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>sql</Skill>
+        <Skill>c++</Skill>
+        <Skill>SAS</Skill>
+        <Skill>unix</Skill>
+        <Skill>data mining</Skill>
+      </>"
+<>Bomgar Corporation</>,</>,</>,<>J8A63G6V337LYLB4RB9</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>","<>Immediate Openings for Software Developers with experience in Windows, Linux, and Mac OS. To ...   Science, Computer Engineering, or related field 3...</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J8A63G6V337LYLB4RB9</>,<>https://api.careerbuilder.com/v1/job?DID=J8A63G6V337LYLB4RB9&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,"<>Jackson, MS Area</>",<>32.41622</>,<>-90.16413</>,<>7/7/2014 4:16:42 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J8A63G6V337LYLB4RB9</>,<>SOFTWARE DEVELOPMENT ENGINEER / PROGRAMMER</>,<>HasAOReview</>,"<>
+        <Skill>qa</Skill>
+        <Skill>software development</Skill>
+        <Skill>Linux</Skill>
+        <Skill>mac os</Skill>
+        <Skill>sdlc</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>ping (video gaming)</Skill>
+        <Skill>c++</Skill>
+        <Skill>php</Skill>
+        <Skill>unix</Skill>
+      </>"
+"<>OpenEye Scientific Software, Inc.</>",</>,</>,<>JHL7WB7514F65Q76XFY</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",<>Software Developer About Us: OpenEye Scientific Software provides software to the ...  Software Developer Requires experience as follows: Software...</>,</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHL7WB7514F65Q76XFY</>,<>https://api.careerbuilder.com/v1/job?DID=JHL7WB7514F65Q76XFY&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>NM - Santa Fe</>,<>35.5467</>,<>-105.9167</>,<>7/24/2014 1:33:45 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHL7WB7514F65Q76XFY</>,<>Software Developer</>,<>IsExternal</>,"<>
+        <Skill>c-sharp</Skill>
+        <Skill>software development</Skill>
+        <Skill>3d modeling</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>c++</Skill>
+      </>"
+<>Orchard Software</>,</>,</>,<>JHS5WW63JMZ5S903C0H</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>","<>Company Overview: Orchard Software, headquartered in Carmel, Indiana, was established in 1993 ...   retirement plan, and a medical/dependent care...</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHS5WW63JMZ5S903C0H</>,<>https://api.careerbuilder.com/v1/job?DID=JHS5WW63JMZ5S903C0H&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>IN - Indianapolis</>,<>39.76691</>,<>-86.14996</>,<>6/30/2014 12:14:30 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHS5WW63JMZ5S903C0H</>,<>Software Engineer - R&amp;D</>,<>HasAOReview</>,"<>
+        <Skill>database</Skill>
+        <Skill>software development</Skill>
+        <Skill>java (programming language)</Skill>
+      </>"
+<>Agile Premier</>,<>chq7xy733mkdv4zts38</>,<>http://www.careerbuilder.com/jobs/company/chq7xy733mkdv4zts38/agile-premier?sc_cmp1=13_JobRes_ComDet</>,<>JHQ1YW6YVDJ7K02YYQY</>,<>15-1099.01</>,<>Software Quality Assurance Engineers and Testers</>,<>Quality Assurance Engineer/QA Analyst responsible for overseeing all software testing ...   running regression tests in a software development...</>,</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHQ1YW6YVDJ7K02YYQY</>,<>https://api.careerbuilder.com/v1/job?DID=JHQ1YW6YVDJ7K02YYQY&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>TX - Dallas</>,<>32.77815</>,<>-96.7954</>,<>7/23/2014 1:11:09 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHQ1YW6YVDJ7K02YYQY</>,<>Senior Quality Assurance Analyst-Software QA</>,<>IsExternal</>,"<>
+        <Skill>qa</Skill>
+        <Skill>quality assurance</Skill>
+        <Skill>software development</Skill>
+        <Skill>hp quality center</Skill>
+        <Skill>regression testing</Skill>
+        <Skill>software testing</Skill>
+        <Skill>acceptance testing</Skill>
+        <Skill>hp quicktest professional</Skill>
+        <Skill>system testing</Skill>
+      </>"
+<>Gatehouse Media</>,</>,</>,<>JHP4XK78BK8Y5N38VLJ</>,<>15-1099.04</>,<>Web Developers</>,<>Senior Software Developer Bestride.com is leading the way in creating software for the auto ...   good organization and a comfort with multi-tasking...</>,</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHP4XK78BK8Y5N38VLJ</>,<>https://api.careerbuilder.com/v1/job?DID=JHP4XK78BK8Y5N38VLJ&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>MA - Needham</>,<>42.2971</>,<>-71.227</>,<>7/22/2014 2:03:14 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHP4XK78BK8Y5N38VLJ</>,<>Software Developer</>,<>HasScreener</>,"<>
+        <Skill>apache http server</Skill>
+        <Skill>mysql</Skill>
+        <Skill>representational state transfer</Skill>
+        <Skill>web service</Skill>
+        <Skill>html</Skill>
+        <Skill>soap</Skill>
+        <Skill>apache hadoop</Skill>
+        <Skill>database</Skill>
+        <Skill>xml</Skill>
+        <Skill>ubuntu</Skill>
+        <Skill>ssh</Skill>
+        <Skill>javascript</Skill>
+        <Skill>jquery</Skill>
+        <Skill>file transfer protocol</Skill>
+        <Skill>Linux</Skill>
+        <Skill>ssl</Skill>
+        <Skill>mvc</Skill>
+        <Skill>wordpress</Skill>
+        <Skill>load balancing</Skill>
+        <Skill>computer security</Skill>
+        <Skill>github</Skill>
+        <Skill>ajax</Skill>
+        <Skill>json</Skill>
+        <Skill>php</Skill>
+      </>"
+</>,</>,</>,<>JHL11C6CFQ4RQHV3P50</>,<>15-1099.01</>,<>Software Quality Assurance Engineers and Testers</>,<>The Software Quality Assurance Technician will be responsible for all aspects of the software ...   procedures for the full software development life...</>,</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHL11C6CFQ4RQHV3P50</>,<>https://api.careerbuilder.com/v1/job?DID=JHL11C6CFQ4RQHV3P50&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>FL - Boca Raton</>,<>26.35049</>,<>-80.089</>,<>7/18/2014 10:21:22 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHL11C6CFQ4RQHV3P50</>,<>Software Quality Assurance Analyst - QA</>,<>CanBulkApply</>,"<>
+        <Skill>qa</Skill>
+        <Skill>quality assurance</Skill>
+        <Skill>software development</Skill>
+        <Skill>iso 9000</Skill>
+        <Skill>requirements analysis</Skill>
+        <Skill>acceptance testing</Skill>
+      </>"
+<>Kane Partners LLC</>,<>chv19d6zfl0zg69qmd9</>,<>http://www.careerbuilder.com/jobs/company/chv19d6zfl0zg69qmd9/kane-partners-llc?sc_cmp1=13_JobRes_ComDet</>,<>JHL2G573R876TD65K87</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHL2G573R876TD65K87</>,<>https://api.careerbuilder.com/v1/job?DID=JHL2G573R876TD65K87&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>PA - Fort Washington</>,<>40.14574</>,<>-75.20817</>,<>7/11/2014 3:47:46 PM</>,<>$90k - $120k/year</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHL2G573R876TD65K87</>,<>Senior Software Engineer</>,<>CanBulkApply</>,"<>
+        <Skill>amazon web services</Skill>
+        <Skill>mysql</Skill>
+        <Skill>html</Skill>
+        <Skill>apache hadoop</Skill>
+        <Skill>database</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>javascript</Skill>
+        <Skill>software development</Skill>
+        <Skill>apache ant</Skill>
+        <Skill>mongodb</Skill>
+        <Skill>scala (programming language)</Skill>
+        <Skill>nosql</Skill>
+        <Skill>apache subversion</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>hibernate (java)</Skill>
+        <Skill>sql</Skill>
+        <Skill>ruby on rails</Skill>
+        <Skill>electronic commerce</Skill>
+        <Skill>apache maven</Skill>
+        <Skill>php</Skill>
+      </>"
+"<>Orbis Technologies, Inc.</>",</>,</>,<>JHS2KM7313SHQW1RFNJ</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHS2KM7313SHQW1RFNJ</>,<>https://api.careerbuilder.com/v1/job?DID=JHS2KM7313SHQW1RFNJ&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>MD - Annapolis</>,<>38.9915</>,<>-76.5325</>,<>7/8/2014 2:46:57 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHS2KM7313SHQW1RFNJ</>,<>Project Lead - Sr. Cloud Software Engineer/Developer</>,<>CanBulkApply</>,"<>
+        <Skill>web service</Skill>
+        <Skill>apache hadoop</Skill>
+        <Skill>software development</Skill>
+        <Skill>cloud computing</Skill>
+        <Skill>semantic web</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>computer security</Skill>
+        <Skill>configuration management</Skill>
+        <Skill>scrum (development)</Skill>
+      </>"
+<>Lorton Data</>,</>,</>,<>JHP1W76VK5VGTK9T9DS</>,<>15-1041.00</>,<>Computer Support Specialists</>,</>,<>Full-Time</>,<>High School Diploma</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHP1W76VK5VGTK9T9DS</>,<>https://api.careerbuilder.com/v1/job?DID=JHP1W76VK5VGTK9T9DS&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>MN - Arden Hills</>,<>45.0755</>,<>-93.1911</>,<>6/27/2014 10:50:33 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHP1W76VK5VGTK9T9DS</>,<>Software Support Analyst</>,<>IsExternal</>,"<>
+        <Skill>microsoft excel</Skill>
+        <Skill>database</Skill>
+        <Skill>software development</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>data management</Skill>
+      </>"
+<>HireNetworks</>,<>c8b61z67mwrqs4r88nj</>,<>http://www.careerbuilder.com/jobs/company/c8b61z67mwrqs4r88nj/hirenetworks?sc_cmp1=13_JobRes_ComDet</>,<>JB71TB5X904DW0CCG1T</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JB71TB5X904DW0CCG1T</>,<>https://api.careerbuilder.com/v1/job?DID=JB71TB5X904DW0CCG1T&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>IN - Indianapolis</>,<>39.76691</>,<>-86.14996</>,<>6/26/2014 10:00:09 AM</>,<>$90k - $115k/year</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JB71TB5X904DW0CCG1T</>,<>Lead Software Engineer - Java/Mobile</>,<>CanBulkApply</>,"<>
+        <Skill>amazon web services</Skill>
+        <Skill>qa</Skill>
+        <Skill>representational state transfer</Skill>
+        <Skill>web service</Skill>
+        <Skill>mobile application development</Skill>
+        <Skill>javascript</Skill>
+        <Skill>message passing</Skill>
+        <Skill>software development</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>nosql</Skill>
+        <Skill>Linux</Skill>
+        <Skill>apache tomcat</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>acceptance testing</Skill>
+        <Skill>redis</Skill>
+        <Skill>apache maven</Skill>
+        <Skill>red hat</Skill>
+        <Skill>unit testing</Skill>
+      </>"
+<>IBM - Watson</>,</>,</>,<>JB77J277YRLRJH4NMDV</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>","<>, cloud and Software-as-a-Service is a plus. This is an opportunity to work with some of the sharpest ...   must At least 2-5 years of experience in...</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JB77J277YRLRJH4NMDV</>,<>https://api.careerbuilder.com/v1/job?DID=JB77J277YRLRJH4NMDV&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>TX - Austin</>,<>30.2676</>,<>-97.74298</>,<>6/26/2014 1:03:49 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JB77J277YRLRJH4NMDV</>,<>Software Developer - Application Integration</>,<>HasScreener</>,"<>
+        <Skill>representational state transfer</Skill>
+        <Skill>javascript</Skill>
+        <Skill>software development</Skill>
+        <Skill>web 2.0</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>ruby on rails</Skill>
+        <Skill>application programming interface</Skill>
+        <Skill>ajax</Skill>
+        <Skill>json</Skill>
+      </>"

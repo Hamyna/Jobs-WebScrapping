@@ -1,0 +1,359 @@
+Company,CompanyDID,CompanyDetailsURL,DID,OnetCode,ONetFriendlyTitle,DescriptionTeaser,Distance,EmploymentType,EducationRequired,ExperienceRequired,JobDetailsURL,JobServiceURL,Location,LocationLatitude,LocationLongitude,PostedTime,PostedTime,Pay,SimilarJobsURL,JobTitle,ApplyRequirement,Skills
+<>Continental AG - US</>,<>chv79c6161n1l1gvtch</>,<>http://www.careerbuilder.com/jobs/company/chv79c6161n1l1gvtch/continental-ag-us?sc_cmp1=13_JobRes_ComDet</>,<>J3F42767LJMGPYCFC4K</>,<>15-1032.00</>,"<>Computer Software Engineers, Systems Software</>","<>, software/test team, and customers as needed Basic Qualifications: - Bachelors of Science degree in ... </>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3F42767LJMGPYCFC4K</>,<>https://api.careerbuilder.com/v1/job?DID=J3F42767LJMGPYCFC4K&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>MI - Auburn Hills</>,<>42.67112</>,<>-83.22053</>,<>7/15/2014 10:26:04 AM</>,<>7/15/2014 10:26:04 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3F42767LJMGPYCFC4K</>,<>Software Engineer for Advanced Drivers Assistance Systems</>,<>IsExternal</>,"<>
+        <Skill>Unified Modeling Language</Skill>
+        <Skill>software testing</Skill>
+        <Skill>acceptance testing</Skill>
+        <Skill>c (programming language)</Skill>
+      </>"
+<>Acro Service Corporation</>,<>chn0td6qtkbjnsrmvmw</>,<>http://www.careerbuilder.com/jobs/company/chn0td6qtkbjnsrmvmw/acro-service-corporation?sc_cmp1=13_JobRes_ComDet</>,<>J3J41P6RK6DNV9FXBJD</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",</>,<>Contractor</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3J41P6RK6DNV9FXBJD</>,<>https://api.careerbuilder.com/v1/job?DID=J3J41P6RK6DNV9FXBJD&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>MI - Plymouth</>,<>42.37199</>,<>-83.46792</>,<>7/8/2014 3:00:03 PM</>,<>7/8/2014 3:00:03 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3J41P6RK6DNV9FXBJD</>,<>Software Project Lead Engineer</>,<>CanBulkApply</>,"<>
+        <Skill>software development</Skill>
+        <Skill>change management</Skill>
+        <Skill>software design</Skill>
+        <Skill>system integration</Skill>
+        <Skill>configuration management</Skill>
+      </>"
+<>The Ultimate Software Group</>,<>chr38r75psj2dmngvtx</>,<>http://www.careerbuilder.com/jobs/company/chr38r75psj2dmngvtx/the-ultimate-software-group?sc_cmp1=13_JobRes_ComDet</>,<>JHN0JW6P7879P2N7J18</>,<>15-1099.01</>,<>Software Quality Assurance Engineers and Testers</>,"<>-winning development and testing team in Ft Lauderdale, FL. As a Software Quality Assurance Test Engineer you will be ...  Minimum 3 years of...</>",</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHN0JW6P7879P2N7J18</>,<>https://api.careerbuilder.com/v1/job?DID=JHN0JW6P7879P2N7J18&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>FL - Fort Lauderdal</>,<>26.12367</>,<>-80.14356</>,<>7/8/2014 10:50:06 AM</>,<>7/8/2014 10:50:06 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHN0JW6P7879P2N7J18</>,<>SOFTWARE QUALITY ASSURANCE TEST ENGINEER</>,<>IsExternal</>,"<>
+        <Skill>qa</Skill>
+        <Skill>quality assurance</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>white-box testing</Skill>
+        <Skill>agile software development</Skill>
+        <Skill>software development</Skill>
+        <Skill>User Interface design</Skill>
+        <Skill>vb</Skill>
+        <Skill>software testing</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>software design</Skill>
+        <Skill>acceptance testing</Skill>
+        <Skill>hp quicktest professional</Skill>
+        <Skill>sql</Skill>
+        <Skill>ruby on rails</Skill>
+        <Skill>hp loadrunner</Skill>
+        <Skill>c++</Skill>
+        <Skill>scrum (development)</Skill>
+      </>"
+<>Modis</>,<>c319w5zn4jg16cqrll</>,<>http://www.careerbuilder.com/jobs/company/c319w5zn4jg16cqrll/modis?sc_cmp1=13_JobRes_ComDet</>,<>J3G3Z66HHK1W2W3X037</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",<>) and data being tested and secured. The Senior Software Security Engineer collaborates with the ... </>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3G3Z66HHK1W2W3X037</>,<>https://api.careerbuilder.com/v1/job?DID=J3G3Z66HHK1W2W3X037&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>VA - Reston</>,<>38.9597</>,<>-77.3374</>,<>7/7/2014 4:28:19 PM</>,<>7/7/2014 4:28:19 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3G3Z66HHK1W2W3X037</>,<>Application Security Engineer w/ Java or .NET background (perm - ATTN SK)</>,<>HasAOReview</>,"<>
+        <Skill>quality assurance</Skill>
+        <Skill>html</Skill>
+        <Skill>svn</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>database</Skill>
+        <Skill>xml</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>penetration test</Skill>
+        <Skill>javascript</Skill>
+        <Skill>software development</Skill>
+        <Skill>document object model</Skill>
+        <Skill>dynamic html</Skill>
+        <Skill>hypertext transfer protocol</Skill>
+        <Skill>sdlc</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>cryptographic protocol</Skill>
+        <Skill>inform</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>internet protocol suite</Skill>
+        <Skill>sql</Skill>
+        <Skill>ruby on rails</Skill>
+        <Skill>application programming interface</Skill>
+        <Skill>computer security</Skill>
+        <Skill>CONS</Skill>
+        <Skill>ajax</Skill>
+        <Skill>php</Skill>
+        <Skill>xhtml</Skill>
+        <Skill>unit testing</Skill>
+        <Skill>cascading style sheets</Skill>
+      </>"
+<>Chenega Corporation</>,<>chr2pf6j6bywxns7mln</>,<>http://www.careerbuilder.com/jobs/company/chr2pf6j6bywxns7mln/chenega-corporation?sc_cmp1=13_JobRes_ComDet</>,<>J3H73B66XTXKYMBTD0C</>,<>15-1051.00</>,<>Computer Systems Analysts</>,"<> software solutions for the NTC. Participates in the testing process through test reviews and analysis, test ... </>",</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H73B66XTXKYMBTD0C</>,<>https://api.careerbuilder.com/v1/job?DID=J3H73B66XTXKYMBTD0C&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>NM - Albuquerque</>,<>35.1995</>,<>-106.6442</>,<>7/8/2014 7:48:33 PM</>,<>7/8/2014 7:48:33 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H73B66XTXKYMBTD0C</>,<>Computer Programmer II</>,<>IsExternal</>,"<>
+        <Skill>html</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>x window system</Skill>
+        <Skill>systems architecture</Skill>
+        <Skill>Unified Modeling Language</Skill>
+        <Skill>database</Skill>
+        <Skill>xml</Skill>
+        <Skill>javascript</Skill>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>software development</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>finger protocol</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>sdlc</Skill>
+        <Skill>software design</Skill>
+        <Skill>team foundation server</Skill>
+        <Skill>microsoft visual sourcesafe</Skill>
+        <Skill>microsoft visual studio</Skill>
+        <Skill>adobe photoshop</Skill>
+        <Skill>computer security</Skill>
+      </>"
+<>ManTech International Corporation</>,<>c5h61876tlp6mry761t</>,<>http://www.careerbuilder.com/jobs/company/c5h61876tlp6mry761t/mantech-international-corporation?sc_cmp1=13_JobRes_ComDet</>,<>J3J5X275Q54484HK4KF</>,<>15-1071.00</>,<>Network and Computer Systems Administrators</>,"<>. Test and evaluate hardware and software to determine efficiency, reliability, and compatibility with ... </>",</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3J5X275Q54484HK4KF</>,<>https://api.careerbuilder.com/v1/job?DID=J3J5X275Q54484HK4KF&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>VA - Herndon</>,<>38.96969</>,<>-77.38547</>,<>7/20/2014 2:30:57 AM</>,<>7/20/2014 2:30:57 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3J5X275Q54484HK4KF</>,<>Systems Engineer</>,<>IsExternal</>,"<>
+        <Skill>software configuration management</Skill>
+        <Skill>cisco systems</Skill>
+        <Skill>local area network</Skill>
+        <Skill>software testing</Skill>
+        <Skill>private network</Skill>
+        <Skill>systems engineering</Skill>
+        <Skill>virtual private network</Skill>
+        <Skill>ping (video gaming)</Skill>
+        <Skill>computer security</Skill>
+        <Skill>configuration management</Skill>
+        <Skill>disaster recovery</Skill>
+        <Skill>system testing</Skill>
+      </>"
+<>Visteon Corporation</>,<>chv85c699qxpc8j8l14</>,<>http://www.careerbuilder.com/jobs/company/chv85c699qxpc8j8l14/visteon-corporation?sc_cmp1=13_JobRes_ComDet</>,<>J3J76865V8DHBZ5D3WZ</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>","<>, implementation, development test, and acceptance of sub-contractor deliveries of the same for specific software ...  YEARS EXPERIENCE : Embedded...</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3J76865V8DHBZ5D3WZ</>,<>https://api.careerbuilder.com/v1/job?DID=J3J76865V8DHBZ5D3WZ&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>MI - Van Buren Township</>,<>42.23371</>,<>-83.49479</>,<>7/13/2014 1:00:59 AM</>,<>7/13/2014 1:00:59 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3J76865V8DHBZ5D3WZ</>,<>DI-Software Project Lead Engineer</>,<>IsExternal</>,"<>
+        <Skill>agile software development</Skill>
+        <Skill>ibm rational clearcase</Skill>
+        <Skill>Firefox</Skill>
+        <Skill>ibm software</Skill>
+        <Skill>software development</Skill>
+        <Skill>change management</Skill>
+        <Skill>software design</Skill>
+        <Skill>ibm rational clearquest</Skill>
+        <Skill>team foundation server</Skill>
+        <Skill>system integration</Skill>
+        <Skill>autosar</Skill>
+        <Skill>configuration management</Skill>
+      </>"
+<>Adams &amp; Garth Staffing and Executive Search</>,<>c8e3nw6x4j58ht5bzzf</>,<>http://www.careerbuilder.com/jobs/company/c8e3nw6x4j58ht5bzzf/adams-garth-staffing-and-executive-search?sc_cmp1=13_JobRes_ComDet</>,<>JB77W169JDX8MW7K50Y</>,<>15-1032.00</>,"<>Computer Software Engineers, Systems Software</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JB77W169JDX8MW7K50Y</>,<>https://api.careerbuilder.com/v1/job?DID=JB77W169JDX8MW7K50Y&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,"<>VA - Relocate to Newport News, VA</>",<>38.80456</>,<>-77.04308</>,<>7/18/2014 5:28:48 PM</>,<>7/18/2014 5:28:48 PM</>,<>$90k - $105k/year</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JB77W169JDX8MW7K50Y</>,<>Senior Software Engineer</>,<>CanBulkApply</>,"<>
+        <Skill>software documentation</Skill>
+        <Skill>ibm rational clearcase</Skill>
+        <Skill>Simulink</Skill>
+        <Skill>software development</Skill>
+        <Skill>Linux</Skill>
+        <Skill>news</Skill>
+        <Skill>software design</Skill>
+        <Skill>intelligent network</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>labview</Skill>
+        <Skill>c++</Skill>
+        <Skill>matlab</Skill>
+      </>"
+<>Adams &amp; Garth Staffing and Executive Search</>,<>c8e3nw6x4j58ht5bzzf</>,<>http://www.careerbuilder.com/jobs/company/c8e3nw6x4j58ht5bzzf/adams-garth-staffing-and-executive-search?sc_cmp1=13_JobRes_ComDet</>,<>JB73HR73LHGWSVKDLLN</>,<>15-1032.00</>,"<>Computer Software Engineers, Systems Software</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JB73HR73LHGWSVKDLLN</>,<>https://api.careerbuilder.com/v1/job?DID=JB73HR73LHGWSVKDLLN&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,"<>VA - Relocate to Newport News, VA</>",<>38.96969</>,<>-77.38547</>,<>7/18/2014 5:28:48 PM</>,<>7/18/2014 5:28:48 PM</>,<>$90k - $105k/year</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JB73HR73LHGWSVKDLLN</>,<>Senior Software Engineer</>,<>CanBulkApply</>,"<>
+        <Skill>software documentation</Skill>
+        <Skill>ibm rational clearcase</Skill>
+        <Skill>Simulink</Skill>
+        <Skill>software development</Skill>
+        <Skill>Linux</Skill>
+        <Skill>news</Skill>
+        <Skill>software design</Skill>
+        <Skill>intelligent network</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>labview</Skill>
+        <Skill>c++</Skill>
+        <Skill>matlab</Skill>
+      </>"
+<>Adams &amp; Garth Staffing and Executive Search</>,<>c8e3nw6x4j58ht5bzzf</>,<>http://www.careerbuilder.com/jobs/company/c8e3nw6x4j58ht5bzzf/adams-garth-staffing-and-executive-search?sc_cmp1=13_JobRes_ComDet</>,<>JHS5VJ6R9QJ5B60JVQX</>,<>15-1032.00</>,"<>Computer Software Engineers, Systems Software</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHS5VJ6R9QJ5B60JVQX</>,<>https://api.careerbuilder.com/v1/job?DID=JHS5VJ6R9QJ5B60JVQX&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>VA - Newport News</>,<>37.08288</>,<>-76.48023</>,<>7/18/2014 5:28:24 PM</>,<>7/18/2014 5:28:24 PM</>,<>$90k - $105k/year</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHS5VJ6R9QJ5B60JVQX</>,<>Senior Software Engineer</>,<>CanBulkApply</>,"<>
+        <Skill>software documentation</Skill>
+        <Skill>ibm rational clearcase</Skill>
+        <Skill>Simulink</Skill>
+        <Skill>software development</Skill>
+        <Skill>Linux</Skill>
+        <Skill>software design</Skill>
+        <Skill>intelligent network</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>labview</Skill>
+        <Skill>c++</Skill>
+        <Skill>matlab</Skill>
+      </>"
+<>ManTech International Corporation</>,<>c5h61876tlp6mry761t</>,<>http://www.careerbuilder.com/jobs/company/c5h61876tlp6mry761t/mantech-international-corporation?sc_cmp1=13_JobRes_ComDet</>,<>J3J30S6HFN10Z699N9F</>,<>15-1071.00</>,<>Network and Computer Systems Administrators</>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3J30S6HFN10Z699N9F</>,<>https://api.careerbuilder.com/v1/job?DID=J3J30S6HFN10Z699N9F&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>VA - Herndon</>,<>38.96969</>,<>-77.38547</>,<>7/15/2014 2:26:10 AM</>,<>7/15/2014 2:26:10 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3J30S6HFN10Z699N9F</>,<>Senior Principal Systems Integrator</>,<>IsExternal</>,"<>
+        <Skill>cisco systems</Skill>
+        <Skill>software testing</Skill>
+        <Skill>private network</Skill>
+        <Skill>virtual private network</Skill>
+        <Skill>ping (video gaming)</Skill>
+        <Skill>computer security</Skill>
+        <Skill>configuration management</Skill>
+        <Skill>disaster recovery</Skill>
+        <Skill>system testing</Skill>
+      </>"
+</>,</>,</>,<>JHV1Q276YQP9BFJHPZ7</>,<>15-1099.01</>,<>Software Quality Assurance Engineers and Testers</>,"<>, Software Quality LOCATION : Riverview,FL DIRECTREPORTS: Yes TheQuality Assurance Test Automation and ...  , Software Quality LOCATION : Riverview,...</>",</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHV1Q276YQP9BFJHPZ7</>,<>https://api.careerbuilder.com/v1/job?DID=JHV1Q276YQP9BFJHPZ7&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>FL - Riverview</>,<>27.8796</>,<>-82.3299</>,<>7/24/2014 11:07:33 AM</>,<>7/24/2014 11:07:33 AM</>,<>$75k - $110k/year</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHV1Q276YQP9BFJHPZ7</>,<>QA Manager - Test Automated/ Repository -  Riverview Fl</>,<>CanBulkApply</>,"<>
+        <Skill>qa</Skill>
+        <Skill>representational state transfer</Skill>
+        <Skill>quality assurance</Skill>
+        <Skill>database</Skill>
+        <Skill>ibm software</Skill>
+        <Skill>data validation</Skill>
+        <Skill>software development</Skill>
+        <Skill>regression testing</Skill>
+        <Skill>sdlc</Skill>
+        <Skill>acceptance testing</Skill>
+      </>"
+<>ManTech International Corporation</>,<>c5h61876tlp6mry761t</>,<>http://www.careerbuilder.com/jobs/company/c5h61876tlp6mry761t/mantech-international-corporation?sc_cmp1=13_JobRes_ComDet</>,<>J3H1NP662KKPQ2RPW5P</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",<> candidate will lead a large team in the review and test of software components for adherence to the design ... </>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H1NP662KKPQ2RPW5P</>,<>https://api.careerbuilder.com/v1/job?DID=J3H1NP662KKPQ2RPW5P&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>MD - Annapolis Junction</>,<>39.1241</>,<>-76.7875</>,<>7/17/2014 2:22:48 AM</>,<>7/17/2014 2:22:48 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H1NP662KKPQ2RPW5P</>,<>Principal Software Engineer (Lead)</>,<>IsExternal</>,"<>
+        <Skill>database</Skill>
+        <Skill>systems design</Skill>
+        <Skill>software development</Skill>
+        <Skill>requirements analysis</Skill>
+        <Skill>software design</Skill>
+        <Skill>systems engineering</Skill>
+        <Skill>computer security</Skill>
+      </>"
+<>Diebold</>,<>c8a7jr77pdlzspklygh</>,<>http://www.careerbuilder.com/jobs/company/c8a7jr77pdlzspklygh/diebold?sc_cmp1=13_JobRes_ComDet</>,<>J3J5T06RP710QYRJ34H</>,<>15-1099.01</>,<>Software Quality Assurance Engineers and Testers</>,<> Software Test Engineer position will help to ensure Software Robustness and Reliability of advanced ...  : Test methodology Software integration...</>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3J5T06RP710QYRJ34H</>,<>https://api.careerbuilder.com/v1/job?DID=J3J5T06RP710QYRJ34H&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>OH - Akron</>,<>41.0433</>,<>-81.5239</>,<>7/10/2014 1:42:25 PM</>,<>7/10/2014 1:42:25 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3J5T06RP710QYRJ34H</>,<>IsExternal</>,"<>
+        <Skill>microsoft excel</Skill>
+        <Skill>quality assurance</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>visual basic</Skill>
+        <Skill>software development</Skill>
+        <Skill>software testing</Skill>
+        <Skill>software design</Skill>
+        <Skill>vmware</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>system integration</Skill>
+        <Skill>computer security</Skill>
+        <Skill>integration testing</Skill>
+      </>"
+<>ManTech International Corporation</>,<>c5h61876tlp6mry761t</>,<>http://www.careerbuilder.com/jobs/company/c5h61876tlp6mry761t/mantech-international-corporation?sc_cmp1=13_JobRes_ComDet</>,<>J3F7ZB5WBTNDYFQ38KG</>,<>15-1099.01</>,<>Software Quality Assurance Engineers and Testers</>,<> execute software test plans in order to identify software problems and their causes and will be ... </>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3F7ZB5WBTNDYFQ38KG</>,<>https://api.careerbuilder.com/v1/job?DID=J3F7ZB5WBTNDYFQ38KG&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>VA - McLean</>,<>38.93652</>,<>-77.18428</>,<>7/13/2014 2:25:02 AM</>,<>7/13/2014 2:25:02 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3F7ZB5WBTNDYFQ38KG</>,<>Staff Test Engineer</>,<>IsExternal</>,"<>
+        <Skill>beta</Skill>
+        <Skill>software documentation</Skill>
+        <Skill>database</Skill>
+        <Skill>software development</Skill>
+        <Skill>regression testing</Skill>
+        <Skill>software testing</Skill>
+        <Skill>computer security</Skill>
+        <Skill>system testing</Skill>
+      </>"
+<>The Ultimate Software Group</>,<>chr38r75psj2dmngvtx</>,<>http://www.careerbuilder.com/jobs/company/chr38r75psj2dmngvtx/the-ultimate-software-group?sc_cmp1=13_JobRes_ComDet</>,<>JHT20Z5Z2WH44DV4NBR</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>",<>Ultimate Software is looking to hire a Senior C# Software Engineer to join our extremely ...   developing your own testing tools to facilitate testing...</>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHT20Z5Z2WH44DV4NBR</>,<>https://api.careerbuilder.com/v1/job?DID=JHT20Z5Z2WH44DV4NBR&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>FL - Fort Lauderdal</>,<>26.12367</>,<>-80.14356</>,<>7/8/2014 11:17:43 AM</>,<>7/8/2014 11:17:43 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHT20Z5Z2WH44DV4NBR</>,<>SENIOR C# SOFTWARE ENGINEER</>,<>IsExternal</>,"<>
+        <Skill>representational state transfer</Skill>
+        <Skill>.net framework</Skill>
+        <Skill>web service</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>multitier architecture</Skill>
+        <Skill>windows communication foundation</Skill>
+        <Skill>software development</Skill>
+        <Skill>transact-sql</Skill>
+        <Skill>service-oriented architecture</Skill>
+        <Skill>acceptance testing</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>sql</Skill>
+        <Skill>microsoft visual studio</Skill>
+        <Skill>unit testing</Skill>
+        <Skill>scrum (development)</Skill>
+      </>"
+<>Acro Service Corporation</>,<>chn0td6qtkbjnsrmvmw</>,<>http://www.careerbuilder.com/jobs/company/chn0td6qtkbjnsrmvmw/acro-service-corporation?sc_cmp1=13_JobRes_ComDet</>,<>J3G7C1697QGNKGLCDX4</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>","<>Software Engineer, Milwaukee, WI Collaborate with software architects to make design decisions ...   tests to verify the design and implementation...</>",</>,<>Contractor</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3G7C1697QGNKGLCDX4</>,<>https://api.careerbuilder.com/v1/job?DID=J3G7C1697QGNKGLCDX4&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>WI - Milwaukee</>,<>43.1633</>,<>-87.992</>,<>7/15/2014 3:39:53 PM</>,<>7/15/2014 3:39:53 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3G7C1697QGNKGLCDX4</>,<>Software Engineer</>,<>CanBulkApply</>,"<>
+        <Skill>Unified Modeling Language</Skill>
+        <Skill>agile software development</Skill>
+        <Skill>software development</Skill>
+        <Skill>software design</Skill>
+        <Skill>internet protocol suite</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>configuration management</Skill>
+        <Skill>c++</Skill>
+      </>"
+<>ManTech International Corporation</>,<>c5h61876tlp6mry761t</>,<>http://www.careerbuilder.com/jobs/company/c5h61876tlp6mry761t/mantech-international-corporation?sc_cmp1=13_JobRes_ComDet</>,<>J3H3346882BB1QTM4CN</>,<>15-1099.01</>,<>Software Quality Assurance Engineers and Testers</>,<> organization. Develops and executes software test plans in order to identify software problems and their causes ... </>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H3346882BB1QTM4CN</>,<>https://api.careerbuilder.com/v1/job?DID=J3H3346882BB1QTM4CN&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>VA - Herndon</>,<>38.96969</>,<>-77.38547</>,<>7/20/2014 2:30:58 AM</>,<>7/20/2014 2:30:58 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H3346882BB1QTM4CN</>,<>Software QA Specialist</>,<>IsExternal</>,"<>
+        <Skill>apache http server</Skill>
+        <Skill>qa</Skill>
+        <Skill>beta</Skill>
+        <Skill>quality assurance</Skill>
+        <Skill>html</Skill>
+        <Skill>software documentation</Skill>
+        <Skill>database</Skill>
+        <Skill>javascript</Skill>
+        <Skill>visual basic</Skill>
+        <Skill>software development</Skill>
+        <Skill>apache ant</Skill>
+        <Skill>junit</Skill>
+        <Skill>profiling (computer programming)</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>regression testing</Skill>
+        <Skill>Linux</Skill>
+        <Skill>intellij idea</Skill>
+        <Skill>apache tomcat</Skill>
+        <Skill>software testing</Skill>
+        <Skill>perl</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>vmware</Skill>
+        <Skill>objective-c</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>computer security</Skill>
+        <Skill>unix</Skill>
+      </>"
+<>Personnel Services Inc</>,<>chr5lx6k7gb4pppy5r2</>,<>http://www.careerbuilder.com/jobs/company/chr5lx6k7gb4pppy5r2/personnel-services-inc?sc_cmp1=13_JobRes_ComDet</>,<>JHR2HP6589C833QGBF8</>,<>15-1032.00</>,"<>Computer Software Engineers, Systems Software</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHR2HP6589C833QGBF8</>,<>https://api.careerbuilder.com/v1/job?DID=JHR2HP6589C833QGBF8&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>VA - Richmond Va Area</>,<>37.5407</>,<>-77.43365</>,<>7/17/2014 1:08:38 AM</>,<>7/17/2014 1:08:38 AM</>,<>$75k - $100k/year</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHR2HP6589C833QGBF8</>,<>Embedded SR Software Engineer (Avionics)</>,<>HasScreener</>,"<>
+        <Skill>software development</Skill>
+        <Skill>iso 9000</Skill>
+        <Skill>Linux</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>c++</Skill>
+      </>"
+<>AVT Simulation</>,</>,</>,<>JHQ4WR6LTR60HQ1XH52</>,<>15-1031.00</>,"<>Computer Software Engineers, Applications</>","<>, implementation, and test ofsoftware applications, including, but not limited to, utility software,development ...   field or in a related field is...</>",</>,<>Full-Time</>,<>Bachelor's Degree</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=JHQ4WR6LTR60HQ1XH52</>,<>https://api.careerbuilder.com/v1/job?DID=JHQ4WR6LTR60HQ1XH52&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>FL - Research Park</>,<>28.53823</>,<>-81.37739</>,<>6/27/2014 7:43:21 PM</>,<>6/27/2014 7:43:21 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=JHQ4WR6LTR60HQ1XH52</>,<>Software Engineer 2-16 Years</>,<>HasAOReview</>,"<>
+        <Skill>apache http server</Skill>
+        <Skill>microsoft excel</Skill>
+        <Skill>systems design</Skill>
+        <Skill>controller area network</Skill>
+        <Skill>software development</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>microsoft office</Skill>
+        <Skill>software testing</Skill>
+        <Skill>software design</Skill>
+        <Skill>microsoft powerpoint</Skill>
+        <Skill>opengl</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>multiservice switch</Skill>
+        <Skill>computer security</Skill>
+        <Skill>configuration management</Skill>
+        <Skill>c++</Skill>
+      </>"
+<>ManTech International Corporation</>,<>c5h61876tlp6mry761t</>,<>http://www.careerbuilder.com/jobs/company/c5h61876tlp6mry761t/mantech-international-corporation?sc_cmp1=13_JobRes_ComDet</>,<>J3G3F1769SJKYXHTBCG</>,<>15-1099.01</>,<>Software Quality Assurance Engineers and Testers</>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3G3F1769SJKYXHTBCG</>,<>https://api.careerbuilder.com/v1/job?DID=J3G3F1769SJKYXHTBCG&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>VA - Reston</>,<>38.95937</>,<>-77.35457</>,<>7/4/2014 2:25:30 AM</>,<>7/4/2014 2:25:30 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3G3F1769SJKYXHTBCG</>,<>Senior Software Tester</>,<>RequireUserInfo</>,"<>
+        <Skill>web service</Skill>
+        <Skill>svn</Skill>
+        <Skill>database</Skill>
+        <Skill>software development</Skill>
+        <Skill>software testing</Skill>
+        <Skill>software design</Skill>
+        <Skill>acceptance testing</Skill>
+        <Skill>starteam</Skill>
+        <Skill>computer security</Skill>
+        <Skill>configuration management</Skill>
+        <Skill>integration testing</Skill>
+      </>"
+<>Dart Container</>,<>c2374706vsrd8lxl13</>,<>http://www.careerbuilder.com/jobs/company/c2374706vsrd8lxl13/dart-container?sc_cmp1=13_JobRes_ComDet</>,<>J3J7JR65Q19BG9X5Z80</>,<>15-1099.01</>,<>Software Quality Assurance Engineers and Testers</>,<> knowledge of manual and automated software test processes Experience developing test processes Solid ... </>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3J7JR65Q19BG9X5Z80</>,<>https://api.careerbuilder.com/v1/job?DID=J3J7JR65Q19BG9X5Z80&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>MI - Mason</>,<>42.5815</>,<>-84.4525</>,<>7/17/2014 12:59:50 AM</>,<>7/17/2014 12:59:50 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3J7JR65Q19BG9X5Z80</>,<>IT Test Analyst</>,<>IsExternal</>,"<>
+        <Skill>microsoft excel</Skill>
+        <Skill>quality assurance</Skill>
+        <Skill>SAP</Skill>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>POST (HTTP)</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>hp quality center</Skill>
+        <Skill>software testing</Skill>
+        <Skill>performance testing</Skill>
+        <Skill>microsoft powerpoint</Skill>
+        <Skill>hp quicktest professional</Skill>
+        <Skill>hp loadrunner</Skill>
+        <Skill>computer security</Skill>
+        <Skill>data management</Skill>
+      </>"
+<>Robert Half Technology</>,<>cht3vg6lk6nkvvrxlrm</>,<>http://www.careerbuilder.com/jobs/company/cht3vg6lk6nkvvrxlrm/robert-half-technology?sc_cmp1=13_JobRes_ComDet</>,<>J3H4HH6Z27D78ZB3JXL</>,<>15-1099.01</>,<>Software Quality Assurance Engineers and Testers</>,"<> SEND RESUME TO MICHAEL.PALATINI@RHT.COM Job Responsibilities Own the Software QA process, including ...  PLEASE SEND RESUME TO MICHAEL.PALATINI@RHT....</>",</>,<>Contractor</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3H4HH6Z27D78ZB3JXL</>,<>https://api.careerbuilder.com/v1/job?DID=J3H4HH6Z27D78ZB3JXL&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>NJ - Saddle Brook</>,<>40.9035</>,<>-74.0953</>,<>7/21/2014 5:21:18 PM</>,<>7/21/2014 5:21:18 PM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3H4HH6Z27D78ZB3JXL</>,<>QA Automation Tech Lead</>,<>IsExternal</>,"<>
+        <Skill>qa</Skill>
+        <Skill>web development</Skill>
+        <Skill>representational state transfer</Skill>
+        <Skill>quality assurance</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>mobile application development</Skill>
+        <Skill>sdlc</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>hp quicktest professional</Skill>
+        <Skill>sql</Skill>
+        <Skill>system integration</Skill>
+        <Skill>computer security</Skill>
+        <Skill>system testing</Skill>
+      </>"
+<>ManTech International Corporation</>,<>c5h61876tlp6mry761t</>,<>http://www.careerbuilder.com/jobs/company/c5h61876tlp6mry761t/mantech-international-corporation?sc_cmp1=13_JobRes_ComDet</>,<>J3F8C3629MV8BJ33PDG</>,<>15-1099.01</>,<>Software Quality Assurance Engineers and Testers</>,<> on innovative projects that offer opportunities for advancement. The Principal Software Test Engineer ... </>,</>,<>Full-Time</>,<>Not Specified</>,<>Not Specified</>,<>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=US&amp;DID=J3F8C3629MV8BJ33PDG</>,<>https://api.careerbuilder.com/v1/job?DID=J3F8C3629MV8BJ33PDG&amp;HostSite=US&amp;DeveloperKey=WDHL7MB628RRNH2V6WJQ</>,<>VA - Reston</>,<>38.95937</>,<>-77.35457</>,<>7/4/2014 2:25:17 AM</>,<>7/4/2014 2:25:17 AM</>,<>N/A</>,<>http://www.careerbuilder.com/jobs/similarjobs.aspx?ipath=JELO&amp;job_did=J3F8C3629MV8BJ33PDG</>,<>Principal Software Test Engineer</>,<>IsExternal</>,"<>
+        <Skill>quality assurance</Skill>
+        <Skill>web service</Skill>
+        <Skill>svn</Skill>
+        <Skill>database</Skill>
+        <Skill>software development</Skill>
+        <Skill>software testing</Skill>
+        <Skill>performance testing</Skill>
+        <Skill>software design</Skill>
+        <Skill>acceptance testing</Skill>
+        <Skill>starteam</Skill>
+        <Skill>sql</Skill>
+        <Skill>computer security</Skill>
+        <Skill>configuration management</Skill>
+        <Skill>integration testing</Skill>
+        <Skill>jira</Skill>
+      </>"
