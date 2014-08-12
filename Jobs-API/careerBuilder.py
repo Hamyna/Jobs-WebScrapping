@@ -8,7 +8,6 @@ from xml.etree import ElementTree as ET
 from optparse import OptionParser
 from xml.dom.minidom import parseString
 
-
 def get_jobPosting():
     headers = ['Company', 'CompanyDID', 'CompanyDetailsURL', 'DID', 'OnetCode', 'ONetFriendlyTitle',
                'DescriptionTeaser', 'Distance', 'EmploymentType', 'EducationRequired',
@@ -16,7 +15,6 @@ def get_jobPosting():
                'LocationLongitude', 'PostedTime', 'Pay', 'SimilarJobsURL', 'JobTitle', 'ApplyRequirement',
                'Skills']
     # create a list with headings for our columns
-    #
     outfile_path = '/home/hamyna/Documents/Git/BullFrogIT/Jobs-WebScrapping/Results/CareerBuilder/jobpostings-careerBuild.csv'
     # open it up, the w means we will write to it
     writer = csv.writer(open(outfile_path, 'wb'))
